@@ -1,0 +1,24 @@
+<section class="image-section" style="background-color: {{ page.hero_color }}">
+    {% for image in images %}
+        <div class="
+            image
+            {% if image.width %}
+                {% unless image.height %}
+                    caption-on-side
+                {% endunless %}
+                {% if image.height and image.width > image.height %}
+                    caption-on-side
+                {% endif %}
+            {% endif %}
+        " style="
+            {% if image.height %}grid-row-end: span {{ image.height }};{% endif %}
+            {% if image.width %}grid-column-end: span {{ image.width }};{% endif %}
+        ">
+            <img src="{{ image.photo }}">
+            {% capture image_content %}{{ image.content | strip | strip_newlines }}{% endcapture %}
+            {% if image_content != "" %}
+            <div class="image-caption">{{ image.content }}</div>
+            {% endif %}
+        </div>
+    {% endfor %}
+</section>

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="theme-story" {% if page.hero_color %}style="border-right-color: {{ page.hero_color }}; border-bottom-color: {{ page.hero_color }};"{% endif %}>
+    {% if page.hero_color or page.hero_images %}
+        <section class="hero" style="background-color: {{ page.hero_color }};">
+            {% for image in page.hero_images %}
+                <img src="{{ image }}">
+            {% endfor %}
+        </section>
+    {% endif %}
+    <section class="title-section {% if page.hero_color or page.hero_images %}with-hero{% endif %}" style="background-color: {{ page.hero_color }};">
+        <h1>{{ page.title }}</h1>
+    </section>
+    {{ content }}
+</article>

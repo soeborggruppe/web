@@ -1,0 +1,169 @@
+---
+layout: default
+---
+<style>
+    /*.small-header:before {
+        content: ' ';
+        width: 400px;
+        height: 600px;
+        background: rgba(255, 255, 255, 1);
+        position: absolute;
+        left: -315px;
+        top: 0px;
+        transform: skewX(-38deg);
+        z-index: -1;
+    }*/
+    .afdeling-page {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .afdeling-header {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        align-items: flex-end;
+    }
+    .hero-image {
+        width: calc(300px + 50%);
+        background-position: center;
+        background-size: cover;
+        background-blend-mode: hard-light;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        box-sizing: border-box;
+        min-height: 575px;
+    }
+    .hero-image:before {
+        content: ' ';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: black;
+        opacity: 0.8;
+        display: none;
+    }
+    .hero-image img {
+        z-index: 4;
+        box-shadow: 0 0 4px rgba(0,0,0,0.3), 0 0 30px rgba(0,0,0,0.3);
+        max-width: 100%;
+        max-height: 100%;
+        display: none;
+    }
+    .afdeling-info {
+        box-sizing: border-box;
+        width: calc(50% - 300px);
+        font-family: 'Krub', sans-serif;
+        padding: 15px;
+        padding-top: 75px;
+        display: flex;
+        flex-direction: column;
+    }
+    .afdeling-info .info-item:not(:last-child) {
+        margin-bottom: 15px;
+    }
+    .afdeling-info .info-label {
+        font-weight: bold;
+        font-size: 0.75em;
+        text-transform: uppercase;
+    }
+
+    .afdeling-description {
+        box-sizing: border-box;
+        margin-top: 60px;
+        max-width: 600px;
+        width: 100%;
+    }
+    .afdeling-description h1 {
+        font-size: 2.2em;
+    }
+
+    .afdeling-extras {
+        max-width: 630px;
+        box-sizing: border-box;
+        background: rgb(220, 220, 220);
+        margin-top: 50px;
+        font-family: 'Krub', sans-serif;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-bottom: -100px;
+    }
+    .afdeling-extras h1 {
+        font-size: 1.2em;
+        padding-top: 15px;
+    }
+    .afdeling-extras ul {
+        padding-left: 15px;
+    }
+    .extra-category {
+        padding: 12px 25px;
+        min-width: 33%;
+        box-sizing: border-box;
+    }
+</style>
+<div class="afdeling-page">
+    <div class="afdeling-header">
+        <div class="hero-image" style="background-image: url('{{ page.hero_image }}');">
+            <img src="{{ page.hero_image }}">
+        </div>
+        <div class="afdeling-info">
+            {% if page.age_group %}
+            <div class="info-item">
+                <div class="info-label">Aldersgruppe</div>
+                <div class="info-value">{{ page.age_group }}</div>
+            </div>
+            {% endif %}
+            {% if page.meeting_time %}
+            <div class="info-item">
+                <div class="info-label">Mødetid og -dag</div>
+                <div class="info-value">{{ page.meeting_time }}</div>
+            </div>
+            {% endif %}
+            {% if page.contact_email %}
+            <div class="info-item">
+                <div class="info-label">Email</div>
+                <div class="info-value">
+                    <a href="mailto:{{ page.contact_email }}">{{ page.contact_email }}</a>
+                </div>
+            </div>
+            {% endif %}
+            {% if page.leaders %}
+            <div class="info-item">
+                <div class="info-label">Ledere</div>
+                {% for leader in page.leaders %}
+                <div class="info-value">{{ leader }}</div>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+    <article class="afdeling-description">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+    </article>
+    <div class="afdeling-extras">
+        {% if page.files %}
+        <div class="extra-category">
+            <h1>Dokumenter og filer</h1>
+            <ul>
+            {% for file in page.files %}
+                <li><a href="{{ file.link }}">{{ file.name }}</a></li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+        <div class="extra-category">
+            <h1>Andre links</h1>
+            <ul>
+                <li><a href="https://medlem.dds.dk/member/memberlist/{{ page.address_list_code }}">Adresseliste</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

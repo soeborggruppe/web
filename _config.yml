@@ -1,0 +1,9 @@
+collections:
+  afdelinger:
+    output: true
+    permalink: /:slug/
+    layout: afdeling
+  gamle_billeder:
+    output: false
+  tidligere_spejder_billeder:
+    output: false

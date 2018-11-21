@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf8">
+        <title>{% if page.title %}{{ page.title }} | {% endif %}1. Søborg Gruppes Museum</title>
+        <link href="https://fonts.googleapis.com/css?family=Krub|Merriweather" rel="stylesheet"> 
+        <style>
+            body {
+                font-family: 'Merriweather', serif;
+                margin: 0;
+                overflow-x: hidden;
+                max-width: 100vw;
+            }
+            h1, h2, h3, h4, h5, h6 {
+                margin: 0;
+            }
+            p, ul, ol {
+                margin-top: 1.25em;
+                margin-bottom: 1.25em;
+                line-height: 160%;
+            }
+            ul, ol {
+                padding-left: 0;
+            }
+            .nav-button {
+                position: fixed;
+                top: 0;
+                right: 0;
+                width: 45px;
+                height: 45px;
+                background-image: url('/icons/menu.png');
+                background-size: contain;
+                margin: 10px;
+                opacity: 0.2;
+                transition: opacity 0.4s;
+                cursor: pointer;
+                z-index: 400;
+            }
+            .nav-button:hover {
+                opacity: 0.6;
+            }
+            .nav-button.nav-open {
+                background-image: url('/icons/close.png');
+            }
+            @keyframes fadeIn {
+                0% { opacity: 0; }
+                100% { opacity: 1; }
+            }
+            .site-nav {
+                position: fixed;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                text-align: center;
+                background: white;
+                font-size: 3em;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                font-family: 'Krub', sans-serif;
+                display: none;
+                animation: fadeIn 0.4s;
+                z-index: 100;
+            }
+            .site-nav a {
+                text-decoration: inherit;
+                color: rgb(60, 60, 60);
+                display: block;
+                margin: 5px;
+            }
+            .site-nav.shown {
+                display: flex;
+            }
+            .bigheader {
+                text-align: center;
+                padding: 75px;
+                font-size: 1.2em;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+            }
+            .bigheader img {
+                height: 100px;
+            }
+            .bigheader .header-text {
+                margin: 0 175px;
+            }
+            .bigheader h1, header h2 {
+                margin: 0;
+            }
+            .small-header {
+                padding: 15px;
+                position: absolute;
+                top: 0;
+                left: 0;
+                background: white;
+                z-index: 100;
+                display: inline-block;
+            }
+            .small-header-logo-link {
+                text-decoration: inherit;
+                color: inherit;
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                position: relative;
+                z-index: 2;
+                padding-right: 1em;
+            }
+            .small-header-logo {
+                width: 50px;
+                margin-right: 20px;
+            }
+            .theme-story {
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+                align-items: center;
+                border: 20px solid transparent;
+                padding-bottom: 111px;
+                margin-bottom: -111px;
+            }
+            .theme-story .hero {
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                height: 450px;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: stretch;
+                padding: 0 10px;
+            }
+            .theme-story .hero img {
+                margin: 20px 10px;
+                flex-shrink: 1;
+                flex-grow: 1;
+                object-fit: cover;
+                overflow: hidden;
+            }
+            .theme-story .hero:before {
+                content: '';
+                position: absolute;
+                left: 0;
+                top: 0;
+                height: 450px;
+                background: white;
+                width: 40px;
+            }
+            .title-section {
+                font-size: 1.2em;
+                text-align: center;
+                max-width: 900px;
+                padding: 15px 20px 10px;
+                z-index: 2;
+                margin-top: 150px;
+                margin-bottom: 75px;
+            }
+            .title-section.with-hero {
+                margin-top: 375px;
+            }
+            .title-section h1 {
+                font-size: 3em;
+                margin: 0;
+            }
+            .separator-img {
+                height: 100px;
+            }
+            .separator-img-big {
+                height: 135px;
+            }
+            .text-section {
+                max-width: 650px;
+                font-size: 1.15em;
+                margin: 28px 0;
+            }
+            .text-section h1 {
+                font-size: 1.5em;
+                font-family: "Krub", sans-serif;
+            }
+            .image-section {
+                margin: 50px 0;
+                padding: 20px;
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr;
+                grid-gap: 20px;
+                width: 100%;
+                grid-auto-flow: dense;
+                grid-auto-rows: 300px;
+            }
+            .image-section .image {
+                position: relative;
+                display: flex;
+                flex-direction: column;
+                align-items: stretch;
+                justify-content: space-around;
+            }
+            .image-section .caption-on-side {
+                flex-direction: row;
+            }
+            .image-section .image img {
+                width: 100%;
+                flex-basis: 100%;
+                flex-shrink: 1;
+                flex-grow: 1;
+                object-fit: cover;
+                object-position: center center;
+                overflow: hidden;
+            }
+            .image-section .image .image-caption {
+                background: rgb(236, 237, 232);
+                flex-shrink: 0;
+                flex-grow: 0;
+                font-size: 0.7em;
+                padding: 10px;
+                box-sizing: border-box;
+            }
+            .image-section .image.caption-on-side .image-caption {
+                min-width: 190px;
+                max-width: 250px;
+            }
+            footer {
+                margin-top: 160px;
+                background: rgb(0, 51, 102);
+                color: white;
+                font-family: 'Krub', sans-serif;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: relative;
+                z-index: 150;
+            }
+            footer:before {
+                content: '';
+                width: 100%;
+                height: 160px;
+                position: absolute;
+                top: -90px;
+                background: rgb(0, 51, 102);
+                transform: skewY(3deg);
+                z-index: -1;
+            }
+            footer div {
+                margin: 40px 20px 40px;
+            }
+            footer a {
+                color: inherit;
+            }
+            .footer-logo {
+                height: 50px;
+            }
+            aside {
+                margin: 40px 0;
+                max-width: 650px;
+                background: rgb(235, 235, 235);
+                padding: 15px;
+                padding-left: 135px;
+                box-sizing: border-box;
+                position: relative;
+                font-family: "Krub", sans-serif;
+            }
+            aside:before {
+                content: '';
+                height: 100%;
+                display: block;
+                position: absolute;
+                left: 0;
+                top: 0;
+                bottom: 0;
+                width: 120px;
+                background-image: url("/img/flagger.jpg");
+                background-size: cover;
+                background-position: center right;
+            }
+            .side-by-side-section {
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+            }
+            .main-text {
+                margin: 15px;
+                max-width: 550px;
+                font-size: 1.2em;
+            }
+            .side-bar {
+                padding: 0 15px;
+                margin: 15px;
+                max-width: 400px;
+                font-family: "Krub", sans-serif;
+                box-sizing: border-box;
+                font-size: 0.9em;
+                position: relative;
+                z-index: 1;
+            }
+            .side-bar img {
+                width: 100%;
+            }
+            .side-bar-art {
+                background: rgba(0,0,0,0.02);
+                width: 600px;
+                height: 500px;
+                position: absolute;
+                z-index: -1;
+                left: calc(100% - 250px);
+                transform: skewX(20deg) skewY(10deg);
+            }
+            .side-bar-art:before {
+                content: '';
+                background: rgba(0,0,0,0.02);
+                width: 250px;
+                height: 400px;
+                position: absolute;
+                z-index: -1;
+                top: -100px;
+                left: 325px;
+                transform: skewX(-25deg) skewY(-50deg);
+            }
+            .collection-previews {
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: center;
+                align-items: stretch;
+                margin: 50px 0;
+            }
+            .collection-preview {
+                max-width: 450px;
+                font-size: 0.9em;
+                margin: 10px;
+                width: 100%;
+                flex-shrink: 1;
+                background: #CAD3C8;
+                padding: 10px;
+                box-sizing: border-box;
+                text-decoration: none;
+                color: inherit;
+            }
+            .collection-preview h1 {
+                font-size: 1.3em;
+                margin: 0.5em 0;
+            }
+            .collection-preview .photo-previews {
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: stretch;
+                margin: 5px 0;
+                height: 150px;
+            }
+            .collection-preview img {
+                object-fit: cover;
+                object-position: center center;
+                overflow: hidden;
+                flex-shrink: 1;
+                flex-grow: 1;
+                margin: 2px;
+            }
+            .collection-preview p.link-appearing {
+                text-decoration: underline;
+                margin-bottom: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <a class="nav-button"></a>
+        <nav class="site-nav">
+            <a href="/">Forside</a>
+            <a href="/historie/">Gruppens historie</a>
+            <a href="/tidligere-spejder/">Tidligere spejder</a>
+            <a href="/gamle-billeder/">Gamle billeder</a>
+        </nav>
+        <script>
+            (function() {
+                var siteNav = document.querySelector(".site-nav");
+                document.querySelector(".nav-button").addEventListener("click", function(e) {
+                    if(this.classList.contains("nav-open")) {
+                        this.classList.remove("nav-open");
+                        siteNav.classList.remove("shown");
+                        return;
+                    }
+                    
+                    this.classList.add("nav-open");
+                    siteNav.classList.add("shown");
+                });
+            })();
+        </script>
+        {% unless page.hide_default_header %}
+            <header class="small-header">
+                <a href="/" class="small-header-logo-link">
+                    <img class="small-header-logo" src="/logo.png">
+                    <span>1. Søborg Gruppe</span>
+                </a>
+            </header>
+        {% endunless %}
+        {{ content }}
+        <footer>
+            <div>
+                <a href="http://soeborggruppe.dk"><img class="footer-logo" src="/logo-white.gif"></a>
+            </div>
+            <div>
+                1. Søborg Gruppe<br>
+                Maglestien 9-11<br>
+                2860 Søborg<br>
+                <a href="mailto:gl@soeborggruppe.dk">gl@soeborggruppe.dk</a>
+            </div>
+            <div>
+                En spejdergruppe i Det Danske Spejderkorps<br>
+                Altid kæmpende &ndash; undertiden slagen &ndash; aldrig modløs<br>
+                <br>
+                <a href="https://dds.dk">dds.dk</a>
+                <a href="https://spejder.dk">spejder.dk</a>
+            </div>
+            <div>
+                <a href="https://dds.dk"><img class="footer-logo" src="/dds-logo-white.png"></a>
+            </div>
+        </footer>
+    </body>
+</html>

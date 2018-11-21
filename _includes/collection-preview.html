@@ -1,0 +1,10 @@
+<a class="collection-preview" href="{{ include.link }}" {% if include.color %}style="background-color: {{ include.color }};"{% endif %}>
+    <h1>{{ include.title }}</h1>
+    <div class="photo-previews">
+        {% for image in preview_collection | limit: 2 %}
+            <img src="{{ image.photo }}">
+        {% endfor %}
+    </div>
+    <p>{{ include.text }}</p>
+    <p class="link-appearing">Gå til udstillingen.</p>
+</a>
