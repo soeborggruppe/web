@@ -212,6 +212,41 @@
                 background: white;
                 width: 40px;
             }
+            @media (max-width: 1200px) {
+                .theme-story .hero img:nth-child(1n+4) {
+                    display: none;
+                }
+            }
+            @media (max-width: 850px) {
+                .theme-story {
+                    border-width: 10px;
+                }
+                .theme-story .text-section {
+                    padding-left: 5px;
+                    padding-right: 5px;
+                }
+                .theme-story .hero:before {
+                    width: 20px;
+                }
+                .theme-story .hero img:nth-child(1n+3) {
+                    display: none;
+                }
+            }
+            @media (max-width: 550px) {
+                .theme-story .hero img:nth-child(1n+2) {
+                    display: none;
+                }
+            }
+            @media (max-width: 500px) {
+                .theme-story {
+                    font-size: 0.9em;
+                }
+            }
+            @media (max-width: 380px) {
+                .theme-story {
+                    font-size: 0.8em;
+                }
+            }
             .title-section {
                 font-size: 1.2em;
                 text-align: center;
@@ -230,6 +265,8 @@
             }
             .separator-img {
                 height: 100px;
+                max-width: 100%;
+                object-fit: contain;
             }
             .separator-img-big {
                 height: 135px;
@@ -283,6 +320,29 @@
             .image-section .image.caption-on-side .image-caption {
                 min-width: 190px;
                 max-width: 250px;
+            }
+            @media (max-width: 1100px) {
+                .image-section {
+                    grid-template-columns: 1fr 1fr 1fr;
+                }
+            }
+            @media (max-width: 880px) {
+                .image-section {
+                    grid-template-columns: 1fr 1fr;
+                }
+            }
+            @media (max-width: 500px) {
+                .image-section {
+                    grid-template-columns: 1fr;
+                }
+                .image-section .image {
+                    grid-column: span 1 !important;
+                    flex-direction: column;
+                }
+                .image-section .image.caption-on-side .image-caption {
+                    min-width: none;
+                    max-width: none;
+                }
             }
             footer {
                 margin-top: 160px;
@@ -354,6 +414,15 @@
                 background-image: url("/img/flagger.jpg");
                 background-size: cover;
                 background-position: center right;
+            }
+            @media (max-width: 650px) {
+                aside {
+                    padding: 15px;
+                    margin: 40px -10px;
+                }
+                aside:before {
+                    display: none;
+                }
             }
             .side-by-side-section {
                 display: flex;
