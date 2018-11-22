@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="utf8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{% if page.title %}{{ page.title }} | {% endif %}1. Søborg Gruppes Museum</title>
         <link href="https://fonts.googleapis.com/css?family=Krub|Merriweather" rel="stylesheet"> 
         <style>
@@ -87,8 +88,69 @@
             .bigheader .header-text {
                 margin: 0 175px;
             }
+            .bigheader .separator:before {
+                content: '—';
+            }
             .bigheader h1, header h2 {
                 margin: 0;
+            }
+            @media (max-width: 1475px) {
+                .bigheader {
+                    font-size: 1em;
+                    justify-content: space-between;
+                }
+                .bigheader .header-text {
+                    margin: 0 20px;
+                }
+            }
+            @media (max-width: 1150px) {
+                .bigheader {
+                    padding: 75px 40px;
+                }
+            }
+            @media (max-width: 1000px) {
+                .bigheader {
+                    font-size: 0.85em;
+                }
+                .bigheader img {
+                    height: 75px;
+                }
+            }
+            @media (max-width: 900px) {
+                .bigheader h2 {
+                    font-size: 1.2em;
+                }
+            }
+            @media (max-width: 725px) {
+                .bigheader .group-word {
+                    display: none;
+                }
+                .bigheader h2 {
+                    padding: 15px 5px;
+                    line-height: 150%;
+                }
+                .bigheader .separator:before {
+                    content: '';
+                    display: block;
+                }
+            }
+            @media (max-width: 550px) {
+                .bigheader {
+                    padding: 75px 15px 50px;
+                }
+            }
+            @media (max-width: 500px) {
+                .bigheader h2 {
+                    display: none;
+                }
+            }
+            @media (max-width: 380px) {
+                .bigheader {
+                    font-size: 0.75em;
+                }
+                .bigheader img {
+                    height: 60px;
+                }
             }
             .small-header {
                 padding: 15px;
@@ -244,13 +306,31 @@
                 z-index: -1;
             }
             footer div {
-                margin: 40px 20px 40px;
+                margin: 30px 10px 30px;
+                padding: 10px;
+                box-sizing: border-box;
             }
             footer a {
                 color: inherit;
             }
             .footer-logo {
                 height: 50px;
+            }
+            @media (max-width: 850px) {
+                footer {
+                    flex-direction: column;
+                    padding-bottom: 40px;
+                }
+
+                footer div {
+                    margin: 10px;
+                    width: 430px;
+                }
+            }
+            @media (max-width: 440px) {
+                footer div {
+                    width: 100%;
+                }
             }
             aside {
                 margin: 40px 0;
@@ -280,6 +360,7 @@
                 flex-direction: row;
                 justify-content: center;
                 align-items: center;
+                overflow: hidden;
             }
             .main-text {
                 margin: 15px;
@@ -318,6 +399,16 @@
                 top: -100px;
                 left: 325px;
                 transform: skewX(-25deg) skewY(-50deg);
+            }
+            @media (max-width: 750px) {
+                .side-by-side-section {
+                    flex-wrap: wrap;
+                }
+            }
+            @media (max-width: 380px) {
+                .main-text {
+                    font-size: 1.05em;
+                }
             }
             .collection-previews {
                 display: flex;
