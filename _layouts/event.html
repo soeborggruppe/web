@@ -1,0 +1,13 @@
+---
+layout: event-container
+---
+{% assign event = page %}
+<section class="event-section">
+    {% include event-datetime.html %}
+    <h1>{{ page.title }}</h1>
+
+    {{ page.content }}
+
+    {% include event-signup-link.html %}
+    {% include event-tags.html %}
+</section>

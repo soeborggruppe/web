@@ -1,0 +1,23 @@
+---
+layout: event-container
+---
+<!-- somehow find current time, render upcoming events -->
+<!-- let you filter based on tags, let you look at entire months or years or move to another day -->
+
+{% for event in site.events %}
+<section class="event-section">
+    {% include event-datetime.html %}
+    <h1><a href="{{ event.url }}">{{ event.title }}</a></h1>
+
+    {% assign content_no_whitespace = event.content | strip_newlines | trim %}
+    {% if content_no_whitespace.length %}
+    <p>
+        {% assign paragraphs = event.content | split: '</p>' %}
+        {{ paragraphs[0] | strip_html | truncate: 50 }}
+    </p>
+    {% endif %}
+
+    {% include event-signup-link.html %}
+    {% include event-tags.html %}
+</section>
+{% endfor %}

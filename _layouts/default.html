@@ -538,6 +538,82 @@
                 text-decoration: underline;
                 margin-bottom: 0;
             }
+            .event-container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                margin: 80px 0;
+            }
+            .event-container:before {
+                content: '';
+                width: 100%;
+                height: 250px;
+                background: #a4f2de;
+                position: fixed;
+                top: 120px;
+                transform: skewY(-7deg);
+                z-index: -1;
+            }
+            .event-section {
+                width: 100%;
+                max-width: 600px;
+                padding: 15px;
+                box-shadow: 0 0 3px rgb(0,0,0,0.3);
+                background: white;
+                margin: 5px 0;
+            }
+            .event-section h1 {
+                font-family: 'Krub', sans-serif;
+            }
+            .event-section h1 a {
+                color: inherit;
+                text-decoration: inherit;
+            }
+            .event-section h2 {
+                font-family: 'Krub', sans-serif;
+                text-transform: uppercase;
+                font-weight: normal;
+                font-size: 0.7em;
+            }
+            .event-datetime {
+                font-family: 'Krub', sans-serif;
+            }
+            .event-signup-link {
+                background: #55E6C1;
+                padding: 20px 15px;
+                display: inline-block;
+                text-decoration: none;
+                color: black;
+                font-family: 'Krub', sans-serif;
+                font-weight: bold;
+                margin: 20px 0;
+            }
+            .event-tags {
+                margin-top: 5px;
+            }
+            .event-tag {
+                display: inline-block;
+                z-index: 2;
+                color: white;
+                font-family: 'Krub', sans-serif;
+                position: relative;
+                text-decoration: none;
+                font-size: 0.8em;
+                box-sizing: border-box;
+                padding: 5px;
+            }
+            .event-tag:before {
+                content: '';
+                z-index: -1;
+                background: #182C61;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                transform: skewX(-10deg);
+            }
         </style>
     </head>
     <body>

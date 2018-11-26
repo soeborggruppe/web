@@ -1,0 +1,6 @@
+{% if event.signup_link %}
+<a href="{{ event.signup_link}}" target="_blank" rel="noopener" class="event-signup-link">
+    {% assign signup_link_parts = event.signup_link | split: '/' %}
+    Tilmeld dig via {{ signup_link_parts[2] | replace: "www.", "" }}
+</a>
+{% endif %}

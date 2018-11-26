@@ -1,0 +1,9 @@
+<div class="event-datetime">
+    {{ event.date_start }}
+    {% if event.date_start != event.date_end %}
+        kl. {{ event.time_start }}
+        - {{ event.date_end }} kl. {{ event.time_end }}
+    {% else %}
+        kl. {{ event.time_start }} - {{ event.time_end }}
+    {% endif %}
+</div>
