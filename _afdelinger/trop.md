@@ -1,7 +1,6 @@
 ---
 title: Troppen
 hero_image: /img/trop.jpg
-layout: afdeling
 age_group: 6. - 9. klasse 
 meeting_time: Tirsdag kl. 19-21
 contact_email: tl@soeborggruppe.dk
