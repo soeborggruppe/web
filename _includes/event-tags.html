@@ -1,0 +1,5 @@
+<div class="event-tags">
+    {% for tag in event.tags %}
+        <a href="/tag/{{ tag }}" class="event-tag">{{ tag }}</a>
+    {% endfor %}
+</div>

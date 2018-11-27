@@ -2,8 +2,67 @@ collections:
   afdelinger:
     output: true
     permalink: /:slug/
-    layout: afdeling
+  events:
+    output: true
+    permalink: /kalender/:path/
   gamle_billeder:
     output: false
   tidligere_spejder_billeder:
     output: false
+  calendar_years:
+    output: true
+    permalink: /kalender/:slug/
+
+defaults:
+ - 
+  scope:
+    type: afdelinger
+  values:
+    layout: afdeling
+ -
+  scope:
+    type: events
+  values:
+    layout: event
+ -
+  scope:
+    type: calendar_years
+  values:
+    layout: calendar-year
+    months:
+      - 
+        name: januar
+        mm: "01"
+      -
+        name: februar
+        mm: "02"
+      -
+        name: marts
+        mm: "03"
+      -
+        name: april
+        mm: "04"
+      -
+        name: maj
+        mm: "05"
+      -
+        name: juni
+        mm: "06"
+      -
+        name: juli
+        mm: "07"
+      -
+        name: august
+        mm: "08"
+      -
+        name: september
+        mm: "09"
+      -
+        name: oktober
+        mm: "10"
+      -
+        name: november
+        mm: "11"
+      -
+        name: december
+        mm: "12"

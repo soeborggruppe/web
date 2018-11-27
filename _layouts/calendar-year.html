@@ -1,0 +1,100 @@
+---
+layout: default
+---
+<!-- let you filter based on tags, let you look at entire months or years or move to another day -->
+
+{% assign year = page.slug %}
+<section class="calendar-year-section">
+    <script>
+        var currentYear;
+        var currentMonth;
+        var currentDate;
+
+        (function() {
+            var now = new Date();
+            currentYear = now.getFullYear();
+            currentMonth = now.getMonth() + 1;
+            currentDate = now.getDate();
+        })();
+
+        var hiddenMonths = [];
+
+        function hideMonth(monthStr) {
+            var month = document.querySelector("[data-month='" + monthStr + "']");
+            month.setAttribute("style", "display: none; opacity: 0;");
+            hiddenMonths.push({ str: monthStr, el: month });
+            document.querySelector(".previous-month-loader").setAttribute("style", "display: block;");
+        }
+
+        function showPreviousMonth() {
+            var monthToLoad = hiddenMonths.pop();
+            monthToLoad.el.setAttribute("style", "opacity: 0;");
+            setTimeout(function() {
+                monthToLoad.el.setAttribute("style", "");
+            }, 100);
+            
+            if(hiddenMonths.length < 1) {
+                document.querySelector(".previous-month-loader").setAttribute("style", "display: none;");
+            }
+        }
+    </script>
+    <h1>
+        <select id="calendar-year-selector">
+            {% for otherYear in site.calendar_years %}
+                <option
+                    value="{{ otherYear.slug }}"
+                    {% if otherYear.slug == year %}selected{% endif %}
+                >
+                    {{ otherYear.slug }}
+                </option>
+            {% endfor %}
+        </select>
+        <script>
+            (function() {
+                document.getElementById("calendar-year-selector").addEventListener("change", function(e) {
+                    location.pathname = "/kalender/" + this.value + "/";
+                });
+            })();
+        </script>
+    </h1>
+    <button class="previous-month-loader" onclick="showPreviousMonth()" style="display: none">Vis tidligere events</button>
+    {% for month in page.months %}
+        <div class="calendar-month" data-month="{{ month.mm }}">
+            <h2>{{ month.name | capitalize }}</h2>
+            {% assign sorted_events = site.events | sort: 'time_start' | sort: 'date_start' %}
+            {% assign any_events_in_month = false %}
+            {% for event in sorted_events %}
+                {% assign event_start_date_parts = event.date_start | split: "-" %}
+                {% assign event_end_date_parts   = event.date_end   | split: "-" %}
+                {% if event_start_date_parts[0] == year or event_end_date_parts[0] == year %}
+                    {% if event_start_date_parts[1] == month.mm or event_end_date_parts[1] == month.mm %}
+                        {% assign any_events_in_month = true %}
+                        <a class="event-brief" href="{{ event.url }}">
+                            <span class="event-datetime">
+                                d. {{ event_start_date_parts[2] }}.
+                                kl. {{ event.time_start }}
+                            </span>
+                            <span class="event-title">
+                                {{ event.title }}
+                            </span>
+                        </a>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            {% unless any_events_in_month %}
+                <div class="no-events-banner">Ingen events denne måned.</div>
+            {% endunless %}
+        </div>
+        <script>
+            (function() {
+                if(currentYear != "{{ year }}") {
+                    return;
+                }
+
+                if(currentMonth > parseInt("{{ month.mm }}")) {
+                    hideMonth("{{ month.mm }}");
+                }
+            })();
+        </script>
+    {% endfor %}
+</section>

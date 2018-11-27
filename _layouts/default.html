@@ -11,6 +11,11 @@
                 margin: 0;
                 overflow-x: hidden;
                 max-width: 100vw;
+                display: flex;
+                flex-direction: column;
+                min-height: 100vh;
+                box-sizing: border-box;
+                justify-content: space-between;
             }
             h1, h2, h3, h4, h5, h6 {
                 margin: 0;
@@ -532,6 +537,146 @@
             .collection-preview p.link-appearing {
                 text-decoration: underline;
                 margin-bottom: 0;
+            }
+            .event-container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                margin: 80px 0;
+            }
+            .event-container:before {
+                content: '';
+                width: 100%;
+                height: 250px;
+                background: #a4f2de;
+                position: fixed;
+                top: 120px;
+                transform: skewY(-7deg);
+                z-index: -1;
+            }
+            .event-section {
+                width: 100%;
+                max-width: 600px;
+                padding: 15px;
+                box-shadow: 0 0 3px rgb(0,0,0,0.3);
+                background: white;
+                margin: 5px 0;
+            }
+            .event-section h1 {
+                font-family: 'Krub', sans-serif;
+            }
+            .event-section h1 a {
+                color: inherit;
+                text-decoration: inherit;
+            }
+            .event-section h2 {
+                font-family: 'Krub', sans-serif;
+                text-transform: uppercase;
+                font-weight: normal;
+                font-size: 0.7em;
+            }
+            .event-datetime {
+                font-family: 'Krub', sans-serif;
+            }
+            .event-signup-link {
+                background: #55E6C1;
+                padding: 20px 15px;
+                display: inline-block;
+                text-decoration: none;
+                color: black;
+                font-family: 'Krub', sans-serif;
+                font-weight: bold;
+                margin: 20px 0;
+            }
+            .event-tags {
+                margin-top: 5px;
+            }
+            .event-tag {
+                display: inline-block;
+                z-index: 2;
+                color: white;
+                font-family: 'Krub', sans-serif;
+                position: relative;
+                text-decoration: none;
+                font-size: 0.8em;
+                box-sizing: border-box;
+                padding: 5px;
+            }
+            .event-tag:before {
+                content: '';
+                z-index: -1;
+                background: #182C61;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                transform: skewX(-10deg);
+            }
+            .calendar-year-section {
+                display: flex;
+                align-items: center;
+                margin: 50px 0 100px;
+                flex-direction: column;
+            }
+            .calendar-year-section h1 {
+                font-size: 3em;
+                margin: 15px 0;
+            }
+            .calendar-year-section h1 select {
+                font-family: inherit;
+                font-size: inherit;
+                font-weight: inherit;
+                padding: 5px 10px 5px 20px;
+            }
+            .calendar-year-section h2 {
+                font-family: 'Krub', sans-serif;
+                font-weight: normal;
+            }
+            .calendar-year-section .calendar-month {
+                width: 100%;
+                max-width: 600px;
+                margin-bottom: 20px;
+                transition: 0.4s opacity;
+            }
+            .event-brief {
+                display: block;
+                text-decoration: inherit;
+                color: inherit;
+                display: flex;
+                align-items: flex-start;
+                justify-content: flex-start;
+                margin: 12px 0;
+            }
+            .event-brief .event-datetime {
+                font-size: 0.8em;
+                width: 110px;
+                flex-shrink: 0;
+                padding: 4px 1px;
+                box-sizing: border-box;
+            }
+            .previous-month-loader {
+                display: block;
+                padding: 10px 30px;
+                border: none;
+                background: #D6A2E8;
+                cursor: pointer;
+                margin: 10px 0 30px;
+                font-family: 'Krub', sans-serif;
+                font-size: 1em;
+                transition: 0.2s background-color;
+            }
+            .previous-month-loader:hover {
+                background: #f4d6ff;
+            }
+            .no-events-banner {
+                background: rgb(250, 250, 250);
+                padding: 10px;
+                text-align: center;
+                font-family: 'Krub', sans-serif;
+                font-size: 0.7em;
+                color: rgb(100, 100, 100);
             }
         </style>
     </head>
