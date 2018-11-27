@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<!-- let you filter based on tags, let you look at entire months or years or move to another day -->
+
 {% assign year = page.slug %}
 <section class="calendar-year-section">
     <script>
@@ -36,7 +38,25 @@ layout: default
             }
         }
     </script>
-    <h1>{{ year }}</h1>
+    <h1>
+        <select id="calendar-year-selector">
+            {% for otherYear in site.calendar_years %}
+                <option
+                    value="{{ otherYear.slug }}"
+                    {% if otherYear.slug == year %}selected{% endif %}
+                >
+                    {{ otherYear.slug }}
+                </option>
+            {% endfor %}
+        </select>
+        <script>
+            (function() {
+                document.getElementById("calendar-year-selector").addEventListener("change", function(e) {
+                    location.pathname = "/kalender/" + this.value + "/";
+                });
+            })();
+        </script>
+    </h1>
     <button class="previous-month-loader" onclick="showPreviousMonth()" style="display: none">Vis tidligere events</button>
     {% for month in page.months %}
         <div class="calendar-month" data-month="{{ month.mm }}">
