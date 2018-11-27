@@ -614,6 +614,64 @@
                 bottom: 0;
                 transform: skewX(-10deg);
             }
+            .calendar-year-section {
+                display: flex;
+                align-items: center;
+                margin: 50px 0 100px;
+                flex-direction: column;
+            }
+            .calendar-year-section h1 {
+                font-size: 3em;
+                margin: 15px 0;
+            }
+            .calendar-year-section h2 {
+                font-family: 'Krub', sans-serif;
+                font-weight: normal;
+            }
+            .calendar-year-section .calendar-month {
+                width: 100%;
+                max-width: 600px;
+                margin-bottom: 20px;
+                transition: 0.4s opacity;
+            }
+            .event-brief {
+                display: block;
+                text-decoration: inherit;
+                color: inherit;
+                display: flex;
+                align-items: flex-start;
+                justify-content: flex-start;
+                margin: 12px 0;
+            }
+            .event-brief .event-datetime {
+                font-size: 0.8em;
+                width: 110px;
+                flex-shrink: 0;
+                padding: 4px 1px;
+                box-sizing: border-box;
+            }
+            .previous-month-loader {
+                display: block;
+                padding: 10px 30px;
+                border: none;
+                background: #D6A2E8;
+                cursor: pointer;
+                margin: 10px 0 30px;
+                font-family: 'Krub', sans-serif;
+                font-size: 1em;
+                transition: 0.2s background-color;
+            }
+            .previous-month-loader:hover {
+                background: #f4d6ff;
+            }
+            .no-events-banner {
+                background: rgb(250, 250, 250);
+                padding: 10px;
+                text-align: center;
+                font-family: 'Krub', sans-serif;
+                font-size: 0.7em;
+                color: rgb(100, 100, 100);
+            }
         </style>
     </head>
     <body>
