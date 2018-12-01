@@ -14,7 +14,27 @@
             {% if image.height %}grid-row-end: span {{ image.height }};{% endif %}
             {% if image.width %}grid-column-end: span {{ image.width }};{% endif %}
         ">
-            <img src="{{ image.photo }}">
+            <img
+                srcset="
+                    {{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-400.jpg' }} 400w,
+                    {{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-600.jpg' }} 600w,
+                    {{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-800.jpg' }} 800w,
+                    {{ image.photo | replace: ' ', '%20' }} 1000w
+                "
+                sizes="
+                    {% if image.width == '2' %}
+                    (max-width: 420px) 399px,
+                    (max-width: 1260) 599px,
+                    (max-width: 1660) 799px,
+                    999px
+                    {% else %}
+                    (max-width: 1700px) 399px,
+                    (max-width: 2500px) 599px,
+                    (max-width: 3300px) 799px,
+                    999px
+                    {% endif %}
+                "
+                src="{{ image.photo | replace: ' ', '%20' }}">
             {% capture image_content %}{{ image.content | strip | strip_newlines }}{% endcapture %}
             {% if image_content != "" %}
             <div class="image-caption">{{ image.content }}</div>
