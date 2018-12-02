@@ -56,7 +56,13 @@ async function compressPhotos(paths) {
     await Promise.all(paths.map((path) => {
         imagemin([ path ], { plugins: [ imageminMozjpeg({ quality: 85 }) ] })
             .then((compressedImages) => {
-                console.debug("compressedImages", path, JSON.stringify(compressedImages));
+
+                console.debug(
+                    "compressedImages",
+                    path,
+                    compressedImages.map((img) => `{${Object.keys(img).join(",")}}`.join(";"))
+                );
+
                 let { data } = compressedImages[0];
                 return new Promise((resolve, reject) => {
                     fs.writeFile(path, data, (error) => {
