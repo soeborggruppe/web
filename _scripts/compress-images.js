@@ -60,7 +60,7 @@ async function compressPhotos(paths) {
                 console.debug(
                     "compressedImages",
                     path,
-                    compressedImages.map((img) => `{${Object.keys(img).join(",")}}`.join(";"))
+                    compressedImages.map((img) => `{${Object.keys(img).join(",")}}`).join(";")
                 );
 
                 let { data } = compressedImages[0];
