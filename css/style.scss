@@ -226,7 +226,7 @@ ul, ol {
     width: 40px;
 }
 @media (max-width: 1200px) {
-    .theme-story .hero img:nth-child(1n+4) {
+    .theme-story .hero picture:nth-child(1n+4) {
         display: none;
     }
 }
@@ -241,12 +241,12 @@ ul, ol {
     .theme-story .hero:before {
         width: 20px;
     }
-    .theme-story .hero img:nth-child(1n+3) {
+    .theme-story .hero picture:nth-child(1n+3) {
         display: none;
     }
 }
 @media (max-width: 550px) {
-    .theme-story .hero img:nth-child(1n+2) {
+    .theme-story .hero picture:nth-child(1n+2) {
         display: none;
     }
 }
