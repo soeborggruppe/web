@@ -16,13 +16,13 @@ layout: default
                     sizes="
                         {% if num_hero_images == 3 %}
                         (max-width: 750px) 399px,
-                        (max-width: 1500x) 599px,
-                        (max-width: 2000px) 799px,
+                        ((min-width: 750px) and (max-width: 1500x)) 599px,
+                        ((min-width: 1500px) and (max-width: 2000px)) 799px,
                         999px
                         {% elsif num_hero_images == 4 %}
                         (max-width: 1600px) 399px,
-                        (max-width: 2400px) 599px,
-                        (max-width: 3200px) 799px,
+                        ((min-width: 1600px) and (max-width: 2400px)) 599px,
+                        ((min-width: 2400px) and (max-width: 3200px)) 799px,
                         999px
                         {% endif %}
                     "

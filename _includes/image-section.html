@@ -22,15 +22,15 @@
                     {{ image.photo | replace: ' ', '%20' }} 1000w
                 "
                 sizes="
-                    {% if image.width == '2' %}
+                    {% if image.width == 2 %}
                     (max-width: 420px) 399px,
-                    (max-width: 1260px) 599px,
-                    (max-width: 1660px) 799px,
+                    ((min-width: 420px) and (max-width: 1260px)) 599px,
+                    ((min-width: 1260px) and (max-width: 1660px)) 799px,
                     999px
                     {% else %}
                     (max-width: 1700px) 399px,
-                    (max-width: 2500px) 599px,
-                    (max-width: 3300px) 799px,
+                    ((min-width: 1700px) and (max-width: 2500px)) 599px,
+                    ((min-width: 2500px) and (max-width: 3300px)) 799px,
                     999px
                     {% endif %}
                 "
