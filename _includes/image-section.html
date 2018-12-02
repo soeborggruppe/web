@@ -14,7 +14,18 @@
             {% if image.height %}grid-row-end: span {{ image.height }};{% endif %}
             {% if image.width %}grid-column-end: span {{ image.width }};{% endif %}
         ">
-            <img src="{{ image.photo }}">
+            <picture>
+                {% if image.width == 2 %}
+                    <source media="(min-width: 420px)" srcset="{{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-600.jpg' }}">
+                    <source media="(min-width: 1260px)" srcset="{{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-800.jpg' }}">
+                    <source media="(min-width: 1660px)" srcset="{{ image.photo | replace: ' ', '%20' }}">
+                {% else %}
+                    <source media="(min-width: 1700px)" srcset="{{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-600.jpg' }}">
+                    <source media="(min-width: 2500px)" srcset="{{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-800.jpg' }}">
+                    <source media="(min-width: 3300px)" srcset="{{ image.photo | replace: ' ', '%20' }}">
+                {% endif %}
+                <img src="{{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-400.jpg' }}">
+            </picture>
             {% capture image_content %}{{ image.content | strip | strip_newlines }}{% endcapture %}
             {% if image_content != "" %}
             <div class="image-caption">{{ image.content }}</div>

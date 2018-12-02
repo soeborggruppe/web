@@ -1,0 +1,25 @@
+{
+  "name": "soeborggruppe-museum",
+  "version": "0.1.0",
+  "description": "1. Søborg Gruppe museum website",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm i && node _scripts/compress-images && jekyll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soeborggruppe/web.git"
+  },
+  "author": "Niels Abildgaard <niels@deranged.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soeborggruppe/web/issues"
+  },
+  "homepage": "https://github.com/soeborggruppe/web#readme",
+  "dependencies": {
+    "fast-glob": "^2.2.4",
+    "imagemin": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "jimp": "^0.6.0"
+  }
+}

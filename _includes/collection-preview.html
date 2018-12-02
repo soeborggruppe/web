@@ -2,7 +2,7 @@
     <h1>{{ include.title }}</h1>
     <div class="photo-previews">
         {% for image in preview_collection | limit: 2 %}
-            <img src="{{ image.photo }}">
+            <img src="{{ image.photo | replace: ' ', '%20' | replace: '.jpg', '-resized-400.jpg' }}">
         {% endfor %}
     </div>
     <p>{{ include.text }}</p>
