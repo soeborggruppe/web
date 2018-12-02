@@ -205,10 +205,14 @@ ul, ol {
     align-items: stretch;
     padding: 0 10px;
 }
-.theme-story .hero img {
-    margin: 20px 10px;
+.theme-story .hero picture {
     flex-shrink: 1;
     flex-grow: 1;
+    margin: 20px 10px;
+}
+.theme-story .hero img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     overflow: hidden;
 }
@@ -309,11 +313,15 @@ ul, ol {
 .image-section .caption-on-side {
     flex-direction: row;
 }
-.image-section .image img {
-    width: 100%;
+.image-section .image picture {
     flex-basis: 100%;
     flex-shrink: 1;
     flex-grow: 1;
+    overflow: hidden;
+}
+.image-section .image img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     object-position: center center;
     overflow: hidden;
