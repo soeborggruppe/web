@@ -63,6 +63,11 @@ async function compressPhotos(paths) {
                     compressedImages.map((img) => `{${Object.keys(img).join(",")}}`).join(";")
                 );
 
+                if(!compressedImages.length) {
+                    console.debug("- No images compressed at", path);
+                    return resolve();
+                }
+
                 let { data } = compressedImages[0];
                 return new Promise((resolve, reject) => {
                     fs.writeFile(path, data, (error) => {
