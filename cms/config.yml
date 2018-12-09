@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: soeborggruppe/web
+  branch: cms
+
+collections:
+  - name: events
+    label: Events
+    folder: _events
+    create: true
+    slug: "{{ year }}-{{ slug }}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string" }
+      - {label: "Tags", name: "tags", widget: "select", options: ["Familie", "Mikro", "Mini", "Junior", "Trop", "Skumbaklan", "Vatiklanet", "Peliklan", "Kleptoklan", "Ledergruppen", "Bestyrelsen"] }
+      - {label: "Dato, start", name: "date_start", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Tid, start", name: "time_start", widget: "datetime", format: "HH:MM"}
+      - {label: "Dato, slut", name: "date_end", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Tid, slut", name: "time_end", widget: "datetime", format: "HH:MM"}
+      - {label: "Gruppeweb node ID", name: "old_id", widget: "string"}
+      - {label: "Tilmeldingslink", name: "signup_link", widget: "string"}
+      - {label: "Beskrivelse", name: "body", widget: "markdown"}
+
+media_folder: files
