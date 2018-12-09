@@ -54,4 +54,11 @@ collections:
       - {label: "Tilmeldingslink", name: "signup_link", widget: "string", required: false}
       - {label: "Beskrivelse", name: "body", widget: "markdown"}
 
+  - name: calendar_years
+    label: Kalenderår
+    folder: _calendar_years
+    create: true
+    fields:
+      - {label: "År", name: "slug", widget: "string"}
+
 media_folder: files
