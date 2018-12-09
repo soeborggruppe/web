@@ -62,4 +62,14 @@ collections:
     fields:
       - {label: "År", name: "slug", widget: "string"}
 
+  - name: pages
+    label: Side
+    folder: _pages
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "story"}
+      - {label: "URL", name: "permalink", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Indhold", name: "body", widget: "markdown"}
+
 media_folder: files
