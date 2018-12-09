@@ -34,7 +34,7 @@
                     this.props.field.get("options").map(function(val, index) {
                         return h('li', { key: index },
                             h('label', {}, [
-                                h('input', { type: 'checkbox', defaultChecked: value.includes(val), name: val, onClick: handleChange }),
+                                h('input', { type: 'checkbox', defaultChecked: value && value.includes(val), name: val, onClick: handleChange }),
                                 h('span', {}, val)
                             ])
                         );
