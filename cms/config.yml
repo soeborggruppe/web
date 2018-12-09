@@ -12,10 +12,8 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string" }
       - {label: "Tags", name: "tags", widget: "select", options: ["Familie", "Mikro", "Mini", "Junior", "Trop", "Skumbaklan", "Vatiklanet", "Peliklan", "Kleptoklan", "Ledergruppen", "Bestyrelsen"] }
-      - {label: "Dato, start", name: "date_start", widget: "date", format: "YYYY-MM-DD"}
-      - {label: "Tid, start", name: "time_start", widget: "datetime", format: "HH:MM"}
-      - {label: "Dato, slut", name: "date_end", widget: "date", format: "YYYY-MM-DD"}
-      - {label: "Tid, slut", name: "time_end", widget: "datetime", format: "HH:MM"}
+      - {label: "Start", name: "date_start", widget: "datetime", format: "YYYY-MM-DDTHH:mm:00"}
+      - {label: "Slut", name: "date_end", widget: "datetime", format: "YYYY-MM-DDTHH:mm:00"}
       - {label: "Gruppeweb node ID", name: "old_id", widget: "string"}
       - {label: "Tilmeldingslink", name: "signup_link", widget: "string"}
       - {label: "Beskrivelse", name: "body", widget: "markdown"}
