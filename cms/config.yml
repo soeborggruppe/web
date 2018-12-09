@@ -11,7 +11,10 @@ collections:
     slug: "{{ year }}-{{ slug }}"
     fields:
       - {label: "Titel", name: "title", widget: "string" }
-      - {label: "Tags", name: "tags", widget: "select", options: ["Familie", "Mikro", "Mini", "Junior", "Trop", "Skumbaklan", "Vatiklanet", "Peliklan", "Kleptoklan", "Ledergruppen", "Bestyrelsen"] }
+      - label: "Tags"
+        name: "tags"
+        widget: "multiselect"
+        options: ["Familie", "Mikro", "Mini", "Junior", "Trop", "Skumbaklan", "Vatiklanet", "Peliklan", "Kleptoklan", "Ledergruppen", "Bestyrelsen"]
       - {label: "Start", name: "date_start", widget: "datetime", format: "YYYY-MM-DDTHH:mm:00"}
       - {label: "Slut", name: "date_end", widget: "datetime", format: "YYYY-MM-DDTHH:mm:00"}
       - {label: "Gruppeweb node ID", name: "old_id", widget: "string"}
