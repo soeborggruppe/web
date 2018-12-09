@@ -4,6 +4,38 @@ backend:
   branch: cms
 
 collections:
+  - name: afdelinger
+    label: Afdelinger
+    label_singular: Afdeling
+    folder: _afdelinger
+    create: true
+    slug: "{{ slug }}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "URL", name: "slug", widget: "string", required: false}
+      - {label: "Stort billede", name: "hero_image", widget: "file"}
+      - {label: "Aldersgruppe", name: "age_group", widget: "string"}
+      - {label: "Mødetid", name: "meeting_time", widget: "string"}
+      - {label: "Kontakt-email", name: "contact_email", widget: "string"}
+      - label: "Ledere"
+        name: "leaders"
+        widget: "list"
+        field:
+          label: Navn
+          widget: string
+      - label: "Filer"
+        name: "files"
+        widget: "list"
+        fields:
+          - label: "Navn"
+            name: "name"
+            widget: "string"
+          - label: "Link"
+            name: "link"
+            widget: "file"
+      - {label: "Adresseliste-kode", name: "address_list_code", widget: "string"}
+      - {label: "Beskrivelse", name: "body", widget: "markdown"}
+
   - name: events
     label: Events
     label_singular: Event
