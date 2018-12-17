@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: soeborggruppe/web
-  branch: cms
+  branch: museum-subsite
 
 collections:
   - name: afdelinger
@@ -67,7 +67,15 @@ collections:
     folder: _pages
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        default: "page"
+        options:
+          - label: "Page"
+            value: "page"
+          - label: "Big header/no styling"
+            value: "bigheader"
       - {label: "URL", name: "permalink", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Indhold", name: "body", widget: "markdown"}
