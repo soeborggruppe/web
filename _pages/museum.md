@@ -2,7 +2,6 @@
 layout: bigheader
 permalink: museum
 title: Museum
-bigheader_postfix: "s Museum"
 ---
 <section class="side-by-side-section">
     <div class="main-text">
