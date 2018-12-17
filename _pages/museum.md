@@ -35,7 +35,7 @@ title: Museum
         title="Tidligere spejder"
         text="Er du tidligere spejder? Find dine gamle spejderkammerater, kom til vores jubilæum, og hjælp os med at udbygge vores digitale museum."
         color="#BDC581"
-        link="/tidligere-spejder/"
+        link="/museum/tidligere-spejder/"
     %}
 
     {% assign preview_collection=site.gamle_billeder %}
@@ -44,6 +44,6 @@ title: Museum
         title="Gamle billeder"
         text="I anledning af 50-års jubilæet i 1969 blev der samlet billeder sammen. Nu har vi digitaliseret samlingen."
         color="#9AECDB"
-        link="/gamle-billeder/"
+        link="/museum/gamle-billeder/"
     %}
 </section>
