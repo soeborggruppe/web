@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+</head>
+<body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <script src="/cms/netlify-cms.js"></script>
+    <script>
+        // Define multiselect widget
+        var MultiSelectControl = createClass({
+            render: function() {
+                let handleChange = (e) => {
+                    var name = e.target.name;
+                    var value = e.target.checked;
+
+                    var result = this.props.value.slice();
+                    if(this.props.value.includes(name) && !value) {
+                        result = result.filter((val) => val != name);
+                    }
+                    else if(!this.props.value.includes(name) && value) {
+                        result = result.push(name);
+                        //Ensure order is preserved
+                        result = this.props.field.get("options").filter((val) => result.includes(val));
+                    }
+
+                    this.props.onChange(result);
+                };
+
+                var value = this.props.value;
+                return h('ul', {},
+                    this.props.field.get("options").map(function(val, index) {
+                        return h('li', { key: index },
+                            h('label', {}, [
+                                h('input', { type: 'checkbox', defaultChecked: value && value.includes(val), name: val, onClick: handleChange }),
+                                h('span', {}, val)
+                            ])
+                        );
+                    }));
+            }
+        });
+
+        var MultiSelectPreview = createClass({
+            render: function() {
+                return h('ul', {},
+                    this.props.value.map(function(val, index) {
+                        return h('li', {key: index}, val);
+                    })
+                );
+            }
+        });
+
+        CMS.registerWidget('multiselect', MultiSelectControl, MultiSelectPreview);
+    </script>
+</body>
+</html>

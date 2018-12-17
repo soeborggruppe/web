@@ -1,7 +1,8 @@
 ---
 title: Troppen
+slug: trop
 hero_image: /img/trop.jpg
-age_group: 6. - 9. klasse 
+age_group: 6. - 9. klasse
 meeting_time: Tirsdag kl. 19-21
 contact_email: tl@soeborggruppe.dk
 leaders:
@@ -11,8 +12,8 @@ leaders:
   - Sif Mejse Christensen
   - Lars Brandt Partoft
 files:
-  - name: Halvårsprogram efterår 2018
-    link: /files/Trop-Halvaarsprogram-Efteraar-2018.pdf
+  - link: /files/Trop-Halvaarsprogram-Efteraar-2018.pdf
+    name: Halvårsprogram efterår 2018
 address_list_code: 1630
 ---
 Troppen er delt op i 5 patruljer med ca. 6 spejdere i hver.

@@ -16,6 +16,9 @@ collections:
   calendar_years:
     output: true
     permalink: /kalender/:slug/
+  pages:
+    output: true
+    permalink: /:slug/
 
 defaults:
  - 

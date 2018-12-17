@@ -61,18 +61,24 @@ layout: default
     {% for month in page.months %}
         <div class="calendar-month" data-month="{{ month.mm }}">
             <h2>{{ month.name | capitalize }}</h2>
-            {% assign sorted_events = site.events | sort: 'time_start' | sort: 'date_start' %}
+            {% assign sorted_events = site.events %} <!--| sort: 'date_start' %}-->
             {% assign any_events_in_month = false %}
             {% for event in sorted_events %}
-                {% assign event_start_date_parts = event.date_start | split: "-" %}
-                {% assign event_end_date_parts   = event.date_end   | split: "-" %}
+                {% assign event_start_datetime_parts = event.date_start | split: "T" %}
+                {% assign event_start_date_parts = event_start_datetime_parts[0] | split: "-" %}
+
+                {% assign event_end_datetime_parts = event.date_end | split: "T" %}
+                {% assign event_end_date_parts = event_end_datetime_parts[0] | split: "-" %}
+
+                {% assign event_start_time_parts = event_start_datetime_parts[1] | split: ":" %}
+
                 {% if event_start_date_parts[0] == year or event_end_date_parts[0] == year %}
                     {% if event_start_date_parts[1] == month.mm or event_end_date_parts[1] == month.mm %}
                         {% assign any_events_in_month = true %}
                         <a class="event-brief" href="{{ event.url }}">
                             <span class="event-datetime">
                                 d. {{ event_start_date_parts[2] }}.
-                                kl. {{ event.time_start }}
+                                kl. {{ event_start_time_parts[0] }}:{{ event_start_time_parts[1] }}
                             </span>
                             <span class="event-title">
                                 {{ event.title }}

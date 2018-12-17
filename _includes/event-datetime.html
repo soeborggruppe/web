@@ -1,9 +1,14 @@
 <div class="event-datetime">
-    {{ event.date_start }}
-    {% if event.date_start != event.date_end %}
-        kl. {{ event.time_start }}
-        - {{ event.date_end }} kl. {{ event.time_end }}
+    {% assign start_date_parts = event.date_start | split: 'T' %}
+    {% assign end_date_parts = event.date_end | split: 'T' %}
+    {% assign start_time_parts = start_date_parts[1] | split: ':' %}
+    {% assign end_time_parts = end_date_parts[1] | split: ':' %}
+
+    {{ start_date_parts[0] }}
+    {% if start_date_parts[0] != end_date_parts[0] %}
+        kl. {{ start_time_parts[0] }}:{{ start_time_parts[1] }}
+        - {{ end_date_parts[0] }} kl. {{ end_time_parts[0] }}:{{ end_time_parts[1] }}
     {% else %}
-        kl. {{ event.time_start }} - {{ event.time_end }}
+        kl. {{ start_time_parts[0] }}:{{ start_time_parts[1] }} - {{ end_time_parts[0] }}:{{ end_time_parts[1] }}
     {% endif %}
 </div>
