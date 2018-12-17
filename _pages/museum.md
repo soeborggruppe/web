@@ -1,6 +1,7 @@
 ---
 layout: bigheader
 permalink: museum
+title: Museum
 ---
 <section class="side-by-side-section">
     <div class="main-text">
