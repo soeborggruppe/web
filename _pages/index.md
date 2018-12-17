@@ -3,16 +3,15 @@ layout: page
 permalink: historie
 title: Gruppens historie
 ---
-<img class="separator-img" src="/historie/old-association-logo.png" title="Gammelt DDS-logo">
-<section class="text-section">
-    <h1>Grundlæggelsen</h1>
-    <p>
-        Gruppen blev grundlagt 4. oktober 1919 af overlærer ved Søborg Skole Aage Otto Nandrup Kreutzfeldt, på opfordring fra kolonnechefen for Nørrebro kolonne. Gruppen kom under Nørrebro Kolonne (en del af Københavns Division), og fik derfor navnet 5. Nørrebro Trop, men skiftede hurtigt navn til det mere passende Søborg Trop. Dengang var der kun én aldersgruppe og alle spejdere var i en trop.
-    </p>
-    <p>
-        Troppen splittes d. 22. september 1922, i det der senere blev 1. og 2. Søborg. Det senere 1. Søborg meldte sig ud af Det Danske Spejderkorps og ind i Dansk Spejderforbund, der var oprettet ved at godt halvdelen af troppene i Det Danske Spejderkorps brød ud i protest mod spejderchefen. Efter han var trådt tilbage kom troppene tilbage i Det Danske Spejderkorps, der nu havde 1. Søborg Trop og 2. Søborg Trop. Dyssegarden Flok (den ældste del af de nuværende Dyssegårdsspejderne) blev oprettet i 1940 på resterne af 2. Søborg Flok.
-    </p>
-</section>
+![Gammelt DDS-logo](/historie/old-association-logo.png)
+
+Grundlæggelsen
+==============
+
+Gruppen blev grundlagt 4. oktober 1919 af overlærer ved Søborg Skole Aage Otto Nandrup Kreutzfeldt, på opfordring fra kolonnechefen for Nørrebro kolonne. Gruppen kom under Nørrebro Kolonne (en del af Københavns Division), og fik derfor navnet 5. Nørrebro Trop, men skiftede hurtigt navn til det mere passende Søborg Trop. Dengang var der kun én aldersgruppe og alle spejdere var i en trop.
+
+Troppen splittes d. 22. september 1922, i det der senere blev 1. og 2. Søborg. Det senere 1. Søborg meldte sig ud af Det Danske Spejderkorps og ind i Dansk Spejderforbund, der var oprettet ved at godt halvdelen af troppene i Det Danske Spejderkorps brød ud i protest mod spejderchefen. Efter han var trådt tilbage kom troppene tilbage i Det Danske Spejderkorps, der nu havde 1. Søborg Trop og 2. Søborg Trop. Dyssegarden Flok (den ældste del af de nuværende Dyssegårdsspejderne) blev oprettet i 1940 på resterne af 2. Søborg Flok.
+
 <img class="separator-img" src="/historie/old-text-logo.png" title="1. Søborg Flok">
 <section class="text-section">
     <h1>De små kommer til</h1>
