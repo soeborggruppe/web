@@ -1,15 +1,7 @@
 ---
-layout: default
-hide_default_header: true
+layout: bigheader
+permalink: museum
 ---
-<header class="bigheader">
-    <img src="/logo.png">
-    <div class="header-text">
-        <h1>1. Søborg<span class="group-word"> Gruppe</span>s Museum</h1>
-        <h2>Altid kæmpende<span class="separator"></span>undertiden slagen<span class="separator"></span>aldrig modløs</h2>
-    </div>
-    <img src="/dds-logo.png">
-</header>
 <section class="side-by-side-section">
     <div class="main-text">
         <p>

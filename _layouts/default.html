@@ -30,7 +30,7 @@
                 });
             })();
         </script>
-        {% unless page.hide_default_header %}
+        {% unless page.hide_default_header or layout.hide_default_header %}
             <header class="small-header">
                 <a href="/" class="small-header-logo-link">
                     <img class="small-header-logo" src="/logo.png">
