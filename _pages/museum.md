@@ -2,11 +2,12 @@
 layout: bigheader
 permalink: museum
 title: Museum
+bigheader_postfix: "s Museum"
 ---
 <section class="side-by-side-section">
     <div class="main-text">
         <p>
-            Denne hjemmeside er et digitalt museum over 1. Søborg Gruppes historie.
+            Denne underside er et digitalt museum over 1. Søborg Gruppes historie.
             Den blev startet i anledning af gruppens 100 års jubilæum d. 4. oktober 2019.
         </p>
         <p>
