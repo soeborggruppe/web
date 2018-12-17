@@ -286,7 +286,8 @@ ul, ol {
     font-size: 1.15em;
 
     p {
-        margin: 28px 0;
+        margin-bottom: 28px;
+        margin-top: 0;
     }
     
     h1 {
@@ -294,11 +295,13 @@ ul, ol {
         font-family: "Krub", sans-serif;
         text-align: left;
         width: 100%;
+        margin-bottom: 28px;
     }
 
     img {
         height: 135px;
-        width: 340px;
+        width: 100%;
+        max-width: 340px;
         object-fit: contain;
     }
 }
