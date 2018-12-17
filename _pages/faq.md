@@ -1,5 +1,5 @@
 ---
-layout: story
+layout: page
 permalink: faq
 title: Ofte stillede spørgsmål
 ---

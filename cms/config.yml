@@ -67,7 +67,7 @@ collections:
     folder: _pages
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "story"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "URL", name: "permalink", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Indhold", name: "body", widget: "markdown"}
