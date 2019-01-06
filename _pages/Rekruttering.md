@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Rekruttering
-permalink: Rekruttering
+permalink: rekruttering
 ---
-<div style="position: fixed; bottom: 0; left: 0; right: 0; background: white; text-align: center; padding: 30px; z-index: 1000; font-size: 28px;">**Interesseret?** [Bliv leder i 1. Søborg.](http://soeborggruppe.dk/blivleder)</div>
+<div style="position: fixed; bottom: 0; left: 0; right: 0; background: white; text-align: center; padding: 30px; z-index: 1000; font-size: 28px;"><strong>Interesseret?</strong> <a href="http://soeborggruppe.dk/blivleder">Bliv leder i 1. Søborg.</a></div>
 
 <img src="http://i.imgur.com/WDYKB.png" alt="Lederuddannelse og fede oplevelser" style="margin-top: -40px; background: white;" id="resultat" />
 

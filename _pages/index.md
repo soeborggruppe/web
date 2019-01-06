@@ -472,7 +472,7 @@ hide_default_header: true
             <p>Læs mere under <a href="/gruppen">Gruppen</a>.</p>
         </div>
         <div class="significant-links">
-            <a href="/blivleder">Bliv leder</a>
+            <a href="/rekruttering">Bliv leder</a>
             <a href="/blivspejder">Bliv spejder</a>
             <a href="/hjaelp">Hjælp</a>
             <a href="/faq">FAQ</a>
