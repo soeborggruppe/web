@@ -1,0 +1,141 @@
+---
+layout: page
+title: Rekruttering
+permalink: Rekruttering
+---
+<div style="position: fixed; bottom: 0; left: 0; right: 0; background: white; text-align: center; padding: 30px; z-index: 1000; font-size: 28px;">**Interesseret?** [Bliv leder i 1. Søborg.](http://soeborggruppe.dk/blivleder)</div>
+
+<img src="http://i.imgur.com/WDYKB.png" alt="Lederuddannelse og fede oplevelser" style="margin-top: -40px; background: white;" id="resultat" />
+
+Som leder får man et nært kendskab til nogle fantastiske unger, samt lov til at påvirke andre menneskers liv i en positiv retning. Men det er langt fra alt. At være spejderleder er faktisk også en reel lederuddannelse: man tager på kurser og ture for at blive bedre til at forstå sig selv og hvordan man formidler information. Man bliver en bedre leder både gennem kurser og gennem den erfaring man opbygger ved at afprøve sine ideer i et positivt og opfordrende miljø.
+
+<img src="http://i.imgur.com/LQY06.jpg" style="width: 100%;" />
+
+
+
+## Hvorfor 1. Søborg?
+
+
+
+<img src="http://i.imgur.com/AcNo2.jpg" style="float: right; width: 40%; margin-left: 10px;" />
+
+Det er et relevant spørgsmål - hvorfor ikke en hvilken som helst anden spejdergruppe?
+
+1. Søborg er en af landets hurtigst voksende grupper og har haft en støt medlemsvækst de sidste år. Med 130 medlemmer og 60 på venteliste må vi gøre noget rigtigt. Men det er ikke bare børnene der er vilde med gruppen - det er også klanspejderne og lederne.
+
+Som leder i 1. Søborg bliver man del af en aktiv og engageret ledergruppe bestående af friske, unge mennesker, der både brænder for at give børnene nogle oplevelser, men også at have det sjovt sig selv iblandt. Der er altså rig mulighed for spejder-fester og en årlig lederjulefrokost.
+
+Udover det, betaler gruppen for lederkurser og opfordrer ledere til at tage afsted på så mange kurser som de kan. Der er et godt samarbejde både i de forskellige grenes ledelser og på tværs af grenene.
+
+<img src="http://i.imgur.com/sLZMa.png" alt="Ledere faciliterer udvikling" id="leder" />
+
+I patruljerne er der patruljeledere og -assistenter. Som spejderleder er man ikke nogen af disse, men en "voksen" leder. Spejderledernes primære formål er at facilitere spejdernes udvikling. De fleste aldersgrupper har et spand på 2 år, og det er altså så lang tid man er leder for de samme spejdere. Når de bliver gamle nok, rykker de op til næste aldersgruppe.
+
+En leders funktion varierer meget alt efter hvilken aldersgruppe man har med at gøre. I 1. Søborg har vi følgende aldersgrupper:
+
+<ul><li>Mikro (6 - 8 år)</li><li>Mini (8 - 10 år)</li><li>Junior (10 - 12 år)</li><li>Trop (12 - 16 år)</li><li>Klaner (16+ år)</li></ul>
+
+I klanerne er spejderne ledere for hinanden, men i alle de yngre grene bruges voksne ledere.
+
+Hos mikroerne er der meget leg, og det handler om at børnene får et godt forhold til hinanden og gruppen. Der er også fokus på de andre punkter i spejdermetoden, men der er for eksempel ikke faste patruljer.
+
+Minierne er de lidt ældre, der har patruljer og begynder at lave mere fokuseret spejderarbejde.
+
+Juniorerne får endnu mere ansvar og har endda patruljemøder, hvor patruljen selv står for møderne. Det er især hos juniorerne og minierne at der tages færdighedsmærker.
+
+Hos troppen bliver der lagt endnu mere ansvar over hos patruljerne, der i højere grad kører møderne selv. Hele vejen fra mikro til troppen flytter lederens rolle sig langsomt fra "bestemmende" (fastsættelse af rammer, overblik over hvad alle laver) til "faciliterende" (evaluering med spejderne, sørger for at der sker **noget**).
+
+<img src="http://i.imgur.com/kMBrD.jpg" style="width: 100%;" />
+
+<img src="http://i.imgur.com/UMfuy.png" alt="Spejder er personligt udviklende" id="spejder" />
+
+<img src="http://i.imgur.com/LW60o.png" style="float: right; margin-left: 12px;" />
+
+Hvis du ikke tidligere selv har været spejder er du måske interesseret i at finde ud af hvad det i virkeligheden betyder at være spejder.
+
+Du har nok hørt at spejder er for børn og unge, og du har nok også hørt at det handler meget om friluftsliv. Og det er da også rigtigt. Som spejdere lærer børnene at tage ansvar og klare sig selv. Der er både sjov og leg, men også knob og bål.
+
+I [Det Danske Spejderkorps](http://dds.dk) tager spejderarbejdet udgangspunkt i [Spejderideen](http://dds.dk/spejderideen). En vigtig del af Spejderideen er Spejder**metoden**, der beskriver **hvordan** vi faciliterer spejdernes udvikling, altså en slags rammer for hvad vi gør. Spejdermetoden består af en række punkter der er beskrevet nedenfor.
+
+
+
+## Oplevelser
+
+
+
+Oplevelser binder spejderne sammen og giver fælles referencepunkter. Oplevelser er forskellige fra aldersgruppe til aldersgruppe og der er mange forskellige typer oplevelser: Der er både de vilde oplevelser (som riverrafting eller skydiving) og de oplevelser der huskes af andre grunde (som et godt lejrbål eller en tur til et bestemt sted).
+
+I 1. Søborg har vi blandt andet oplevet:
+
+<ul><li>Riverrafting</li><li>Skydiving</li><li>Mountain Biking i alperne</li><li>Vandretur i svensk nationalpark (Söderåsen)</li><li>Spejderlejr med&nbsp; 35000 spejdere</li></ul>
+
+## Learning by doing
+
+
+
+Til spejder lærer man nye ting ved at prøve det. Man bliver en leder ved at være patruljeleder, man bliver god til at lave bål og binde knob ved at prøve. Og man overskrider sine grænser når man får muligheden og man griber den.
+
+
+
+## Patruljeliv
+
+
+
+Spejdere arbejder i patruljer, grupper på 5 - 8 personer på samme alder. I en patrulje er der en leder og en eller flere assistenter, der hjælper lederen. Patruljen er et sted hvor spejderne hører til og kan snakke med hinanden, et sted hvor man stoler på hinanden.
+
+Lederens ansvar skifter efter hvilken aldersgruppe man befinder sig i. I de yngre aldersgrupper handler det ofte om at stille ordentligt op og udføre de opgaver man får stillet, men som spejderne bliver ældre handler det mere og mere om selv at finde på ting at lave, planlægge og udføre.
+
+
+
+## Friluftsliv
+
+
+
+Spejdere er ude i det fri: de lærer at tænde bål og bygge bivuakker. En vigtig del af spejderarbejdet har altid været at være ud og være aktiv. Dette er igen tilpasset aldersgruppen, og varierer fra gåture i naturen (for de yngste) til overlevelsesweekender for de ældre.
+
+
+
+## Værdier
+
+
+
+Arbejde med værdier handler ikke kun om de værdier man har som spejder men også om de værdier man har som menneske. I spejderloven, som alle spejdere lover at overholde, står der en spejder er en person der gør sit bedste for "at høre andres meninger og danne sine egne". Der er ikke ét rigtigt svar, og at snakke om hvad man synes er vigtigt.
+
+
+
+## Medbestemmlse og ansvarlighed
+
+
+
+I patruljen er det ikke kun patruljeleder og -assistent der har ansvar. Til spejder får alle spejdere ansvar og lærer at håndtere det - og de er samtidig med til at forme hvad der foregår til spejder. Gennem evalueringer er det muligt for spejderne at få sagt hvad de synes er godt og hvad der kan gøres bedre - det er vigtigt, for det gør spejder bedre og bedre.
+
+
+
+## Aktiviteter og færdigheder
+
+
+
+Det er vigtigt for spejdere at opbygge færdigheder - både spejderfærdigheder og mere alsidige færdigheder. Derfor er der mulighed for masser af forskellige aktiviteter som spejder.
+
+I 1. Søborg har vi blandt andet afholdt møder om:
+
+<ul><li>Wellness</li><li>Skrive, instruere, filme og klippe film</li><li>Bygge sæbekassebiler</li><li>Rollespil (med hjemmelavede rollespilsvåben)</li><li>Gipsmasker</li></ul>
+
+## Samfundsliv
+
+
+
+Efter at have læst alle de foregående punkter kan man ikke være i tvivl om at spejder favner bredt - der er (næsten) ingen grænser for hvad spejder kan indebære.
+
+Udover oplevelser og udvikling lærer spejdere også at engagere sig i samfundet: Stille spørgsmål, undersøge og forstå hvordan verden hænger sammen og hvad der foregår i den lige nu. Det er vigtigt at spejderne får kendskab til samfundet og præsenteret et nuanceret billede af verden.
+
+I 1. Søborg har vi blandt andet behandlet:
+
+<ul><li>Global opvarmning</li><li>Børnesoldater</li><li>Demokrati/Diktatur (styreformer)</li></ul>  <div id="book-navigation-2417" class="book-navigation">
+    <ul class="menu"><li class="leaf first last">[Bliv spejderleder](/blivleder)</li>
+</ul>
+        <div class="page-links clear-block">
+                          [Bliv spejderleder ›](/blivleder)
+          </div>
+    
+  </div>
