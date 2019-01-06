@@ -7,7 +7,7 @@ title: Ofte stillede spørgsmål
 
 **Q: Hvad forventes der af mig som spejderforælder?**
 
-Vi har prøvet at sætte et par ord på hvad det vil sige at være spejderforælder i vores folder, Velkommen i 1. Søborg Gruppe. Du kan også få en fysisk kopi af folderen af dine børns leder i hytten.
+Vi har prøvet at sætte et par ord på hvad det vil sige at være spejderforælder i vores folder, [Velkommen i 1. Søborg Gruppe](/velkommen). Du kan også få en fysisk kopi af folderen af dine børns leder i hytten.
 
 **Q: Hvordan betaler vi kontingent - sker det automatisk efter indmeldelse?**
 
@@ -19,7 +19,7 @@ A: Nej – efter indmeldelse får spejderen udleveret tørklæde, rabatkort til 
 
 **Q: Hvor skal mærkerne sidde på uniformen?**
 
-A: Vi har lavet en Uniformsvejledning, der gerne skulle vise korrekt mærkeplacering.
+A: Vi har lavet en [Uniformsvejledning](/uniform), der gerne skulle vise korrekt mærkeplacering.
 
 **Q: Er det nødvendigt at købe en uniform når man bliver spejder?**
 
@@ -31,11 +31,11 @@ A: Se den vedhæftede pakkeliste.
 
 Turspecifikt udstur vil angå af turinvitationen. 
 
-**Q: Har gruppen en forsikring for spejderne? **
+**Q: Har gruppen en forsikring for spejderne?**
 
 A: Ja, 1. Søborg Gruppe er dækket gennem forsikringer som Det Danske Spejderkorps har tegnet.
 
-I kan læse mere om hvordan gruppen er forsikret her https://dds.dk/artikel/forsikring
+I kan læse mere om hvordan gruppen er forsikret [her](https://dds.dk/artikel/forsikring).
 
 **Q: Hvordan kontakter jeg mit barns afdelingsleder eller en anden forælder til et barn i afdelingen?**
 
@@ -45,9 +45,9 @@ A: Log ind på hjemmesiden her, og gå ind på dit barns afdelings underside (f.
 
 A: Genbrugslopperne er et tilbud fra kommunen, hvor foreninger kan få lov at afhente ting på genbrugsstationen, og sælge dem videre på et loppemarked. Overskudet fra dette salg går ubeskåret til gruppen, og udgør en af gruppens største indtægtskilder. I 1. søborg er det forældrene der driver genbrugslopperne de 2-3 gange om året, gruppen afholder det.
 
-Kunne du tænke dig at hjælpe til, så kontakt loppe@soeborggruppe.dk
+Kunne du tænke dig at hjælpe til, så kontakt [loppe@soeborggruppe.dk](mailto:loppe@soeborggruppe.dk)
 
-Hvis du vil vide mere kan du besøge genbrugsloppernes hjemmeside http://www.genbrugslopperne.dk/
+Hvis du vil vide mere kan du besøge genbrugsloppernes hjemmeside [http://www.genbrugslopperne.dk/](http://www.genbrugslopperne.dk/)
 
 **Q: Hvad er et grupperådsmøde?**
 
@@ -55,7 +55,7 @@ A: Grupperådsmødet er gruppens generalforsamling. Det er her de største beslu
 
 **Q: Har gruppen en ryge- og/eller alkoholpolitik?**
 
-A: Ja, se dok: http://www.soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/samvaerspolitik2015.pdf
+A: Ja, se dok: [http://www.soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/samvaerspolitik2015.pdf](http://www.soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/samvaerspolitik2015.pdf)
 
 **Q: Hvad gør vi, hvis mit barn får hjemve på en tur/lejr?**
 
@@ -99,4 +99,4 @@ Det er relevant at huske at kontingent opkræves halvårligt, så for ikke at bl
 
 **Yderligere spørgsmål**
 
-Er der noget, du ikke har fået svar på? Hvis det er et specifikt problem for dit barn, er din afdelingsleder nok det rigtige sted at starte. Ellers er du velkommen til at kontakte gruppelederne på <mailto:gl@soeborggruppe.dk> med spørgsmål.
+Er der noget, du ikke har fået svar på? Hvis det er et specifikt problem for dit barn, er din afdelingsleder nok det rigtige sted at starte. Ellers er du velkommen til at kontakte gruppelederne på [gl@soeborggruppe.dk](mailto:gl@soeborggruppe.dk) med spørgsmål.

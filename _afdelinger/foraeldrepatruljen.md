@@ -6,7 +6,6 @@ meeting_time: '-'
 contact_email: fp@soeborggruppe.dk
 leaders:
   - Marie Bæk Rose
-address_list_code: undefined
 ---
 Forældrepatruljen er under opbygning.
 

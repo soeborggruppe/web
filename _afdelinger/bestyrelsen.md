@@ -4,7 +4,6 @@ slug: bestyrelsen
 age_group: 15+
 meeting_time: Ca. 5 bestyrelsesmøder, 1 grupperådsmøde &amp; 1 time af et ledergruppemøde
 contact_email: formand@soeborggruppe.dk
-address_list_code: undefined
 ---
 **Hvis du er logget ind, kan du se kontaktoplysninger på bestyrelsesmedlemmerne under "Bestyrelsen" i bunden af siden.**
 
@@ -18,4 +17,4 @@ Der er valg til bestyrelsen på det årlige grupperådsmøde i februar. Medlemme
 
 Hvis du vil vide mere om bestyrelsens arbejde, er du velkommen til at læse referaterne fra de sidste møder der er på denne side senest 14 dage efter mødet, eller kontakte formanden.
 
-Gruppens CVR-nummer: 30031555 og gruppen har konto&nbsp;1551-5156130 i Danske Bank. Gruppens MobilePay-nummer er 45530.
+Gruppens CVR-nummer: 30031555 og gruppen har konto 1551-5156130 i Danske Bank. Gruppens MobilePay-nummer er 45530.

@@ -160,11 +160,13 @@ layout: default
             </ul>
         </div>
         {% endif %}
+        {% if page.address_list_code %}
         <div class="extra-category">
             <h1>Andre links</h1>
             <ul>
                 <li><a href="https://medlem.dds.dk/member/memberlist/{{ page.address_list_code }}">Adresseliste</a></li>
             </ul>
         </div>
+        {% endif %}
     </div>
 </div>
