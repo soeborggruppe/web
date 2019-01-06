@@ -2,7 +2,7 @@
 title: Peliklan
 slug: peliklan
 age_group: 1989-1992
-meeting_time: Mandag 20:00 - 22:00  Hver anden uge
+meeting_time: Passive: Ingen faste møder
 contact_email: peli@soeborggruppe.dk
 leaders:
   - Troels Brandt Partoft
