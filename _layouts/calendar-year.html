@@ -61,7 +61,7 @@ layout: default
     {% for month in page.months %}
         <div class="calendar-month" data-month="{{ month.mm }}">
             <h2>{{ month.name | capitalize }}</h2>
-            {% assign sorted_events = site.events %} <!--| sort: 'date_start' %}-->
+            {% assign sorted_events = site.events | sort: 'date_start' %} <!--| sort: 'date_start' %}-->
             {% assign any_events_in_month = false %}
             {% for event in sorted_events %}
                 {% assign event_start_datetime_parts = event.date_start | split: "T" %}
@@ -72,8 +72,8 @@ layout: default
 
                 {% assign event_start_time_parts = event_start_datetime_parts[1] | split: ":" %}
 
-                {% if event_start_date_parts[0] == year or event_end_date_parts[0] == year %}
-                    {% if event_start_date_parts[1] == month.mm or event_end_date_parts[1] == month.mm %}
+                {% if event_start_date_parts[0] == year %}
+                    {% if event_start_date_parts[1] == month.mm %}
                         {% assign any_events_in_month = true %}
                         <a class="event-brief" href="{{ event.url }}">
                             <span class="event-datetime">
