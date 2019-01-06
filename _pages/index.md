@@ -12,6 +12,18 @@ hide_default_header: true
         align-items: stretch;
         border-left: 20px solid #003366;
         border-right: 20px solid #003366;
+        background: rgb(240, 240, 240);
+    }
+    @media (max-width: 1000px) {
+        .side-by-side-view {
+            flex-direction: column;
+        }
+    }
+    @media (max-width: 560px) {
+        .side-by-side-view {
+            border-left: none;
+            border-right: none;
+        }
     }
 
     .group-introduction {
@@ -19,15 +31,18 @@ hide_default_header: true
         width: 0;
         flex-grow: 10;
     }
+    @media(max-width: 1000px) {
+        .group-introduction {
+            width: auto;
+            min-height: 100vh;
+        }
+    }
     .group-focus {
         background-color: rgb(210, 193, 165);
         background-image: url("/img/soeborggruppe-gruppefoto-2018-resized-2000.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        min-height: 500px;
-        max-height: 1000px;
-        padding: 25px;
         box-sizing: border-box;
         display: flex;
         flex-direction: column;
@@ -35,6 +50,13 @@ hide_default_header: true
         align-items: flex-start;
         position: relative;
         overflow: hidden;
+        height: 100%;
+    }
+    @media (max-width: 1000px) {
+        .group-focus {
+            padding: 0;
+            background-image: none;
+        }
     }
 
     .group-focus:before {
@@ -56,7 +78,21 @@ hide_default_header: true
         justify-content: flex-start;
         align-items: flex-start;
         color: white;
+        padding: 25px;
+        z-index: 3;
     }
+    @media (max-width: 1000px) {
+        .group-focus-title {
+            position: absolute;
+            font-size: 1.1em;
+        }
+    }
+    @media (max-width: 800px) {
+        .group-focus-title {
+            font-size: 0.95em;
+        }
+    }
+
     .group-focus-title > * {
         background: #003366;
         padding: 10px;
@@ -71,6 +107,28 @@ hide_default_header: true
         height: 350px;
         flex-shrink: 0;
     }
+    @media (max-width: 1000px) {
+        .group-image-spacer {
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            background-image: url("/img/soeborggruppe-gruppefoto-2018-resized-1000.jpg");
+            background-size: cover;
+            background-position: top center;
+            height: 600px;
+        }
+    }
+    @media (max-width: 800px) {
+        .group-image-spacer {
+            height: 500px;
+        }
+    }
+    @media (max-width: 560px) {
+        .group-image-spacer {
+            height: 550px;
+        }
+    }
 
     .group-age-groups {
         display: flex;
@@ -79,6 +137,29 @@ hide_default_header: true
         justify-content: center;
         flex-wrap: wrap;
         position: relative;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+    @media (max-width: 1000px) {
+        .group-age-groups {
+            background: rgb(240, 240, 240);
+            margin-top: 500px;
+        }
+    }
+    @media (max-width: 800px) {
+        .group-age-groups {
+            margin-top: 400px;
+        }
+    }
+    @media (max-width: 560px) {
+        .group-age-groups {
+            margin-top: 450px;
+        }
+    }
+    @media (max-width: 400px) {
+        .group-age-groups {
+            font-size: 0.85em;
+        }
     }
     .group-age-groups .age-group {
         color: inherit;
@@ -105,10 +186,33 @@ hide_default_header: true
         background: #003366;
         padding: 0px 2px;
         box-shadow: 0 0 25px rgb(0,0,0,1);
+        box-sizing: border-box;
     }
     .group-age-groups .age-group .age-group-age {
         background: #003366;
         padding: 1px 2px;
+    }
+    @media (max-width: 1000px) {
+        .group-age-groups .age-group img {
+            width: 100px;
+            height: 100px;
+            box-shadow: none;
+        }
+
+        .group-age-groups .age-group .age-group-name {
+            box-shadow: none;
+        }
+    }
+    @media (max-width: 400px) {
+        .group-age-groups .age-group img {
+            width: 90px;
+            height: 90px;
+            box-shadow: none;
+        }
+        .group-age-groups .age-group .age-group-name {
+            max-width: 98px;
+            overflow: hidden;
+        }
     }
 
     .group-information {
@@ -126,6 +230,7 @@ hide_default_header: true
         font-family: "Krub", sans-serif;
         font-size: 0.9em;
         margin-bottom: 50px;
+        margin-right: 8px;
     }
     .group-description ul {
         padding-left: 15px;
@@ -133,6 +238,25 @@ hide_default_header: true
     .group-description a {
         color: #003366;
         font-weight: bold;
+    }
+    @media (max-width: 1000px) {
+        .group-information {
+            width: auto;
+            padding-top: 0;
+            border-bottom: 20px solid #003366;
+        }
+        .group-description {
+            max-width: 500px;
+            font-size: 1em;
+            color: white;
+            background: #003366;
+            padding: 10px 40px;
+            margin-left: -20px;
+            box-sizing: border-box;
+        }
+        .group-description a {
+            color: white;
+        }
     }
 
     .significant-links {
@@ -142,7 +266,7 @@ hide_default_header: true
         margin-bottom: 15px;
     }
     .significant-links a {
-        flex-basis: 150px;
+        flex-basis: 170px;
         box-sizing: border-box;
         flex-grow: 1;
         flex-shrink: 1;
@@ -165,17 +289,26 @@ hide_default_header: true
         color: rgb(240, 240, 240);
     }
 
+    @media (max-width: 1350px) {
+        .significant-links a {
+            padding: 10px 0 9px 10px;
+        }
+    }
+
     .initiatives {
         background: rgb(240, 240, 240);
-        padding: 45px;
+        padding: 45px 10px;
         display: flex;
         flex-direction: row;
+        flex-wrap: wrap;
         justify-content: center;
         align-items: stretch;
         overflow-x: auto;
         overflow-y: hidden;
     }
     .initiative {
+        flex-basis: 350px;
+        flex-grow: 1;
         max-width: 450px;
         margin: 15px;
         padding: 10px;
@@ -185,6 +318,7 @@ hide_default_header: true
         justify-content: flex-start;
         font-size: 0.85em;
         height: 450px;
+        box-sizing: border-box;
     }
     .initiative:nth-child(2) {
         background: #ffc5ad;
@@ -212,6 +346,14 @@ hide_default_header: true
     .initiative p {
         margin: 0;
     }
+    @media (max-width: 400px) {
+        .initiatives {
+            padding: 45px 2px;
+        }
+        .initiative {
+            margin: 4px;
+        }
+    }
 
     .group-intro-video {
         width: 0;
@@ -232,7 +374,26 @@ hide_default_header: true
         border-right: 20px solid #003366;
         border-top: 20px solid #003366;
         border-bottom: 20px solid #003366;
+        max-width: 100%;
     }
+    @media (max-width: 1000px) {
+        .group-intro-video {
+            width: 100%;
+            height: 80vh;
+            border-top: none;
+            border-bottom: 20px solid #003366;
+        }
+    }
+    @media (max-width: 400px) {
+        .facebook-feed {
+            border-right: none;
+        }
+        .group-intro-video {
+            border-top: 20px solid #003366;
+            border-left: none;
+        }
+    }
+
     footer {
         margin-top: 100px;
     }
@@ -362,16 +523,77 @@ hide_default_header: true
 
 <div class="side-by-side-view">
     <div class="facebook-feed">
+        <div class="fb-page" data-href="https://www.facebook.com/soeborggruppe" data-width="500" data-height="600" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false" data-show-posts="true"></div>
+        <script>
+            (function() {
+                var fbpage = document.querySelector(".fb-page");
+                var width = getWidth();
+                console.log("width", width);
+
+                if(width < 400) {
+                    fbpage.dataset.width = "" + getWidth();
+                }
+                else if(width <= 540) {
+                    fbpage.dataset.width = "" + (getWidth() - 20);
+                }
+                else if(width <= 560) {
+                    fbpage.dataset.width = "" + (getWidth() - 40);
+                }
+                else {
+                    fbpage.dataset.width = "560";
+                }
+
+                setInterval(() => {
+                    let newWidth = getWidth();
+                    console.log("newWidth", newWidth);
+                    if(newWidth != width) {
+                        width = newWidth;
+                        if(width < 400) {
+                            fbpage.dataset.width = "" + getWidth();
+                        }
+                        else if(width <= 560) {
+                            fbpage.dataset.width = "" + (getWidth() - 20);
+                        }
+                        else if(width <= 560) {
+                            fbpage.dataset.width = "" + (getWidth() - 40);
+                        }
+                        else {
+                            fbpage.dataset.width = "560";
+                        }
+                        FB.XFBML.parse();
+                    }
+                }, 2500);
+
+                function getWidth() {
+                    return Math.max(
+                        document.body.scrollWidth,
+                        document.documentElement.scrollWidth,
+                        document.body.offsetWidth,
+                        document.documentElement.offsetWidth,
+                        document.documentElement.clientWidth
+                    );
+                }
+
+                function getHeight() {
+                    return Math.max(
+                        document.body.scrollHeight,
+                        document.documentElement.scrollHeight,
+                        document.body.offsetHeight,
+                        document.documentElement.offsetHeight,
+                        document.documentElement.clientHeight
+                    );
+                }
+            })();
+        </script>
         <script type="text/javascript">
             (function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/da_DK/sdk.js#xfbml=1&version=v2.3";
-            fjs.parentNode.insertBefore(js, fjs);
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/da_DK/sdk.js#xfbml=1&version=v2.3";
+                fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));
         </script>
-        <div class="fb-page" data-href="https://www.facebook.com/soeborggruppe" data-width="500" data-height="600" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false" data-show-posts="true"></div>
     </div>
     <div class="group-intro-video">
         <iframe src="//www.youtube.com/embed/V1mQ6qK0nbc" frameborder="0"></iframe>
