@@ -26,7 +26,7 @@ Af Spejderlovens syv punkter arbejder vi primært med.
 
 <strong>At værne om naturen<br /></strong>Det kan for eksempel være, at vi om vinteren laver fuglefodder. Vi taler med børnene, hvorfor det er vigtigt at fodre småfuglene om vinteren&nbsp;og hvilke fugle, der trækker syd på.
 
-**&nbsp;At være en god kammerat**<br />Det at være en god kammerat arbejder vi ved med hvert møde. Det er ikke noget som i taler om med børnene hver gang, men det er noget som vi som forældre er opmærksomme på.
+**At være en god kammerat**<br />Det at være en god kammerat arbejder vi ved med hvert møde. Det er ikke noget som vi taler om med børnene hver gang, men det er noget som vi som forældre er opmærksomme på.
 
 <strong>At være hensynsfuld og hjælpe andre<br /></strong>Den store aldersspredning vi har på vores familiespejdere betyder at børne naturlig lære at være hensynsfulde og hjælpe hinanden. De større børn hjælper de mindre. Det kan for eksempel være at de helt konkret hjælper hindanden med overtøjet, at finde tusser eller gå med ind i køkkene med sin kop efter brug.
 
@@ -38,7 +38,7 @@ Vi mødes søndage i lige uger fra kl. 10-12. Som udgangspunkt mødes vi ved vor
 
 Familieflokken starter altid med en vores møde med at samles og synge familiespejdersangen. Vi hører om dagens program&nbsp;og bliver delt i patruljer (grupper). Forældrene hjælper hinanden og har et fælles ansvar for, at alle børnene er glade og deltager i aktiviteterne.
 
-Ved hvert møde er der som udgangspunkt en forældrestyrret aktivitet, en leg og fælles frokost, som laves på bål. Børnene kommer rundt til de forskellige poster i patruljerne. Dette gør at der er tid og plads til at alle børnene.
+Ved hvert møde er der som udgangspunkt en forældrestyret aktivitet, en leg og fælles frokost, som laves på bål. Børnene kommer rundt til de forskellige poster i patruljerne. Dette gør at der er tid og plads til at alle børnene.
 
 Inden mødet slutter&nbsp;hjælper forældrene hinanden med at rydde op, mens en eller to forældre leger med børnene.
 

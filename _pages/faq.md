@@ -29,7 +29,7 @@ A: Ja, man skal som minimum have den normale uniformsskjorte i bomuld. Men der f
 
 A: Se den vedhæftede pakkeliste.
 
-Turspecifikt udstur vil angå af turinvitationen. 
+Turspecifikt udstyr vil angå af turinvitationen.
 
 **Q: Har gruppen en forsikring for spejderne?**
 
