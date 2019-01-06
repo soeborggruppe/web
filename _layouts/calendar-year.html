@@ -58,10 +58,10 @@ layout: default
         </script>
     </h1>
     <button class="previous-month-loader" onclick="showPreviousMonth()" style="display: none">Vis tidligere events</button>
+    {% assign sorted_events = site.events | sort: 'date_start' %}
     {% for month in page.months %}
         <div class="calendar-month" data-month="{{ month.mm }}">
             <h2>{{ month.name | capitalize }}</h2>
-            {% assign sorted_events = site.events | sort: 'date_start' %} <!--| sort: 'date_start' %}-->
             {% assign any_events_in_month = false %}
             {% for event in sorted_events %}
                 {% assign event_start_datetime_parts = event.date_start | split: "T" %}
