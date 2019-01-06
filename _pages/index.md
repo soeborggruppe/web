@@ -472,20 +472,20 @@ hide_default_header: true
             <p>Læs mere under <a href="/gruppen">Gruppen</a>.</p>
         </div>
         <div class="significant-links">
-            <a href="/bliv-leder">Bliv leder</a>
-            <a href="/bliv-spejder">Bliv spejder</a>
+            <a href="/blivleder">Bliv leder</a>
+            <a href="/blivspejder">Bliv spejder</a>
             <a href="/hjaelp">Hjælp</a>
             <a href="/faq">FAQ</a>
             <a href="/kontingent">Kontingent</a>
-            <a href="/ledige-foraeldrejobs">Ledige forældrejobs</a>
-            <a href="/ny-foraelder">Ny spejderforælder?</a>
-            <a href="https://medlem.dds.dk/event" target="_blank" rel="noopener">Kommende events</a>
+            <a href="/foraeldrejobs">Ledige forældrejobs</a>
+            <a href="/velkommen">Ny spejderforælder?</a>
+            <a href="/kalender">Kalender</a>
+            <a href="https://medlem.dds.dk/event" target="_blank" rel="noopener">Kommende ture</a>
             <a href="/gruppen">Gruppen</a>
             <a href="/bestyrelsen">Bestyrelsen</a>
             <a href="https://facebook.com/soeborggruppe" target="_blank" rel="noopener">Facebook</a>
             <a href="https://instagram.com/1.soborggruppe" target="_blank" rel="noopener">Instagram</a>
             <a href="https://medlem.dds.dk/" target="_blank" rel="noopener">Medlemsservice</a>
-            <a href="/kalender">Kalender</a>
         </div>
     </div>
 </div>
@@ -497,8 +497,8 @@ hide_default_header: true
         <p>
             D. 4. oktober 2019 fylder gruppen 100 år.
             I den anledning har vi startet <a href="/museum">et digitalt museum</a>.
-            Hvis du <a href="/museum/tidligere-spejder">tidligere har været spejder i gruppen</a>, vil vi meget gerne høre fra dig, og du er velkommen til vores <a href="/event/2019-jubilaeum">åbent hus-arrangement</a> i forbindelse med jubilæet.
-            <a href="/100">Læs mere</a>.
+            Hvis du <a href="/museum/tidligere-spejder">tidligere har været spejder i gruppen</a>, vil vi meget gerne høre fra dig, og du er velkommen til vores <a href="/kalender/2019-jubilaeum">åbent hus-arrangement</a> i forbindelse med jubilæet.
+            <a href="/kalender/2019-jubilaeum">Læs mere</a>.
         </p>
     </div>
     <div class="initiative">
@@ -507,7 +507,7 @@ hide_default_header: true
         <p>
             Vi deltager i Gladsaxe Kommunes projekt, Genbrugslopperne, hvor vi hjælper med genbrug i kommunen, og samtidig tjener penge til gruppen.
             Udover kontingentindtægter er dette den primære indkomstkilde for gruppen.
-            <a href="/genbrugslopperne">Læs mere</a>.
+            <a href="/loppe">Læs mere</a>.
         </p>
     </div>
     <div class="initiative">

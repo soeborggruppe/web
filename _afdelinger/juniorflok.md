@@ -12,17 +12,14 @@ leaders:
   - Christian Andersen
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
-address_list_code: undefined
+hero_image: /img/junior.jpg
+address_list_code: 1629
 ---
-****Vi har i øjeblikket så mange børn, der gerne vil være juniorere at der er venteliste. I kan se ventelisten og skrive jeres børn på&nbsp;[her](http://soeborggruppe.dk/venteliste).****<strong>**&nbsp;**</strong><strong><em><em><br /></em></em></strong>
+**Vi har i øjeblikket så mange børn, der gerne vil være juniorere at der er venteliste. I kan se ventelisten og skrive jeres børn på [her](/venteliste).**
 
-&nbsp;
+**Hvis du er junior-forælder, kan du se kontaktoplysninger på dit barns ledere og spejderkammerater under "adresseliste" i bunden af siden. Du skal være logget ind med dit medlemsnummer eller e-mail og en adgangskode.**
 
-**Hvis du er junior-forælder, kan du se kontaktoplysninger på dit barns ledere og spejderkammerater under "adresseliste" i højre side. Du skal være logget ind med dit medlemsnummer eller e-mail og en adgangskode.**
-
-&nbsp;
-
-Velkommen til juniorflokken!&nbsp;
+Velkommen til juniorflokken!
 
 Juniorflokken er stedet hvor spejdere i 4.-5. klasse får lidt at rive i og gradvist bliver introduceret til den virkelige verden. Her lærer spejderne om sig selv og deres kammerater, og hvad godt kammeratskab indebærer. Spejderne lærer om deres grænser, får prøvet dem af og rykket dem, så de er bedre rustet til at stå på egne ben.&nbsp;<br /> Vi praktiserer i stort omfang "learning by doing" konceptet, der går ud på, at spejderne lærer ved at prøve kræfter med tingene selv, frem for at blive trukket ved hånden hele vejen.
 
@@ -78,7 +75,9 @@ Vi håber, at dit barn får en god tid som junior, og at du vil være med til at
 
 &nbsp;
 
-<p align="center">**Med Spejderhilsen**</p><p align="center">**Juniorlederne**</p>
+**Med Spejderhilsen**
+
+**Juniorlederne**
 
 &nbsp;
 

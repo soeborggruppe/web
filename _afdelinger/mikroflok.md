@@ -11,9 +11,10 @@ leaders:
   - Iben Helqvist
   - Jonas Toft-Jensen
   - Line Due Buron
-address_list_code: undefined
+hero_image: /img/mikro.jpg
+address_list_code: 1627
 ---
-<strong>Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. I kan se ventelisten og skrive jeres børn på [her](venteliste).<br /></strong>
+<strong>Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. I kan se ventelisten og skrive jeres børn på [her](/venteliste).<br /></strong>
 
 <em>Hvis du er mikro-forælder kan du se kontaktoplysninger på dit barns ledere og spejderkammerater under "adresseliste" i højre side. Du skal være logget ind med dit medlemsnummer eller e-mail og en adgangskode.<br /></em>
 

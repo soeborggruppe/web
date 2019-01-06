@@ -13,13 +13,13 @@ Spejder er, når du ligger i bivuakken, og et græsstrå kilder dig i næsen. N�
 
 Hvis du er forældre til et barn som gerne vil være spejder, så foregår indmeldelse således:
 
-<ul><li>Tjek på den relevante aldersgruppes side, om der står at de har venteliste og skriv dig op [her](venteliste), hvis de har. Hvis ikke, kan du bare møde op ved vores hytter på Maglestien 9 (2860 Søborg) på den dag, hvor aldersgruppen har møde. Du kan se hvornår der er møder, under de forskellige aldersgrupper.</li><li>Herefter kan dit barn komme til 2-3 møder, imens han/hun bestemmer sig for, om det er fedt at være spejder.</li><li>Efter dette får I et link til vores tilmeldingsside, hvor I kan indmelde jer. Det koster 100 kr. at indmelde sig. Ved tilmeldingen får dit barn et tørklæde og en spejderbog til lommen.</li></ul>
+<ul><li>Tjek på den relevante aldersgruppes side, om der står at de har venteliste og skriv dig op [her](/venteliste), hvis de har. Hvis ikke, kan du bare møde op ved vores hytter på Maglestien 9 (2860 Søborg) på den dag, hvor aldersgruppen har møde. Du kan se hvornår der er møder, under de forskellige aldersgrupper.</li><li>Herefter kan dit barn komme til 2-3 møder, imens han/hun bestemmer sig for, om det er fedt at være spejder.</li><li>Efter dette får I et link til vores tilmeldingsside, hvor I kan indmelde jer. Det koster 100 kr. at indmelde sig. Ved tilmeldingen får dit barn et tørklæde og en spejderbog til lommen.</li></ul>
 
 Hvis du har spørgsmål, er du meget velkommen til at henvende dig til gruppelederen eller lederen for den aldersgruppe dit barn er interesseret i. Du finder kontaktoplysninger på aldersgruppernes sider.<br /><br />
 
 &nbsp;**Kontingent**
 
-Du kan se hvad det koster at være medlem&nbsp;[her](kontingent).
+Du kan se hvad det koster at være medlem&nbsp;[her](/kontingent).
 
 &nbsp;
 

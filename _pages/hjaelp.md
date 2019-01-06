@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hjælp
-permalink: hj%C3%A6lp
+permalink: hjaelp
 ---
 Her på siden kan du finde guides (både i tekst- og videoformat) til hvordan man bruger diverse features på hjemmesiden og i medlemssystemet. Læg mærke til at der også ligger guides under titlen "HENT" til højre på siden.
 
@@ -9,7 +9,7 @@ Her på siden kan du finde guides (både i tekst- og videoformat) til hvordan ma
 
 **Ofte stillede spørgsmål**
 
-Hvis du er ny i gruppen kan du tjekke vores side med [Ofte Stillede Spørgsmål](http://soeborggruppe.dk/faq). Der kan du finde en god oversigt over hvad der forventes af spejderforældre.
+Hvis du er ny i gruppen kan du tjekke vores side med [Ofte Stillede Spørgsmål](/faq). Der kan du finde en god oversigt over hvad der forventes af spejderforældre.
 
 &nbsp;
 
@@ -23,7 +23,7 @@ Efter du har sat din adgangskode, kan du logge ind på hjemmesiden med linket ø
 
 **Hjælp til at tilmelde arrangement eller tur**
 
-Den nemmeste måde at finde en tur på, er at kigge i gruppens [kalender](http://soeborggruppe.dk/kalender). Her lægger vi alle kommende arrangementer op. Når du trykker på et arrangement kommer du ind på arrangementets side i kalenderen. For at tilmelde dig, skal du finde den grønne knap til højre, hvor der står "Tilmeld". Du bliver nu sendt videre til Medlemsservice, hvor du udfylder tilmeldingsformularen og betaler.
+Den nemmeste måde at finde en tur på, er at kigge i gruppens [kalender](/kalender). Her lægger vi alle kommende arrangementer op. Når du trykker på et arrangement kommer du ind på arrangementets side i kalenderen. For at tilmelde dig, skal du finde den grønne knap til højre, hvor der står "Tilmeld". Du bliver nu sendt videre til Medlemsservice, hvor du udfylder tilmeldingsformularen og betaler.
 
 &nbsp;
 

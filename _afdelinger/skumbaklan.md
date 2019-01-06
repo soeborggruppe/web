@@ -7,7 +7,8 @@ contact_email: skumba@soeborggruppe.dk
 leaders:
   - Amalia Bønnelykke de Reus
   - Asger Kyhn
-address_list_code: undefined
+hero_image: /img/skumbaklan.jpg
+address_list_code: 1631
 ---
 Som seniorspejder i 1. Søborg lærer man at:
 

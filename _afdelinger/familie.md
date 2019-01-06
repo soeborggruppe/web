@@ -1,5 +1,5 @@
 ---
-title: 1. Søborg Familieflok
+title: Familieflok
 slug: familie
 age_group: 3-6 år
 meeting_time: 10:00-12:00, hveranden søndag (lige uger)
@@ -9,21 +9,9 @@ leaders:
   - Torbjørn Tvermosegaard
   - Christiane Gam
   - Troels Frøhlke Nielsen
-address_list_code: undefined
+hero_image: /img/familieflok.jpg
+address_list_code: 1626
 ---
-d="image-0" class="image-wrapper"><img src="http://soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/imagecache/article-primary-picture/images/2014-08-31%2010.15.05_resized.jpg" alt="Hyldebærsuppe" title="" width="448" height="273" class="imagecache imagecache-article-primary-picture"/></div><div id="image-1" class="image-wrapper"><img src="http://soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/imagecache/article-primary-picture/images/2014-08-31%2010.40.27_resized.jpg" alt="Kriblekrable" title="" width="448" height="273" class="imagecache imagecache-article-primary-picture"/></div><div id="image-2" class="image-wrapper"><img src="http://soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/imagecache/article-primary-picture/images/ida%20i%20skoven.jpg" alt="Ida i skoven" title="" width="448" height="273" class="imagecache imagecache-article-primary-picture"/></div>              
-              <div class="item-list"><ul id="primary-pictures-nav" class="pager"><li class="first">[1](/#image-0)</li>
-<li>[2](/#image-1)</li>
-<li class="last">[3](/#image-2)</li>
-</ul></div>           </div>         
-                    
-              
-              <h2 class="node-title">1. Søborg Familieflok</h2>
-            
-                  
-      
-      
-
 **Familieflokken er&nbsp;for børn mellem 3 og 6 år, samt deres forældre og eventuelle søskende.**
 
 Gennem leg og aktiviter arbejder vi med Spejderidéen.
@@ -32,7 +20,7 @@ Vi skal på møderne først og fremmest have det sjovt ved blandt andet at:
 
 <ul><li>være udenfor året rundt</li><li>tænde bål og lave mad på bål</li><li>udforske naturen ved ture til mosen eller i skoven, hvor vi blandt andet undersøger spændende dyr og insekter,</li><li>bruge kroppen ved at klatre i træer, lave forhindringsbaner og lege</li><li>være sammen med andre børn og forældre der godt kan lide at være udendørs og lave aktiviteter sammen</li></ul>
 
-**Spejderloven **
+**Spejderloven**
 
 Af Spejderlovens syv punkter arbejder vi primært med.
 
@@ -58,7 +46,7 @@ Som afslutning samles vi og synger farvel-sangen.
 
 **Hvor kan jeg skrive mit barn på venteliste?**
 
-Vi har i øjeblikket så mange børn, der gerne vil være familiespejdere, at der er venteliste.&nbsp;[I kan se ventelisten og skrive jeres barn på her](venteliste).
+Vi har i øjeblikket så mange børn, der gerne vil være familiespejdere, at der er venteliste.&nbsp;[I kan se ventelisten og skrive jeres barn på her](/venteliste).
 
 <strong>Vi tager også på hytteture<br /></strong>Hver år tager familieflokken (børn, søskende og forældre) på en hyttetur i slutningen af juni. På turen hygger vi, laver bål, leger og måske kommer Torben Træben også forbi...
 

@@ -13,11 +13,15 @@ Hvis initiativet går godt og er populært blandt ledere i Bernstorff og Gladsax
 
 &nbsp;
 
-<h4>**Kommende kurser**</h4>
+<h4>Kommende kurser</h4>
 
 Følgende kurser er planlagt de næste par år. Tryk på et kursus for at gå til tilmeldingssiden.
 
-<ul><li>[12-timers førstehjælpskursus d. 30.-31. marts 2019](https://medlem.dds.dk/event/id/15027/register)</li><li>[3-timers genopfriskningskursus d. 2. juni 2019](https://medlem.dds.dk/event/id/15030/register)</li><li>[12-timers førstehjælpskursus d. 2.-3. november 2019](https://medlem.dds.dk/event/id/15029/register)</li><li>12-timers førstehjælpskursus d. 25.-26. april 2020</li><li>3-timers genopfriskningskursus d. 14. juni 2020</li></ul>
+- [12-timers førstehjælpskursus d. 30.-31. marts 2019](https://medlem.dds.dk/event/id/15027/register)
+- [3-timers genopfriskningskursus d. 2. juni 2019](https://medlem.dds.dk/event/id/15030/register)
+- [12-timers førstehjælpskursus d. 2.-3. november 2019](https://medlem.dds.dk/event/id/15029/register)
+- 12-timers førstehjælpskursus d. 25.-26. april 2020
+- 3-timers genopfriskningskursus d. 14. juni 2020
 
 &nbsp;
 

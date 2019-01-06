@@ -8,7 +8,8 @@ leaders:
   - Lars Brandt Partoft
   - Anna Kaihøj
   - Simon Werner-Thunø
-address_list_code: undefined
+hero_image: /img/vatiklanet.jpg
+address_list_code: 1632
 ---
 Som seniorspejder i 1. Søborg lærer man at:
 

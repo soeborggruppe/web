@@ -1,23 +1,21 @@
 ---
 layout: page
 title: Forældrejobs
-permalink: for%C3%A6ldrejobs
+permalink: foraeldrejobs
 ---
-<script type="text/javascript">// <![CDATA[
-$(".node-title").hide();
-// ]]></![cdata[></script>
-
 <img src="http://i.imgur.com/0tFazNP.png" style="width: 100%;" />
 
-<p style="text-align: center;">&nbsp;</p><p style="text-align: center;">Udpeges af bestyrelsen</p><h1>**Skriv til formand [at] soeborggruppe [dot] dk, hvis du kunne være interesseret i et af de ledige forældrejob.**</h1>
+Udpeges af bestyrelsen
+
+**Skriv til formand [at] soeborggruppe [dot] dk, hvis du kunne være interesseret i et af de ledige forældrejob.**
 
 &nbsp;
 
-Loppedirektør
+# Loppedirektør
 
 **&nbsp;**
 
-**Tidsforbrug: **ca. 20 timer/år
+**Tidsforbrug** ca. 20 timer/år
 
 **Beskrivelse:&nbsp;**<br />
 
@@ -25,7 +23,7 @@ Loppedirektør
 
 &nbsp;
 
-Loppe Vice President (VP)
+# Loppe Vice President (VP)
 
 **Mette Bjørndal Axelsen**<br />**Christina Dahl (Inviterer)**<br />**Martin Kyhn**<br /><strong style="color: #ff0000; line-height: 1.5em;">Der er plads til flere VP'er.</strong>
 
@@ -47,7 +45,7 @@ Dedekerede opgaver, f.eks:
 
 **Niels Brandt-Partoft**
 
-**Tidsforbrug: **ca. 4 time/måned, samt en arbejdsdag 2 gange per år.
+**Tidsforbrug:**ca. 4 time/måned, samt en arbejdsdag 2 gange per år.
 
 **Beskrivelse: &nbsp;**Løbende vedligehold og forbedringer på hytter, skure og grund. Ansvarlig for arbjedsdage. Kontakt til forsynings- og renovationsselskaber. Administration af nøgler til hytterne.
 
@@ -75,7 +73,7 @@ Dedekerede opgaver, f.eks:
 
 **Barbara Kelbjørn &amp; Henrik Krohn**
 
-**Tidsforbrug: **1 time i april, maj, primo august og september.
+**Tidsforbrug:**1 time i april, maj, primo august og september.
 
 **Beskrivelse: &nbsp;**Løbende slå græs på grunden. &nbsp;Der er græsslåmaskine i hytten. Indkøbe benzin hvis der mangler.
 
@@ -117,7 +115,7 @@ Dedekerede opgaver, f.eks:
 
 <strong>Camilla Bentzen<br /></strong>
 
-**Tidsforbrug: **3 timer 1 gang halvårligt
+**Tidsforbrug:**3 timer 1 gang halvårligt
 
 **Beskrivelse:&nbsp;**Pudse vinduer på begge hytter både indvendigt og udvendigt. Indkøbe rengøringsartikler, hvis der mangler. Bonner skannes og sendes til kasserer [at] soeborggruppe [dot] dk, hvorefter udlæget refunderes. Nøgle lånes af en leder fra gang til gang
 
@@ -131,7 +129,7 @@ Dedekerede opgaver, f.eks:
 
 **Pernille Hegner**
 
-**Tidsforbrug: **1 gang i kvartalet
+**Tidsforbrug:**1 gang i kvartalet
 
 **Beskrivelse:&nbsp;**Vaske og tørre viskestykker&nbsp; og håndklæder i begge hytter.
 
@@ -145,7 +143,7 @@ Dedekerede opgaver, f.eks:
 
 **Christina Dahl**
 
-**Tidsforbrug: **Periodevis, men ca. 4&nbsp;timer per halvår.
+**Tidsforbrug:**Periodevis, men ca. 4&nbsp;timer per halvår.
 
 **Beskrivelse:&nbsp;**Opbygge kendskab til relevante fonde og skrive ansøgninger om midler i forbindelse med større materielindkøb, ture eller hytteprojekter.
 
@@ -173,13 +171,13 @@ Dedekerede opgaver, f.eks:
 
 **Stillingen er ledig**
 
-**Tidsforbrug: **2 timer en gang i kvartalet
+**Tidsforbrug:**2 timer en gang i kvartalet
 
-**Beskrivelse: **Afkalke elkedddel, afkalke vandhaner (toiletter og køkkener), vaske køleskab (begge køkkener), rense ovn, fylde salt og afspænding på opvaskemaskine, rengøre håndvaske (køkken og toilet), vaske emhættefilter (begge køkkener). Indkøb af eddikesyre, rengøringsartikler, salt, afspænding og opvasketabletter hvis der mangler.&nbsp;
+**Beskrivelse:**Afkalke elkedddel, afkalke vandhaner (toiletter og køkkener), vaske køleskab (begge køkkener), rense ovn, fylde salt og afspænding på opvaskemaskine, rengøre håndvaske (køkken og toilet), vaske emhættefilter (begge køkkener). Indkøb af eddikesyre, rengøringsartikler, salt, afspænding og opvasketabletter hvis der mangler.&nbsp;
 
 &nbsp;
 
-<p style="text-align: center;">Vælges af grupperådet</p><h1>**Disse poster er alle besat, men nogle kun frem til næste grupperådsmøde, så skriv til formand [at] soeborggruppe [dot] dk, hvis du kunne være interesseret i en af dem. **</h1><h1>**Navne og kontaktoplysninger på de nuværende bestyrelsesmedlemmer og revisorer kan ses&nbsp;[her](http://soeborggruppe.dk/dds/bestyrelsesliste).**</h1>
+<p style="text-align: center;">Vælges af grupperådet</p><h1>**Disse poster er alle besat, men nogle kun frem til næste grupperådsmøde, så skriv til formand [at] soeborggruppe [dot] dk, hvis du kunne være interesseret i en af dem.**</h1><h1>**Navne og kontaktoplysninger på de nuværende bestyrelsesmedlemmer og revisorer kan ses&nbsp;[her](http://soeborggruppe.dk/dds/bestyrelsesliste).**</h1>
 
 &nbsp;
 
@@ -219,7 +217,7 @@ Bestyrelsesmedlemssuppleant
 
 Grupperevisor
 
-**Tidsforbrug: **Ca. 9 timer ultimo januar.
+**Tidsforbrug:**Ca. 9 timer ultimo januar.
 
 **Beskrivelse:&nbsp;**Reviderer gruppens regnskab i henhold til Det Danske Spejderkorps revisionsvejledning.
 

@@ -13,11 +13,7 @@ document.head.appendChild(el.firstChild);
 
 <div class="progress-bar-container"><div class="progress-bar"><div class="last-year-mark" style="left: 90%;">54 tkr</div><div class="goal-mark">60 tkr</div><div class="current-mark medium" style="left: 28%;">17 tkr</div><div class="bar medium" style="width: 28%;">&nbsp;</div></div></div>
 
-&nbsp;
-
 [KLIK her for at tilmelde dig til GENBRUGSLOPPERNE i 2018/19](https://docs.google.com/spreadsheets/d/1bLdRbyhAGhNQro5s3teNXPcDGAmsg0FMeKhyp31jk5Y/edit?usp=sharing)
-
-&nbsp;
 
 <strong>Uden genbrugslopperne fungerer gruppen ikke<br /></strong>Til Genbrugslopperne sælger 1. Søborg Gruppe ting der er indleveret til genbrugsstationen, og overskuddet går til gruppen. Vi står for sortering og tømning af genbrugsstationen, samt klargøring af salgssted og det faktiske salg. Vi plejer at have to omgange Genbrugslopper på et år, én gang hvert halvår.
 
@@ -39,7 +35,7 @@ Hvis du bliver til en omgang tømning slutter om aftenen, giver gruppen aftensma
 
 Det er dig, som forælder eller tropsspejder, der tilmelder dig til arrangementet. Men du må gerne tage andre familiemedlemmer (yngre spejdere eller søskende) med ud på dagen, og også med til aftensmad. Det er altid hyggeligt.
 
-**Kommende arrangement: **
+**Kommende arrangement:**
 
 <ul><li><strong>8. august tømning/oprydning på genbrugspladsen på Turbinevej kl. 16-18.30<br /></strong></li><li><strong>9. august oprydning i køkkenafdeling, Grønnegården, Transformervej 3. Eftermiddag/aften efter aftale.<br /></strong></li><li>**11. august fællessalg. Vi skal sælge i køkkenafdelingen sammen med 3 andre foreninger. Det forgår på Grønnegården, Transformervej 3. Morgenmad fra kl. 8, klargøring af afdelingen 9-10, salg 10-13 og oprydning til vi er færdige (13.30)**</li></ul>
 

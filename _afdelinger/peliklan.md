@@ -7,7 +7,8 @@ contact_email: peli@soeborggruppe.dk
 leaders:
   - Troels Brandt Partoft
   - Christian Philip Wiboe
-address_list_code: undefined
+hero_image: /img/peliklan.jpg
+address_list_code: 1633
 ---
 På vores ugentlige møde planlægger vi møder og ture/arrangementer. Tilbagevendende arrangementer er blandt andet: julefrokost, grillfest, og videoweekend, samt en sommerlejr.&nbsp;<br />Vi består desuden overvejende af drenge (vi har 3 piger) og vi kunne godt tænke os nogle flere piger.&nbsp;<br />Langt de fleste medlemmer er aktive, vi er for tiden samlet 16 medlemmer, som for de flestes vedkommende er i gang med en videregående uddannelse efter gymnasiet.&nbsp;
 
