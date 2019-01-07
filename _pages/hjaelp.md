@@ -15,7 +15,7 @@ Hvis du er ny i gruppen kan du tjekke vores side med [Ofte Stillede Spørgsmål]
 
 **Hjælp til at logge ind**
 
-Er det første gang, du skal logge ind, efter du er blevet medlem, skal du gå ind på [Medlemsservice ](http://medlem.dds.dk/)og trykke "Log Ind" (øverst til højre). Her kan du trykke Nulstil kodeord. Udfyld formularen med den email, du blev oprettet som, da du eller dit barn blev indmeldt. Det er altså din egen email du skal bruge, ligemeget om du er spedjer eller forælder.
+Er det første gang, du skal logge ind, efter du er blevet medlem, skal du gå ind på [Medlemsservice](http://medlem.dds.dk/) og trykke "Log Ind" (øverst til højre). Her kan du trykke Nulstil kodeord. Udfyld formularen med den email, du blev oprettet som, da du eller dit barn blev indmeldt. Det er altså din egen email du skal bruge, ligemeget om du er spedjer eller forælder.
 
 Efter du har sat din adgangskode, kan du logge ind på hjemmesiden med linket øverst til højre. Du henvises til Medlemsservice, der måske beder dig om at indtaste email og kodeord igen. Så er du logget ind!
 
@@ -24,6 +24,8 @@ Efter du har sat din adgangskode, kan du logge ind på hjemmesiden med linket ø
 **Hjælp til at tilmelde arrangement eller tur**
 
 Den nemmeste måde at finde en tur på, er at kigge i gruppens [kalender](/kalender). Her lægger vi alle kommende arrangementer op. Når du trykker på et arrangement kommer du ind på arrangementets side i kalenderen. For at tilmelde dig, skal du finde den grønne knap til højre, hvor der står "Tilmeld". Du bliver nu sendt videre til Medlemsservice, hvor du udfylder tilmeldingsformularen og betaler.
+
+Korpset har lavet en guide om [betaling med kreditkort i Medlemsservice](/files/Betaling med kreditkort Spejdernes Medlemsservice 29.10.16.pdf).
 
 &nbsp;
 

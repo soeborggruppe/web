@@ -13,6 +13,11 @@ leaders:
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
 hero_image: /img/junior.jpg
+files:
+  - link: /files/Halvaarsprogram - foraar 2019 - Spejderversion.pdf
+    name: Halvårsprogram forår 2019
+  - link: /files/Pakkeliste_2.pdf
+    name: Pakkeliste
 address_list_code: 1629
 ---
 **Vi har i øjeblikket så mange børn, der gerne vil være juniorere at der er venteliste. I kan se ventelisten og skrive jeres børn på [her](/venteliste).**

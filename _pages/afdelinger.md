@@ -3,8 +3,6 @@ layout: page
 permalink: afdelinger
 title: Afdelinger
 ---
-# Afdelinger
-
 Gruppen er inddelt i forskellige aldersgrupper, som vi både kalder *afdelinger* og *grene*.
 De har til fælles at de holder faste møder i [vores hytte](/hytte), men deres møder foregår separat.
 

@@ -9,6 +9,9 @@ leaders:
   - Anna Kaihøj
   - Simon Werner-Thunø
 hero_image: /img/vatiklanet.jpg
+files:
+  - link: /files/Vedtaegter_0.pdf
+    name: Vedtægter
 address_list_code: 1632
 ---
 Som seniorspejder i 1. Søborg lærer man at:

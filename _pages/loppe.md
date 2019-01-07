@@ -23,11 +23,13 @@ Vi vil meget gerne have **dig** som forælder eller tropsspejder med ud til Genb
 
 Når du møder op første gang, gør vi hvad vi kan for at give dig instruktion i hvordan alting foregår. Der er en ansvarlig for hver dag, som kan hjælpe dig i gang, hvis du er i tvivl.
 
-Hvis du gerne vil læse mere nu, kan du se vores præsentation, [Genbrugslopperne - sådan foregår det](http://soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/Genbrugslopperne%20-%20s%C3%A5dan%20foreg%C3%A5r%20det_0.pdf).
+Hvis du gerne vil læse mere nu, kan du se vores præsentation, [Genbrugslopperne - sådan foregår det](/files/Genbrugslopperne - saadan foregaar det_0.pdf).
 
 &nbsp;
 
-<strong>Hvad skal du vide, for at tilmelde dig?<br /></strong>For hver omgang Genbrugsloppe skal vi tømme ud på Genbrugsstationen et par gange (fra søndag til og med fredag) og så sælge på loppemarked om lørdagen.
+**Hvad skal du vide, for at tilmelde dig?**
+<br />
+For hver omgang Genbrugsloppe skal vi tømme ud på Genbrugsstationen et par gange (fra søndag til og med fredag) og så sælge på loppemarked om lørdagen.
 
 Når du tilmelder dig, kan du se hele tidsrummet, vi skal bruge folk i, og præcis hvilke dage, det drejer sig om. Hvis du ikke kan hele tidsrummet, kan du uddybe det i tilmeldingen.
 
@@ -37,7 +39,9 @@ Det er dig, som forælder eller tropsspejder, der tilmelder dig til arrangemente
 
 **Kommende arrangement:**
 
-<ul><li><strong>8. august tømning/oprydning på genbrugspladsen på Turbinevej kl. 16-18.30<br /></strong></li><li><strong>9. august oprydning i køkkenafdeling, Grønnegården, Transformervej 3. Eftermiddag/aften efter aftale.<br /></strong></li><li>**11. august fællessalg. Vi skal sælge i køkkenafdelingen sammen med 3 andre foreninger. Det forgår på Grønnegården, Transformervej 3. Morgenmad fra kl. 8, klargøring af afdelingen 9-10, salg 10-13 og oprydning til vi er færdige (13.30)**</li></ul>
+- **8. august tømning/oprydning på genbrugspladsen på Turbinevej kl. 16-18.30**
+- **9. august oprydning i køkkenafdeling, Grønnegården, Transformervej 3. Eftermiddag/aften efter aftale.**
+- **11. august fællessalg. Vi skal sælge i køkkenafdelingen sammen med 3 andre foreninger. Det forgår på Grønnegården, Transformervej 3. Morgenmad fra kl. 8, klargøring af afdelingen 9-10, salg 10-13 og oprydning til vi er færdige (13.30)**
 
 **Hvad er genbrugslopperne?**
 

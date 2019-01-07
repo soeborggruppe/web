@@ -10,6 +10,13 @@ leaders:
   - Christiane Gam
   - Troels Frøhlke Nielsen
 hero_image: /img/familieflok.jpg
+files:
+  - link: /files/1. Halvaarsprogram 2019.docx
+    name: 1. Halvårsprogram 2019
+  - link: /files/Hjaelp til planlaegning familiespejder.docx
+    name: Hjælp til planlægning, familiespejder
+  - link: /files/Familiespejderfotos.jpg
+    name: Familiespejderfotos (2014-2015)
 address_list_code: 1626
 ---
 **Familieflokken er&nbsp;for børn mellem 3 og 6 år, samt deres forældre og eventuelle søskende.**

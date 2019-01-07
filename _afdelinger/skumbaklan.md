@@ -8,6 +8,9 @@ leaders:
   - Amalia Bønnelykke de Reus
   - Asger Kyhn
 hero_image: /img/skumbaklan.jpg
+files:
+  - link: /files/05.10.2016_Vedtaegter.pdf
+    name: Vedtægter 05.10.2016
 address_list_code: 1631
 ---
 Som seniorspejder i 1. Søborg lærer man at:

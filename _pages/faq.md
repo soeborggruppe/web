@@ -27,7 +27,7 @@ A: Ja, man skal som minimum have den normale uniformsskjorte i bomuld. Men der f
 
 **Q: Hvad skal man pakke til ture?**
 
-A: Se den vedhæftede pakkeliste.
+A: Se vores [generelle pakkeliste](/files/Pakkeliste.pdf).
 
 Turspecifikt udstyr vil angå af turinvitationen.
 
@@ -55,7 +55,7 @@ A: Grupperådsmødet er gruppens generalforsamling. Det er her de største beslu
 
 **Q: Har gruppen en ryge- og/eller alkoholpolitik?**
 
-A: Ja, se dok: [http://www.soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/samvaerspolitik2015.pdf](http://www.soeborggruppe.dk/sites/soeborg.gruppe.dds.dk/files/samvaerspolitik2015.pdf)
+A: Ja, se dok: [samvaerspolitik2015.pdf](/files/samvaerspolitik2015.pdf)
 
 **Q: Hvad gør vi, hvis mit barn får hjemve på en tur/lejr?**
 
