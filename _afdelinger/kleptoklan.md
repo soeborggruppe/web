@@ -6,7 +6,7 @@ meeting_time: Ca. Hver 3. Måned
 contact_email: klepto@soeborggruppe.dk
 leaders:
   - Anders Hanberg
-hero_image: /img/kleptoklan.jpg
+hero_image: /img/Kleptoklan.jpg
 address_list_code: 1634
 ---
 Hej vi er KleptoKlan, en&nbsp;seniorklan i 1. Søborg gruppe.
