@@ -57,6 +57,11 @@ layout: default
             })();
         </script>
     </h1>
+
+    <aside>
+        Du kan få events i kalenderen ind i din egen elektroniske kalender, ved at bruge <a href="/ical">vores iCal-integration</a>.
+    </aside>
+
     <button class="previous-month-loader" onclick="showPreviousMonth()" style="display: none">Vis tidligere events</button>
     {% assign sorted_events = site.events | sort: 'date_start' %}
     {% for month in page.months %}
