@@ -9,7 +9,7 @@ De har til fælles at de holder faste møder i [vores hytte](/hytte), men deres 
 - [Familieflokken](/familie) er for de 3-6-årige, der endnu ikke går i skole, samt deres forældre og søskende.
   De holder møder hver anden søndag (lige uger) fra 10:00 - 12:00.
 - [Mikroflokken](/mikroflok) er for børn i 0.-1. klasse, og holder møder om torsdagen fra 17:00 - 18:30.
-- [Miniflokken](/miniflko) er for børn i 2.-3. klasse, og holder møder om torsdagen fra 18:30 - 20:00.
+- [Miniflokken](/miniflok) er for børn i 2.-3. klasse, og holder møder om torsdagen fra 18:30 - 20:00.
 - [Juniorflokken](/juniorflok) er for børn i 4.-5. klasse, og holder møde om tirsdagen fra 19:00 - 21:00.
 - [Troppen](/trop) er for unge mennesker i 6.-9. klasse, og holder møde om tirsdagen fra 19:00 - 21:00.
 
