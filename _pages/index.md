@@ -329,11 +329,15 @@ hide_default_header: true
     .initiative a {
         color: #5582f4;
     }
-    .initiative img {
-        width: 100%;
-        object-fit: cover;
+    .initiative .img-link {
         height: 0;
         flex-grow: 1;
+        width: 100%;
+    }
+    .initiative img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
         background-color: rgb(240, 240, 240);
     }
     .initiative h1 {
@@ -492,7 +496,9 @@ hide_default_header: true
 
 <div class="initiatives">
     <div class="initiative">
-        <img src="/photos/gamle-billeder/Foto 148-resized-600.jpg">
+        <a href="/kalender/2019-jubilaeum" class="img-link">
+            <img src="/photos/gamle-billeder/Foto 148-resized-600.jpg">
+        </a>
         <h1>100 års jubilæum</h1>
         <p>
             D. 4. oktober 2019 fylder gruppen 100 år.
@@ -502,7 +508,9 @@ hide_default_header: true
         </p>
     </div>
     <div class="initiative">
-        <img src="/img/genbrugslopperne.jpg">
+        <a href="/loppe" class="img-link">
+            <img src="/img/genbrugslopperne.jpg">
+        </a>
         <h1>Genbrugslopperne</h1>
         <p>
             Vi deltager i Gladsaxe Kommunes projekt, Genbrugslopperne, hvor vi hjælper med genbrug i kommunen, og samtidig tjener penge til gruppen.
@@ -511,7 +519,9 @@ hide_default_header: true
         </p>
     </div>
     <div class="initiative">
-        <img src="/img/foerstehjaelp.jpg">
+        <a href="/foerstehjaelp" class="img-link">
+            <img src="/img/foerstehjaelp.jpg">
+        </a>
         <h1>Gratis førstehjælp</h1>
         <p>
             Med støtte for Trygfonden afholder vi gratis førstehjælpskurser for spejderledere i Gladsaxe Kommune og Bernstorff Division i perioden 2019-2022.
