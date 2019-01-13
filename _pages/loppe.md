@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genbrugslopperne
+title: Genbrugs&shy;lopperne
 permalink: loppe
 ---
 <img src="http://i.imgur.com/zluJ2Vn.jpg" style="margin-top: -30px;" width="100%" />
@@ -11,6 +11,13 @@ el.innerHTML = '<link rel="stylesheet" type="text/css" href="https://gruppeweb-e
 document.head.appendChild(el.firstChild);
 // ]]></![cdata[></script>
 
+<style scoped>
+.progress-bar-container {
+    font-size: 0.8em;
+    box-sizing: border-box;
+    max-width: 500px;
+}
+</style>
 <div class="progress-bar-container"><div class="progress-bar"><div class="last-year-mark" style="left: 90%;">54 tkr</div><div class="goal-mark">60 tkr</div><div class="current-mark medium" style="left: 28%;">17 tkr</div><div class="bar medium" style="width: 28%;">&nbsp;</div></div></div>
 
 [KLIK her for at tilmelde dig til GENBRUGSLOPPERNE i 2018/19](https://docs.google.com/spreadsheets/d/1bLdRbyhAGhNQro5s3teNXPcDGAmsg0FMeKhyp31jk5Y/edit?usp=sharing)
