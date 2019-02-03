@@ -412,52 +412,52 @@ hide_default_header: true
             <div class="group-image-spacer"></div>
             <div class="group-age-groups">
                 <a class="age-group" href="/familie">
-                    <img src="/img/familieflok.jpg">
+                    <img src="/img/familieflok-thumb.jpg">
                     <span class="age-group-name">Familieflokken</span>
                     <span class="age-group-age">3-6 år</span>
                 </a>
                 <a class="age-group" href="/mikroflok">
-                    <img src="/img/mikro.jpg">
+                    <img src="/img/mikro-thumb.jpg">
                     <span class="age-group-name">Mikroflokken</span>
                     <span class="age-group-age">0.-1. klasse</span>
                 </a>
                 <a class="age-group" href="/miniflok">
-                    <img src="/img/mini.jpg">
+                    <img src="/img/mini-thumb.jpg">
                     <span class="age-group-name">Miniflokken</span>
                     <span class="age-group-age">2.-3. klasse</span>
                 </a>
                 <a class="age-group" href="/juniorflok">
-                    <img src="/img/junior.jpg">
+                    <img src="/img/junior-thumb.jpg">
                     <span class="age-group-name">Juniorflokken</span>
                     <span class="age-group-age">4.-5. klasse</span>
                 </a>
                 <a class="age-group" href="/trop">
-                    <img src="/img/trop.jpg">
+                    <img src="/img/trop-thumb.jpg">
                     <span class="age-group-name">Troppen</span>
                     <span class="age-group-age">6.-9. klasse</span>
                 </a>
                 <a class="age-group" href="/skumbaklan">
-                    <img src="/img/skumbaklan.jpg">
+                    <img src="/img/skumbaklan-thumb.jpg">
                     <span class="age-group-name">Skumbaklan</span>
                     <span class="age-group-age">16-19 år</span>
                 </a>
                 <a class="age-group" href="/vatiklanet">
-                    <img src="/img/vatiklanet.jpg">
+                    <img src="/img/vatiklanet-thumb.jpg">
                     <span class="age-group-name">Vatiklanet</span>
                     <span class="age-group-age">20-26 år</span>
                 </a>
                 <a class="age-group" href="/peliklan">
-                    <img src="/img/peliklan.jpg">
+                    <img src="/img/peliklan-thumb.jpg">
                     <span class="age-group-name">Peliklan</span>
                     <span class="age-group-age">25-29 år</span>
                 </a>
                 <a class="age-group" href="/kleptoklan">
-                    <img src="/img/kleptoklan.jpg">
+                    <img src="/img/kleptoklan-thumb.jpg">
                     <span class="age-group-name">Kleptoklan</span>
                     <span class="age-group-age">30-39 år</span>
                 </a>
                 <a class="age-group" href="/foraeldrepatruljen">
-                    <img src="/img/foraeldrepatruljen.jpg">
+                    <img src="/img/foraeldrepatruljen-thumb.jpg">
                     <span class="age-group-name">Forældrepatruljen</span>
                     <span class="age-group-age">for forældre</span>
                 </a>
