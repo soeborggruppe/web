@@ -55,7 +55,7 @@ A: Grupperådsmødet er gruppens generalforsamling. Det er her de største beslu
 
 **Q: Har gruppen en ryge- og/eller alkoholpolitik?**
 
-A: Ja, se dok: [samvaerspolitik2015.pdf](/files/samvaerspolitik2015.pdf)
+A: Ja, se dok: [samvaerspolitik2018.pdf](/files/samvaerspolitik2018.pdf)
 
 **Q: Hvad gør vi, hvis mit barn får hjemve på en tur/lejr?**
 

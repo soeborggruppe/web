@@ -8,4 +8,4 @@ title: Gruppen
 Det er Det Danske Spejderkorps' formål, at udvikle børn og unge til vågne, selvstændige mennesker, der er villige til, efter bedste evne, at påtage sig et medmenneskeligt ansvar i det danske samfund og ude i verden.&nbsp;Korpset er ikke tilknyttet noget trossamfund, i modsætning til de øvrige danske spejderkorps.
 
 - [Ofte stillede spørgsmål](/faq/)
-- [Gruppens samværspolitik](/files/samvaerspolitik2015.pdf)
+- [Gruppens samværspolitik](/files/samvaerspolitik2018.pdf)
