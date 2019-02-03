@@ -308,6 +308,10 @@ ul, ol {
         width: 100%;
         object-position: center;
         object-fit: scale-down;
+
+        &.text-width-image {
+            height: auto;
+        }
     }
 }
 .image-section {
