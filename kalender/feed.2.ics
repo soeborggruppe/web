@@ -1,0 +1,28 @@
+---
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//soeborggruppe.dk//SpejderApp ICAL//DK
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME: Kalender | 1. Søborg Gruppe
+
+{% for event in site.events %}
+{% assign date_start_parts = event.date_start | split: "T" %}
+{% assign date_end_parts = event.date_end | split: "T" %}
+{% assign time_start_parts = date_start_parts[1] | split: ":" %}
+{% assign time_end_parts = date_end_parts[1] | split: ":" %}
+BEGIN:VEVENT
+SUMMARY:{{ event.title }}
+UID:{{ event.url | replace: '/', '_' }}@museum.soeborggruppe.dk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DTSTAMP:20181130T000000Z
+DTSTART;TZID=/Europe/Copenhagen:{{ date_start_parts[0] | replace: '-', '' }}T{{ time_start_parts[0] }}{{ time_start_parts[1] }}00
+DTEND;TZID=/Europe/Copenhagen:{{ date_end_parts[0] | replace: '-', '' }}T{{ time_end_parts[0] }}{{ time_end_parts[1] }}00
+DESCRIPTION:Mere info findes på hjemmesiden: https://museum.soeborggruppe.dk{{ event.url }}
+URL;VALUE=URI:https://museum.soeborggruppe.dk{{ event.url }}
+END:VEVENT
+{% endfor %}
+
+END:VCALENDAR
