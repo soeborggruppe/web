@@ -9,4 +9,4 @@ Vi bruger kun billeder til at vise hvor fedt det er at gå til spejder, og du ka
 
 Du kan læse om hvordan vi behandler medlemmers data (inklusiv billeder) i [vores databehandlingspolitik](/gdpr).
 
-Meld dig ind, efter aftale med afdelingslederne i den afdeling du eller dit barn starter i, i [indmeldingsformularing](https://medlem.dds.dk/member/signup/1715).
+Meld dig ind, efter aftale med afdelingslederne i den afdeling du eller dit barn starter i, i [indmeldingsformularen](https://medlem.dds.dk/member/signup/1715).
