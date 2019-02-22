@@ -17,7 +17,7 @@ files:
     name: Halvårsprogram 2019-1
 address_list_code: 1627
 ---
-**Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. I kan se ventelisten og skrive jeres børn på **[**her**](/venteliste)**.**
+**Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. **[**I kan se ventelisten og skrive jeres børn på her**](https://soeborggruppe.dk/venteliste)**.**
 
 
 
