@@ -1,8 +1,9 @@
 ---
 title: Mikroflokken
 slug: mikroflok
+hero_image: /img/mikro.jpg
 age_group: 0. - 1. klasse
-meeting_time: Torsdag 17:00-18:30
+meeting_time: 'Torsdag 17:00-18:30'
 contact_email: mkl@soeborggruppe.dk
 leaders:
   - Anders Enghøj
@@ -11,7 +12,9 @@ leaders:
   - Iben Helqvist
   - Jonas Toft-Jensen
   - Line Due Buron
-hero_image: /img/mikro.jpg
+files:
+  - link: /files/mikrospejder-halvårsprogram-2019-1.pdf
+    name: Halvårsprogram 2019-1
 address_list_code: 1627
 ---
 <strong>Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. I kan se ventelisten og skrive jeres børn på [her](/venteliste).<br /></strong>
