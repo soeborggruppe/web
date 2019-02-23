@@ -587,19 +587,26 @@ aside:before {
     background: white;
     margin: 5px 0;
     box-sizing: border-box;
-}
-.event-section h1 {
-    font-family: 'Krub', sans-serif;
-}
-.event-section h1 a {
-    color: inherit;
-    text-decoration: inherit;
-}
-.event-section h2 {
-    font-family: 'Krub', sans-serif;
-    text-transform: uppercase;
-    font-weight: normal;
-    font-size: 0.7em;
+
+    h1 {
+        font-family: 'Krub', sans-serif;
+
+        a {
+            color: inherit;
+            text-decoration: inherit;
+        }
+    }
+
+    h2 {
+        font-family: 'Krub', sans-serif;
+        text-transform: uppercase;
+        font-weight: normal;
+        font-size: 0.7em;
+    }
+
+    ul, ol {
+        padding-left: 20px;
+    }
 }
 .event-datetime {
     font-family: 'Krub', sans-serif;
