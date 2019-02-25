@@ -82,7 +82,13 @@ layout: default
                         {% assign any_events_in_month = true %}
                         <a class="event-brief" href="{{ event.url }}">
                             <span class="event-datetime">
-                                d. {{ event_start_date_parts[2] }}.
+                                d.
+                                {% assign date_first_number = event_start_date_parts[2] | slice: 0 %}
+                                {% if date_first_number == '0' %}
+                                    {{ event_start_date_parts[2] | slice: 1 }}.
+                                {% else %}
+                                    {{ event_start_date_parts[2] }}.
+                                {% endif %}
                                 kl. {{ event_start_time_parts[0] }}:{{ event_start_time_parts[1] }}
                             </span>
                             <span class="event-title">
