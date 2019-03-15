@@ -22,4 +22,4 @@ Klanen har et godt socialt sammenhold og er meget aktiv. Vi mødes hver anden on
 
 Som beskrevet i vores vedtægter har vi "til formål at skabe sammenhold og udvikle medlemmerne til ansvarstagende individer, der er villige til efter bedste evne at deltage selvstændigt i det danske samfund såvel som i resten af verden.”
 
-<div>Vi har hvert år en sommerlejr med deltagerbetaling og følgdende ture, der er dækket af kontingentet:</div><ul><li><div>Forårsweekendtur</div></li><li><div>Vandretur på Söderåsen</div></li><li><div>Familieweekend</div></li><li>Efterårsweekendtur </li><li>Seniortræf </li><li>Juletur</li></ul>
+<div>Vi tager på sommerlejr hver år med deltagerbetaling og følgende ture, der er dækket af kontingentet:</div><ul><li><div>Forårsweekendtur</div></li><li><div>Vandretur på Söderåsen</div></li><li><div>Familieweekend</div></li><li>Efterårsweekendtur </li><li>Seniortræf </li><li>Juletur</li></ul>
