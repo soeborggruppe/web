@@ -13,6 +13,7 @@ leaders:
   - Lars Brandt Partoft
 files:
   - link: /files/halvårsprogram-forår-2019.pdf
+    name: Halvårsprogram forår 2019
 address_list_code: 1630
 ---
 Troppen er delt op i 4 patruljer med ca. 7 spejdere i hver.
