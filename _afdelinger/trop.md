@@ -1,7 +1,7 @@
 ---
 title: Troppen
 slug: trop
-hero_image: /img/trop.jpg
+hero_image: /files/37681268_2201143063438808_8844909087918391296_o.jpg
 age_group: 6. - 9. klasse
 meeting_time: Tirsdag kl. 19-21
 contact_email: tl@soeborggruppe.dk
