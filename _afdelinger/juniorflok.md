@@ -1,8 +1,9 @@
 ---
 title: Juniorflokken
 slug: juniorflok
+hero_image: /img/junior.jpg
 age_group: 4. - 5. kl.
-meeting_time: Tirsdag 19:00 - 21:00
+meeting_time: 'Tirsdag 19:00 - 21:00'
 contact_email: jl@soeborggruppe.dk
 leaders:
   - Fabian Lehmann Thune Jacobsen
@@ -12,7 +13,6 @@ leaders:
   - Christian Andersen
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
-hero_image: /img/junior.jpg
 files:
   - link: /files/Halvaarsprogram - foraar 2019 - Spejderversion.pdf
     name: Halvårsprogram forår 2019
@@ -20,17 +20,13 @@ files:
     name: Pakkeliste
 address_list_code: 1629
 ---
-**Vi har i øjeblikket så mange børn, der gerne vil være juniorere at der er venteliste. I kan se ventelisten og skrive jeres børn på [her](/venteliste).**
-
-**Hvis du er junior-forælder, kan du se kontaktoplysninger på dit barns ledere og spejderkammerater under "adresseliste" i bunden af siden. Du skal være logget ind med dit medlemsnummer eller e-mail og en adgangskode.**
-
-Velkommen til juniorflokken!
+**Velkommen til juniorflokken!**
 
 Juniorflokken er stedet hvor spejdere i 4.-5. klasse får lidt at rive i og gradvist bliver introduceret til den virkelige verden. Her lærer spejderne om sig selv og deres kammerater, og hvad godt kammeratskab indebærer. Spejderne lærer om deres grænser, får prøvet dem af og rykket dem, så de er bedre rustet til at stå på egne ben.&nbsp;<br /> Vi praktiserer i stort omfang "learning by doing" konceptet, der går ud på, at spejderne lærer ved at prøve kræfter med tingene selv, frem for at blive trukket ved hånden hele vejen.
 
 Medbestemmelse er endnu en hjørnesten i juniorflokkens principper.
 
-Vi er i øjeblikket fire patruljer: Firbenene, Krudtuglerne, Spætterne og Søpølserne.&nbsp;
+Vi er i øjeblikket fire patruljer: Pjuskede Pandaer, Polterprikkede Pingviner, Utrolige Ulve og Bløde Bjørne.&nbsp;
 
 Som juniorspejder,&nbsp;
 
@@ -39,6 +35,8 @@ Som juniorspejder,&nbsp;
 **&nbsp;**
 
 **Juniornes møder**
+
+Vi vægter friluftsliv højt i juniorgrenen, og er derfor næsten altid udendørs til vores møder.
 
 Ca. 2 møder pr halvår har juniorerne mødet til deres egen disposition. Det kalder vi "stjernetidsmøde". De planlægger selv, hvad der skal ske i stjernetiden&nbsp;på mødet før.&nbsp;Stjernetid er et godt eksempel på medbestemmelse under ansvar.&nbsp;
 
@@ -56,7 +54,7 @@ Vi stræber også efter at holde et møde en gang i mellem med patruljeledere og
 
 **Ture**
 
-Sidste store hjørnepille i juniorgrenen er vores ture. Det er her det virkelig går løs, hvor spejderne får den der oplevelse udover det sædvanlige. Her kommer alt det spejderne har lært på møderne til at stå sin test, og man bliver rystet godt sammen i patruljerne. På de store lejre møder man også andre&nbsp;spejdere fra Danmark og udland og skaber (måske) venskaber på tværs af landegrænserne.&nbsp;<br /> &nbsp;
+Sidste store hjørnesten i juniorgrenen er vores ture. Det er her det virkelig går løs, hvor spejderne får den der oplevelse udover det sædvanlige. Her kommer alt det spejderne har lært på møderne til at stå sin prøve, og man bliver rystet godt sammen i patruljerne. På de store lejre møder man også andre&nbsp;spejdere fra Danmark og udland og skaber muligheder for venskaber på tværs af landegrænserne.&nbsp;<br /> &nbsp;
 
 &nbsp;Vi har hvert år en sommerlejr med deltagerbetaling og følgende ture, der er dækket af kontingentet:
 
@@ -74,7 +72,7 @@ Som forælder til et barn i 1. Søborg Juniorflok forventes det, at du:
 
 &nbsp;
 
-Derudover er der mange forældre, der hjælper med at holde grunden og hytterne på forældredagen én gang om året, hjælper til vores loppemarked ca. 3 gange om året, kører til og fra ture eller sidder i vores bestyrelse.
+Derudover er der mange forældre, der hjælper med at kører til og fra ture eller sidder i vores bestyrelse.
 
 Vi håber, at dit barn får en god tid som junior, og at du vil være med til at sørge for at 1. Søborg Juniorflok også fremover kan være rammen om gode oplevelser og personlig udvikling.
 
