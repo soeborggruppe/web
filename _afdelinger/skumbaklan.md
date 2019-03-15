@@ -1,13 +1,13 @@
 ---
 title: Skumbaklan
 slug: skumbaklan
+hero_image: /files/37759050_2201141110105670_2280549757828988928_o.jpg
 age_group: 16-18år
 meeting_time: Hver anden onsdag 19-21
 contact_email: skumba@soeborggruppe.dk
 leaders:
   - Amalia Bønnelykke de Reus
   - Asger Kyhn
-hero_image: /img/skumbaklan.jpg
 files:
   - link: /files/05.10.2016_Vedtaegter.pdf
     name: Vedtægter 05.10.2016
