@@ -16,20 +16,26 @@ files:
     name: Halvårsprogram forår 2019
 address_list_code: 1630
 ---
+<div style="color:rgb(242,116,154);">
 Troppen er delt op i 4 patruljer med ca. 7 spejdere i hver.
 
 Troppen holder til i den store af hytterne og tager regelmæssigt på ture, heriblandt sommerlejr, gruppens juletur, Sverigestur og mange flere.
 
+<div style="color:rgb(143,220,234);">
 Som tropsspejder får spejderne mere ansvar selv. Der vil være ture, hvor tropsspejderne er afsted uden ledere, og selv skal stå for aktiviteter. Med dette prøver vi at styrke spejdernes selvstændighed.
 
-Arbejdet i troppen er i høj grad baseret på "børn leder børn"-princippet.
+<div style="color:rgb(244,188,2);">
 
+Arbejdet i troppen er i høj grad baseret på "børn leder børn"-princippet.
 Troppens målsætning er at lære tropsspejderne at: 
+
+<div style="color:rgb(244,188,226);">
 
 * Tage ansvar 
 * Være selvstændige 
 * Være en del af et fællesskab.
 
+<div style="color:rgb(172,216,188);">
 Vi har hvert år en sommerlejr med deltagerbetaling og følgende ture, der er dækket af kontingentet:
 
 * Adventurespejdløb
