@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bliv blå spejder
 permalink: blivspejder
+title: Bliv blå spejder
 ---
 Ønsker du eller dit barn at blive spejder?&nbsp;Det er aldrig for sent at blive spejder, om du er 3, 6, 8, 10, 16 eller 30 år gør ingen forskel.
 
