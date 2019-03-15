@@ -19,26 +19,18 @@ address_list_code: 1627
 ---
 **Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. [I kan se ventelisten og skrive jeres børn på her](https://soeborggruppe.dk/venteliste).**
 
-
-
-_Hvis du er mikro-forælder kan du se kontaktoplysninger på dit barns ledere og spejderkammerater under "adresseliste" i højre side. Du skal være logget ind med dit medlemsnummer eller e-mail og en adgangskode._
-
-
+__
 
 ## Velkommen til Mikroflokken!
 
 Mikrospejderne er spejdere som går i 0-1. klasse, så vi er nogen af de mindste spejdere i 1. Søborg Gruppe. Vi bestræber, at halvdelen af børnene går i 0. klasse og halvdelen går i 1. klasse. Hvert år starter et nyt hold mikroer efter sommerferien, samtidig med at de ældste rykker op i minigrenen.
 
-
-
 ## Lidt generel information om møderne:
 
 * Mikroerne mødes hver torsdag kl 17:00-18:30, hvor vi gennem spas og løjer (og lidt alvor) gennemfører forskellige forløb.
-* Hvis du vil vide, hvad der skal ske på et møde, kan du finde&nbsp;halvårsprogrammet ude til højre.
+* Hvis du vil vide, hvad der skal ske på et møde, kan du finde halvårsprogrammet i bunden af siden.
 * Møderne vil så vidt muligt foregå udendørs, og vi forventer, at børnene er klædt på til årstiden.
-* Det er vigtigt at melde afbud seneste to timer før et møde, hvis dit barn ikke kommer. Du skriver bare en mail/sms til en af lederne.
-
-
+* Hvis dit barn er forhindret i at komme til møderne i en længere periode må du meget gerne oplyse os om det på [vores mail](mailto:mkl@soeborggruppe.dk).
 
 ## Som mikrospejder i 1. Søborg Gruppe får man:
 
@@ -51,22 +43,15 @@ Mikrospejderne er spejdere som går i 0-1. klasse, så vi er nogen af de mindste
 * Ledere, der er skøre i bolden, og altid klar på omgang fangeleg.
 * ... Det mega skægt!
 
-
-
 **Vi har hvert år en sommerlejr med deltagerbetaling. Følgende ture er dækket via kontingentet:**
 
-* Forårsdag (Marts)
 * Hyttetur (September)
 * Juletur (December)
 
 Information om turene finder du i kalenderen på vores hjemmeside. Vi informerer selvfølgelig også om turene via mail og på møderne. For at tilmelde sig en tur skal du logge ind med dit medlemsnummer eller e-mail. Betaling forgår elektronisk.
 
-
-
-Har du nogle spørgsmål, så send en mail til os – Vi svare så hurtig som muligt!
+Har du nogle spørgsmål, så send en mail til os på mkl@soeborggruppe.dk – Vi svare så hurtig som muligt!
 
 Vi glæder os til at få afholdt nogle fede møder og ture sammen med dit barn fremover!
-
-
 
 Spejderhilsen fra Mikroledelsen
