@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Uniformsvejledning
 permalink: uniform
+title: Uniformsvejledning
 ---
 <img src="/img/uniformsvejledning-main.jpg" alt="En spejderuniform" class="text-width-image"/>
 
 Uniformen er en meget vigtig del af spejderlivet. Vi arbejder, lærer, hygger, fryser og sveder i den året rundt, og derfor er det selvfølgeligt også vigtigt at den ser ordenlig ud og følger de retningslinjer som Det Danske Spejderkorps har sat op.
 
-Vi har lavet en lille guide til hvordan mærker skal sidde på uniformen, for det kan godt være svært at følge med nogle gange (især hvis man er forældre og skal sy lille Lars mærker på). I vores guide skriver vi som om man har uniformen på, så venstre bryst er altså kun venstre hvis man har uniformen på. Hvis den ligger foran en, men fronten imod, så er det selvfølgelig højre side.&nbsp;
+Vi har lavet en lille guide til hvordan mærker skal sidde på uniformen, for det kan godt være svært at følge med nogle gange (især hvis man er forældre og skal sy lille Lars mærker på). I vores guide skriver vi som om man har uniformen på, så venstre bryst er altså kun venstre hvis man har uniformen på. Hvis den ligger foran en, men fronten imod, så er det selvfølgelig højre side.
 
 Kort sagt så er uniformsretningslinjerne: På brystet kan det ses hvor du kommer fra, og på armene er hvad du kan og hvad du har lavet i løbet af din spejder karrierer. Her kommer en lidt mere detaljeret beskrivelse:
 
