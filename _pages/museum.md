@@ -2,7 +2,6 @@
 layout: bigheader
 permalink: museum
 title: Museum
-bigheader_postfix: "s Museum"
 ---
 <section class="side-by-side-section">
     <div class="main-text">
@@ -11,7 +10,7 @@ bigheader_postfix: "s Museum"
             Den blev startet i anledning af gruppens 100 års jubilæum d. 4. oktober 2019.
         </p>
         <p>
-            Gruppen kommer af 1. Søborg Gruppe og Dyssegaard Pigegruppe (tidligere Dyssegaard Trop i Det Danske Pigespejderkorps), <a href="/historie/">der i 1978 blev lagt sammen</a>, og vi forsøger at kortlægge begge gruppers historie før sammenlægningen.
+            Gruppen kommer af 1. Søborg Gruppe og Dyssegaard Pigegruppe (tidligere Dyssegaard Trop i Det Danske Pigespejderkorps), der i 1978 blev lagt sammen, og vi forsøger at kortlægge <a href="/historie/">begge gruppers historie</a> før sammenlægningen.
         </p>
         <p>
             På siden kigger vi tilbage i hvordan gruppen har udviklet sig igennem tiden, og hvordan det var at være spejder i en anden tid.
@@ -39,12 +38,15 @@ bigheader_postfix: "s Museum"
         link="/museum/tidligere-spejder/"
     %}
 
-    {% assign preview_collection=site.gamle_billeder %}
-    {%
-        include collection-preview.html
-        title="Gamle billeder"
-        text="I anledning af 50-års jubilæet i 1969 blev der samlet billeder sammen. Nu har vi digitaliseret samlingen."
-        color="#9AECDB"
-        link="/museum/gamle-billeder/"
-    %}
+```
+{% assign preview_collection=site.gamle_billeder %}
+{%
+    include collection-preview.html
+    title="Gamle billeder"
+    text="I anledning af 50-års jubilæet i 1969 blev der samlet billeder sammen. Nu har vi digitaliseret samlingen."
+    color="#9AECDB"
+    link="/museum/gamle-billeder/"
+%}
+```
+
 </section>
