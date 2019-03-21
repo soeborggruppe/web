@@ -52,10 +52,16 @@ I november 1980 nedlægges troppen hos Søborg Pigegruppe, der havde til huse p�
 
 Gruppen blev grundlagt under Nørrebro Kolonne, Københavns Division. Efter en periode i Brønshøj-Søborg Division var gruppen med til at oprette Søborg Division d. 10. februar 1942. Navnet var lidt misvisende, da divisionen dækkede mere end Søborg. Det er stadig Søborg Divisions rød-grønne divisionstørklæde gruppen benytter. Som led i en reform for at tilpasse divisionerne kommunegrænserne, blev Søborg Division nedlagt og Gladsaxe Division oprettedes 21. august 1967. I forbindelse med korpset nedlæggelse af distrikterne og deraf følgende krav om min. 600 medlemmer i divisionerne blev Gladsaxe Division nedlagt og gruppen kom under Bernstorff Division d. 6. marts 1990, hvor den stadig er.
 
-<aside>
-Er du gammel spejder i gruppen og ligger du inde med effekter vi må få, har du en tilføjelse til overstående eller har du lyst til at komme ned og se hvordan gruppen er i dag, er du meget velkommen til skrive til vores gruppeleder på <a href="mailto:gl@soeborggruppe.dk">gl@soeborggruppe.dk</a>. Vi har et brandsikkert skab med mange gamle dagbøger, medlems-stamkort, uniformsdele, Budstikken-udgaver og lign.
-</aside>
+
 
 # Valgsproget
 
 1. Søborgs valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
+
+
+
+<aside>
+Er du gammel spejder i gruppen og ligger du inde med effekter vi må få, har du en tilføjelse til overstående eller har du lyst til at komme ned og se hvordan gruppen er i dag, er du meget velkommen til skrive til vores gruppeleder på <a href="mailto:gl@soeborggruppe.dk">gl@soeborggruppe.dk</a>. Vi har et brandsikkert skab med mange gamle dagbøger, medlems-stamkort, uniformsdele, Budstikken-udgaver og lign.
+</aside>
+
+#
