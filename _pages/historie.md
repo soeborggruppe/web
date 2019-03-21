@@ -56,7 +56,7 @@ Gruppen blev grundlagt under Nørrebro Kolonne, Københavns Division. Efter en p
 
 # Valgsproget
 
-1. Søborgs valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
+Gruppens valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
 
 
 
