@@ -16,13 +16,14 @@ Troppen splittes d. 22. september 1922, i det der senere blev 1. og 2. Søborg. 
 # De små
 
 1\. Søborg Flok oprettes d. 20. marts 1925 og eksisterede stort set uafbrudt frem til 2001. Spejderne i flokken kaldes ulveunger. I 1960 oprettedes en ekstra flok, Prærieulvene, med samme aldersgruppe (8-12år), og eksisterede det meste af årtiet.I 1970 oprettedes på ny en ekstra flok med samme aldersgruppe, ved navn Elefanterne. Fra 1973 til 1977 var der tre flokke, hvor 1. Søborg flok og Elefanterne var for de 8-10årige og de nye Abepiffer var for de 10-12årige, hvorefter man gik tilbage til kun at have 1. Søborg Flok. Fra 1990 til 1991 var flokken kortvarigt splittet op i en miniflok og en juniorfolk. 
+
 2\. august 2001 splittes 1. Søborg Flok op i de nuværende junior- og mini-flokke, d. 27. februar 2010 oprettes mikroflokken og d. 19. januar 2014 kom familieflokken til.
 
 ![Clan MacLachlan](/historie/klan-maclachlan.gif)
 
 # De store
 
-Der har været en del rover- og senere senior-klaner i gruppen. Mest nævneværdig var Klan MacLachlan, der oprettes i 1959 og tog navn og skotskternet tørklæde efter en skotsk klan, med tilladelse fra  det skotske klanoverhoved. Alle tropsspejdere der rykkede op i Klan MacLachlan, skulle male et personligt våbenskjold og der hænger stadig mange af dem i tropshytten. Klanen holdt store fester kaldet "balboretter" for spejdere fra hele københavnsområdet i Marielyst Skoles aula
+Der har været en del rover- og senere senior-klaner i gruppen. Mest nævneværdig var Klan MacLachlan, der oprettes i 1959 og tog navn og skotskternet tørklæde efter en skotsk klan, med tilladelse fra  det skotske klanoverhoved. Alle tropsspejdere der rykkede op i Klan MacLachlan, skulle male et personligt våbenskjold og der hænger stadig mange af dem i tropshytten. Klanen holdt store fester kaldet "balboretter" for spejdere fra hele Københavnsområdet i Marielyst Skoles aula.
 
 I sidste halvdel af 90'erne var der ingen klaner i 1. Søborg, men i august 2000 stiftedes Klan Fragglerne, der i maj 2004 skifter navn til KleptoKlan. D. 29. oktober 2007 havde PeliKlan stiftende klanting efterfulgt af Vatiklanet d. 1. september 2010 og Skumbklan d. 2. september 2015.
 
@@ -54,10 +55,8 @@ Gruppen blev grundlagt under Nørrebro Kolonne, Københavns Division. Efter en p
 
 # Valgsproget
 
-Gruppens valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap dog fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
+1\. Søborgs valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap dog fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
 
 <aside>
 Er du gammel spejder i gruppen og ligger du inde med effekter vi må få, har du en tilføjelse til overstående eller har du lyst til at komme ned og se hvordan gruppen er i dag, er du meget velkommen til skrive til vores gruppeleder på <a href="mailto:gl@soeborggruppe.dk">gl@soeborggruppe.dk</a>. Vi har et brandsikkert skab med mange gamle dagbøger, medlems-stamkort, uniformsdele, Budstikken-udgaver og lign.
 </aside>
-
-#
