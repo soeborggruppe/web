@@ -15,9 +15,9 @@ Troppen splittes d. 22. september 1922, i det der senere blev 1. og 2. Søborg. 
 
 # De små
 
-1\. Søborg Flok oprettes d. 20. marts 1925 og eksisterede stort set uafbrudt frem til 2001. Spejderne i flokken kaldes ulveunger. I 1960 oprettedes en ekstra flok, Prærieulvene, med samme aldersgruppe (8-12år), og eksisterede det meste af årtiet.I 1970 oprettedes på ny en ekstra flok med samme aldersgruppe, ved navn Elefanterne. Fra 1973 til 1977 var der tre flokke, hvor 1. Søborg flok og Elefanterne var for de 8-10årige og de nye Abepiffer var for de 10-12årige, hvorefter man gik tilbage til kun at have 1. Søborg Flok. Fra 1990 til 1991 var flokken kortvarigt splittet op i en miniflok og en juniorfolk. 
+1. Søborg Flok oprettes d. 20. marts 1925 og eksisterede stort set uafbrudt frem til 2001. Spejderne i flokken kaldes ulveunger. I 1960 oprettedes en ekstra flok, Prærieulvene, med samme aldersgruppe (8-12år), og eksisterede det meste af årtiet.I 1970 oprettedes på ny en ekstra flok med samme aldersgruppe, ved navn Elefanterne. Fra 1973 til 1977 var der tre flokke, hvor 1. Søborg flok og Elefanterne var for de 8-10årige og de nye Abepiffer var for de 10-12årige, hvorefter man gik tilbage til kun at have 1. Søborg Flok. Fra 1990 til 1991 var flokken kortvarigt splittet op i en miniflok og en juniorfolk. 
 
-2\. august 2001 splittes 1. Søborg Flok op i de nuværende junior- og mini-flokke, d. 27. februar 2010 oprettes mikroflokken og d. 19. januar 2014 kom familieflokken til.
+2. august 2001 splittes 1. Søborg Flok op i de nuværende junior- og mini-flokke, d. 27. februar 2010 oprettes mikroflokken og d. 19. januar 2014 kom familieflokken til.
 
 ![Clan MacLachlan](/historie/klan-maclachlan.gif)
 
@@ -31,7 +31,7 @@ I sidste halvdel af 90'erne var der ingen klaner i 1. Søborg, men i august 2000
 
 # Hytterne
 
-Gruppen holdt oprindeligt til i et udhus til huset på Venusvej 2 (det samme hus som står i dag), men flyttede siden til lokaler på Søborg Hovedgade 63A, der hvor Eriks Ure ligger i dag. Det første tropshus blev bygget på Runebergs Alle 20 i 1930. Det blev i 1936 flyttet til Marienborg Alle 31 og i 1953 til Gladsaxevej 177, hvor en pyroman brændte det ned 13. november 1962. Da var man heldigvis allerede igang med at bygge et nyt og den nuværende tropshytte indvies d. 13. januar 1963 på sin nuværende beliggenhed. Adressen var Maglegårds Alle 87A indtil 17. september 1969 hvor den (sammen med den nuværende flokhytte) skiftede til Maglestien 9-11.
+Gruppen holdt oprindeligt til i et udhus til huset på Venusvej 2 (det samme hus som står i dag), men flyttede siden til lokaler på Søborg Hovedgade 63A, der hvor Eriks Ure ligger i dag. Det første tropshus blev bygget på Runebergs Alle 20 i 1930. Det blev i 1936 flyttet til Marienborg Alle 31 og i 1953 til Gladsaxevej 177 (idag en benzintank med adresse Skolesvinget 2), hvor en pyroman brændte det ned 13. november 1962. Da var man heldigvis allerede igang med at bygge et nyt og den nuværende tropshytte indvies d. 13. januar 1963 på sin nuværende beliggenhed. Adressen var Maglegårds Alle 87A indtil 17. september 1969 hvor den (sammen med den nuværende flokhytte) skiftede til Maglestien 9-11.
 
 Flokhytten blev bygget af Dyssegaard Trop og Flok – Det Danske Pigespejderkorps og indviet 20. juni 1965 (tegningen herover er dens originale udseende).
 
@@ -55,7 +55,7 @@ Gruppen blev grundlagt under Nørrebro Kolonne, Københavns Division. Efter en p
 
 # Valgsproget
 
-1\. Søborgs valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap dog fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
+1. Søborgs valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap dog fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
 
 <aside>
 Er du gammel spejder i gruppen og ligger du inde med effekter vi må få, har du en tilføjelse til overstående eller har du lyst til at komme ned og se hvordan gruppen er i dag, er du meget velkommen til skrive til vores gruppeleder på <a href="mailto:gl@soeborggruppe.dk">gl@soeborggruppe.dk</a>. Vi har et brandsikkert skab med mange gamle dagbøger, medlems-stamkort, uniformsdele, Budstikken-udgaver og lign.
