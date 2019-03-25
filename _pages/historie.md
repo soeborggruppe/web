@@ -16,7 +16,6 @@ Troppen splittes d. 22. september 1922, i det der senere blev 1. og 2. Søborg. 
 # De små
 
 1. Søborg Flok oprettes d. 20. marts 1925 og eksisterede stort set uafbrudt frem til 2001. Spejderne i flokken kaldes ulveunger. I 1960 oprettedes en ekstra flok, Prærieulvene, med samme aldersgruppe (8-12år), og eksisterede det meste af årtiet.I 1970 oprettedes på ny en ekstra flok med samme aldersgruppe, ved navn Elefanterne. Fra 1973 til 1977 var der tre flokke, hvor 1. Søborg flok og Elefanterne var for de 8-10årige og de nye Abepiffer var for de 10-12årige, hvorefter man gik tilbage til kun at have 1. Søborg Flok. Fra 1990 til 1991 var flokken kortvarigt splittet op i en miniflok og en juniorfolk. 
-
 2. august 2001 splittes 1. Søborg Flok op i de nuværende junior- og mini-flokke, d. 27. februar 2010 oprettes mikroflokken og d. 19. januar 2014 kom familieflokken til.
 
 ![Clan MacLachlan](/historie/klan-maclachlan.gif)
@@ -53,9 +52,11 @@ I november 1980 nedlægges troppen hos Søborg Pigegruppe, der havde til huse p�
 
 Gruppen blev grundlagt under Nørrebro Kolonne, Københavns Division. Efter en periode i Brønshøj-Søborg Division var gruppen med til at oprette Søborg Division d. 10. februar 1942. Navnet var lidt misvisende, da divisionen dækkede mere end Søborg. Det er stadig Søborg Divisions rød-grønne divisionstørklæde gruppen benytter. Som led i en reform for at tilpasse divisionerne kommunegrænserne, blev Søborg Division nedlagt og Gladsaxe Division oprettedes 21. august 1967. I forbindelse med korpset nedlæggelse af distrikterne og deraf følgende krav om min. 600 medlemmer i divisionerne blev Gladsaxe Division nedlagt og gruppen kom under Bernstorff Division d. 6. marts 1990, hvor den stadig er.
 
+![Tropsflaget](/files/flaget-lille.png)
+
 # Valgsproget
 
-1. Søborgs valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap dog fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
+1\. Søborgs valgsprog "Altid kæmpende - Undertiden slagen - Aldrig modløs" er forfattet af Heine Jensen, der var tropsfører fra 1945 til 1952. Heine var modstandsmand under krigen og blev fanget og torteret af Gestapo (fik bl.a. knust sine tænder med en tang). Han slap dog fri og gik under jorden, da Gestapos hovedkvarter i København "Shellhuset" blev bombet.
 
 <aside>
 Er du gammel spejder i gruppen og ligger du inde med effekter vi må få, har du en tilføjelse til overstående eller har du lyst til at komme ned og se hvordan gruppen er i dag, er du meget velkommen til skrive til vores gruppeleder på <a href="mailto:gl@soeborggruppe.dk">gl@soeborggruppe.dk</a>. Vi har et brandsikkert skab med mange gamle dagbøger, medlems-stamkort, uniformsdele, Budstikken-udgaver og lign.
