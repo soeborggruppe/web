@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Førstehjælp til Spejderledere
 permalink: foerstehjaelp
+title: Førstehjælp til Spejderledere
 ---
 I 1. Søborg Gruppe har vi længe haft en målsætning om at alle ledere skal have et gyldigt 12-timers førstehjælpsbevis. Med dette initiativ tager vi målsætningen videre, og forsøger at give spejderledere i Gladsaxe kommune og Bernstorff Division (Det Danske Spejderkorps' division primært for grupper i Gentofte) mulighed for at få samme førstehjælpsfærdigheder.
 
@@ -17,11 +17,11 @@ Hvis initiativet går godt og er populært blandt ledere i Bernstorff og Gladsax
 
 Følgende kurser er planlagt de næste par år. Tryk på et kursus for at gå til tilmeldingssiden.
 
-- [12-timers førstehjælpskursus d. 30.-31. marts 2019](https://medlem.dds.dk/event/id/15027/register)
-- [3-timers genopfriskningskursus d. 2. juni 2019](https://medlem.dds.dk/event/id/15030/register)
+- ~~12-timers førstehjælpskursus d. 30.-31. marts 2019~~ (overstået)
 - [12-timers førstehjælpskursus d. 2.-3. november 2019](https://medlem.dds.dk/event/id/15029/register)
+- 3-timers genopfriskningskursus d. 19. januar 2020
+- 3-timers genopfriskningskursus d. 23. februar 2020
 - 12-timers førstehjælpskursus d. 25.-26. april 2020
-- 3-timers genopfriskningskursus d. 14. juni 2020
 
 &nbsp;
 
