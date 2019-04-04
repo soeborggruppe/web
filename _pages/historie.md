@@ -33,7 +33,7 @@ I sidste halvdel af 90'erne var der ingen klaner i 1. Søborg, men i august 2000
 
 # Hytterne
 
-Gruppen holdt oprindeligt til i et udhus til huset på Venusvej 2 (det samme hus som står i dag), men flyttede siden til lokaler på Søborg Hovedgade 63A, der hvor Eriks Ure ligger i dag. Det første tropshus blev bygget på Runebergs Alle 20 i 1930. Det blev i 1936 flyttet til Marienborg Alle 31 og i 1953 til Gladsaxevej 177 (idag en benzintank med adresse Skolesvinget 2), hvor en pyroman brændte det ned 13. november 1962. Da var man heldigvis allerede igang med at bygge et nyt og den nuværende tropshytte indvies d. 13. januar 1963 på sin nuværende beliggenhed. Adressen var Maglegårds Alle 87A indtil 17. september 1969 hvor den (sammen med den nuværende flokhytte) skiftede til Maglestien 9-11.
+Gruppen holdt oprindeligt til i et udhus til huset på Venusvej 2 (det samme hus som står i dag), men flyttede siden til lokaler på Søborg Hovedgade 63A, der hvor Søborgs Ure og Smykker ligger i dag. Det første tropshus blev bygget på Runebergs Alle 20 i 1930. Det blev i 1936 flyttet til Marienborg Alle 31 og i 1953 til Gladsaxevej 177 (idag en benzintank med adresse Skolesvinget 2), hvor en pyroman brændte det ned 13. november 1962. Da var man heldigvis allerede igang med at bygge et nyt og den nuværende tropshytte indvies d. 13. januar 1963 på sin nuværende beliggenhed. Adressen var Maglegårds Alle 87A indtil 17. september 1969 hvor den (sammen med den nuværende flokhytte) skiftede til Maglestien 9-11.
 
 Flokhytten blev bygget af Dyssegaard Trop og Flok – Det Danske Pigespejderkorps og indviet 20. juni 1965 (tegningen herover er dens originale udseende).
 
