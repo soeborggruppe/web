@@ -496,7 +496,7 @@ hide_default_header: true
 
 <div class="initiatives">
     <div class="initiative">
-        <a href="/kalender/2019-jubilaeum" class="img-link">
+        <a href="/100" class="img-link">
             <img src="/photos/gamle-billeder/Foto 148-resized-600.jpg">
         </a>
         <h1>100 års jubilæum</h1>
@@ -504,7 +504,7 @@ hide_default_header: true
             D. 4. oktober 2019 fylder gruppen 100 år.
             I den anledning har vi startet <a href="/museum">et digitalt museum</a>.
             Hvis du <a href="/museum/tidligere-spejder">tidligere har været spejder i gruppen</a>, vil vi meget gerne høre fra dig, og du er velkommen til vores <a href="/kalender/2019-jubilaeum">åbent hus-arrangement</a> i forbindelse med jubilæet.
-            <a href="/kalender/2019-jubilaeum">Læs mere</a>.
+            <a href="/100">Læs mere</a>.
         </p>
     </div>
     <div class="initiative">
