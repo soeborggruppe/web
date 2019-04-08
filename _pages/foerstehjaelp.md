@@ -19,7 +19,7 @@ Følgende kurser er planlagt de næste par år. Tryk på et kursus for at gå ti
 
 - ~~12-timers førstehjælpskursus d. 30.-31. marts 2019~~ (overstået)
 - [12-timers førstehjælpskursus d. 2.-3. november 2019](https://medlem.dds.dk/event/id/15029/register)
-- 3-timers genopfriskningskursus d. 19. januar 2020
+- [3-timers genopfriskningskursus d. 19. januar 2020](https://medlem.dds.dk/event/id/18982/register)
 - [3-timers genopfriskningskursus d. 23. februar 2020](https://medlem.dds.dk/event/id/18983/register)
 - [12-timers førstehjælpskursus d. 25.-26. april 2020](https://medlem.dds.dk/event/id/19040/register)
 
