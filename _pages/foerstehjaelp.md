@@ -13,15 +13,31 @@ Hvis initiativet går godt og er populært blandt ledere i Bernstorff og Gladsax
 
 &nbsp;
 
-<h4>Kommende kurser</h4>
+#### Kommende kurser
 
 Følgende kurser er planlagt de næste par år. Tryk på et kursus for at gå til tilmeldingssiden.
 
 - ~~12-timers førstehjælpskursus d. 30.-31. marts 2019~~ (overstået)
 - [12-timers førstehjælpskursus d. 2.-3. november 2019](https://medlem.dds.dk/event/id/15029/register)
 - 3-timers genopfriskningskursus d. 19. januar 2020
-- 3-timers genopfriskningskursus d. 23. februar 2020
-- 12-timers førstehjælpskursus d. 25.-26. april 2020
+- [3-timers genopfriskningskursus d. 23. februar 2020](https://medlem.dds.dk/event/id/18983/register)
+- [12-timers førstehjælpskursus d. 25.-26. april 2020](https://medlem.dds.dk/event/id/19040/register)
+
+#### Hvad er forskellen på kurserne?
+
+Et 12-timers førstehjælpskursus kaldes også et kursus i *Udvidet førstehjælp*. Det dækker normal førstehjælp og brug af hjertestarter, og går generelt mere i dybden end f.eks. et førstehjælpskursus i forbindelse med kørekort.
+
+Når man har fået et 12-timers førstehjælpskursus, skal man indenfor 2 år tage et genopfriskningskursus. Det er de 3-timers kurser vi også afholder. Når man har været på et 3-timers genopfriskningskursus er ens førstehjælpsbevis gyldigt 2 år endnu.
+
+Hvis du ikke har et kursus, skal du altså afsted på et 12-timers kursus. Hvis du allerede har et gyldigt 12-timers kursus, men det er ved at løbe ud, er 3-timers genopfriskningskurserne for dig.
+
+#### Hvordan er kursernes indhold?
+
+Begge kurser består af undervisning fra en uddannet førstehjælpsinstruktør (vi samarbejder med Førstehjælp.com), med øvelser til at opbygge forståelse af koncepterne.
+
+Vores 12-timers kurser holder vi over en weekend, hvor vi mødes både lørdag og søndag kl. 9:00, og er færdig igen senest 15:30. Så har man også lidt weekenddag derhjemme.
+
+3-timers kurserne holder vi på en enkelt weekenddag, typisk en søndag. De starter kl. 9:00, og slutter 12:00.
 
 &nbsp;
 
