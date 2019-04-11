@@ -1,8 +1,7 @@
 ---
-title: Om bestyrelsen
-slug: bestyrelsen
+title: Bestyrelsen
 age_group: 15+
-meeting_time: Ca. 5 bestyrelsesmøder, 1 grupperådsmøde &amp; 1 time af et ledergruppemøde
+meeting_time: 'Ca. 5 bestyrelsesmøder, 1 grupperådsmøde &amp; 1 time af et ledergruppemøde'
 contact_email: formand@soeborggruppe.dk
 ---
 **Hvis du er logget ind, kan du se kontaktoplysninger på bestyrelsesmedlemmerne under "Bestyrelsen" i bunden af siden.**
