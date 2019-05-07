@@ -5,22 +5,6 @@ title: Genbrugslopperne
 ---
 <img src="http://i.imgur.com/zluJ2Vn.jpg" style="margin-top: -30px;" width="100%" />
 
-<script type="text/javascript">// <![CDATA[
-var el = document.createElement("div");
-el.innerHTML = '<link rel="stylesheet" type="text/css" href="https://gruppeweb-enhance.netlify.com/genbrugslopperne-style.css">';
-document.head.appendChild(el.firstChild);
-// ]]></![cdata[></script>
-
-<style scoped>
-.progress-bar-container {
-    font-size: 0.8em;
-    box-sizing: border-box;
-    max-width: 500px;
-}
-</style>
-
-<div class="progress-bar-container"><div class="progress-bar"><div class="last-year-mark" style="left: 90%;">54 tkr</div><div class="goal-mark">60 tkr</div><div class="current-mark medium" style="left: 28%;">17 tkr</div><div class="bar medium" style="width: 28%;">&nbsp;</div></div></div>
-
 [KLIK her for at tilmelde dig til GENBRUGSLOPPERNE i 2018/19](https://docs.google.com/spreadsheets/d/1bLdRbyhAGhNQro5s3teNXPcDGAmsg0FMeKhyp31jk5Y/edit?usp=sharing)
 
 <strong>Uden genbrugslopperne fungerer gruppen ikke<br /></strong>Til Genbrugslopperne sælger 1. Søborg Gruppe ting der er indleveret til genbrugsstationen, og overskuddet går til gruppen. Vi står for sortering og tømning af genbrugsstationen, samt klargøring af salgssted og det faktiske salg. Vi plejer at have to omgange Genbrugslopper på et år, én gang hvert halvår.
@@ -31,7 +15,7 @@ Vi vil meget gerne have **dig** som forælder eller tropsspejder med ud til Genb
 
 Når du møder op første gang, gør vi hvad vi kan for at give dig instruktion i hvordan alting foregår. Der er en ansvarlig for hver dag, som kan hjælpe dig i gang, hvis du er i tvivl.
 
-Hvis du gerne vil læse mere nu, kan du se vores præsentation, \[Genbrugslopperne - sådan foregår det](/files/Genbrugslopperne - saadan foregaar det_0.pdf).
+Hvis du gerne vil læse mere nu, kan du se vores præsentation, [Genbrugslopperne - sådan foregår det](/files/Genbrugslopperne%20-%20saadan%20foregaar%20det_0.pdf).
 
 
 
