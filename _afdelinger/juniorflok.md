@@ -1,6 +1,5 @@
 ---
 title: Juniorflokken
-slug: juniorflok
 hero_image: /img/junior.jpg
 age_group: 4. - 5. kl.
 meeting_time: 'Tirsdag 19:00 - 21:00'
@@ -16,9 +15,10 @@ leaders:
 files:
   - link: /files/Halvaarsprogram - foraar 2019 - Spejderversion.pdf
     name: Halvårsprogram forår 2019
+  - link: /files/halvårsprogram-efterår-2019.pdf
+    name: Halvårsprogram efterår 2019
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
-address_list_code: 1629
 ---
 **Velkommen til juniorflokken!**
 
