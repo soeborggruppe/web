@@ -12,6 +12,7 @@ leaders:
   - Christian Andersen
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
+  - Eskild Kier Bloksgaard
 files:
   - link: /files/Halvaarsprogram - foraar 2019 - Spejderversion.pdf
     name: Halvårsprogram forår 2019
