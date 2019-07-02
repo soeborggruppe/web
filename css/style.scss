@@ -588,6 +588,10 @@ aside:before {
     margin: 5px 0;
     box-sizing: border-box;
 
+    img {
+        max-width: 100%;
+    }
+
     h1 {
         font-family: 'Krub', sans-serif;
 
