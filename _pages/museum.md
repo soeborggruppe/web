@@ -38,15 +38,12 @@ title: Museum
         link="/museum/tidligere-spejder/"
     %}
 
-```
-{% assign preview_collection=site.gamle_billeder %}
-{%
-    include collection-preview.html
-    title="Gamle billeder"
-    text="I anledning af 50-års jubilæet i 1969 blev der samlet billeder sammen. Nu har vi digitaliseret samlingen."
-    color="#9AECDB"
-    link="/museum/gamle-billeder/"
-%}
-```
-
+    {% assign preview_collection=site.gamle_billeder %}
+    {%
+        include collection-preview.html
+        title="Gamle billeder"
+        text="I anledning af 50-års jubilæet i 1969 blev der samlet billeder sammen. Nu har vi digitaliseret samlingen."
+        color="#9AECDB"
+        link="/museum/gamle-billeder/"
+    %}
 </section>
