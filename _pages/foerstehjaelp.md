@@ -33,7 +33,7 @@ Hvis du ikke har et kursus, skal du altså afsted på et 12-timers kursus. Hvis 
 
 #### Hvordan er kursernes indhold?
 
-Begge kurser består af undervisning fra en uddannet førstehjælpsinstruktør (vi samarbejder med Førstehjælp.com), med øvelser til at opbygge forståelse af koncepterne.
+Begge kurser består af undervisning fra en uddannet førstehjælpsinstruktør (vi samarbejder med [Førstehjælp.com](https://foerstehjaelp.com/)), med øvelser til at opbygge forståelse af koncepterne.
 
 Vores 12-timers kurser holder vi over en weekend, hvor vi mødes både lørdag og søndag kl. 9:00, og er færdig igen senest 15:30. Så har man også lidt weekenddag derhjemme.
 
