@@ -39,7 +39,7 @@ Vores 12-timers kurser holder vi over en weekend, hvor vi mødes både lørdag o
 
 3-timers kurserne holder vi på en enkelt weekenddag, typisk en søndag. De starter kl. 9:00, og slutter 12:00.
 
-Om et af vores allerede afholdte førstehjælpskurser skrev Anders Theilgaard Madsen, Gruppeleder i Bagsværd Gruppe i DDS, at det var "meget påskønnet af vores 2 deltagende ledere, også og særligt fordi det var delvist målrettet typiske spejder-uheld [...] Jeg synes det er fornem spejder-gestus fra 1. Søborg at I har taget dette initiativ, som kommer alle uniformerede ledere i området til gode."
+Om et af vores allerede afholdte førstehjælpskurser skrev Anders Theilgaard Madsen, Gruppeleder i Bagsværd Gruppe i DDS, at det var "meget påskønnet af vores 2 deltagende ledere, også  ærligt fordi det var delvist målrettet typiske spejder-uheld [...] Jeg synes det er fornem spejder-gestus fra 1. Søborg at I har taget dette initiativ, som kommer alle uniformerede ledere i området til gode."
 
 <p style="background: #f0f0f0; padding: 5px;"><img src="https://i.imgur.com/x2IoRPM.jpg" style="object-fit: cover; width: 40%; height: 300px;" /><img src="https://i.imgur.com/7bi3yIt.jpg" style="object-fit: cover; width: 60%; height: 300px;" /><br />Fotos af Rebecca Salomonsen. © 1. Søborg Gruppe 2018.<br />Billeder fra 1. Søborg Gruppes 12-timers førstehjælpskurser i februar 2018. Kontakt gl [at] soeborggruppe [dot] dk for mulighed for brug i andre medier.</p>
 
