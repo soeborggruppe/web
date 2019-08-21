@@ -27,7 +27,10 @@ Det skal selvfølgelig fejres på bedste Søborg manér, og derfor afholder vi i
 Der vil i løbet af dagen blive rig mulighed for at gå på opdagelse i gamle billeder, dagbøger og artefakter, møde nye og gamle spejderkammerater, prøve kræfter med diverse spejderaktiviteter, samt være taler fra gruppelederne og Gladsaxes borgmester.
 
 
-Der vil blive offentliggjort et program når vi nærmer os dagen.
+I løbet af dagen vil der være mulighed for at købe frokost, øl, vin og sodavand. Om aftenen vil der være [3-retters menu](https://medlem.dds.dk/event/id/21701/register), som dog kræver [tilmelding på forhånd](https://medlem.dds.dk/event/id/21701/register).
+
+
+Der vil blive offentliggjort et komplet program når vi nærmer os dagen.
 
 
 Alle tidligere og nuværende medlemmer, venner, familie, øvrige spejder, lokalsamfundet og andre interesserede er velkomne til at deltage i fejringen.
