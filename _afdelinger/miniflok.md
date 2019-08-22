@@ -1,6 +1,5 @@
 ---
 title: Miniflokken
-slug: miniflok
 hero_image: /img/mini.jpg
 age_group: 2. - 3. klasse
 meeting_time: 'Torsdag 18:30 - 20:00'
@@ -13,9 +12,8 @@ leaders:
   - Amalia Bønnelykke de Reus
   - Christian Støvelbæk
 files:
-  - link: /files/mini-halvårsprogram-2019-1-halvår.pdf
-    name: Halvårsprogram 2019 Forår
-address_list_code: 1628
+  - link: /files/mini-halvårsprogram-2019-2-halvår.pdf
+    name: Halvårsprogram - Efterår 2019
 ---
 **_Vi har i øjeblikket så mange børn, der gerne vil være minier at der er venteliste. I kan se ventelisten og skrive jeres børn på&nbsp;[her](/venteliste)._**
 
