@@ -2,17 +2,16 @@
 title: Familieflok
 slug: familie
 age_group: 3-6 år
-meeting_time: 10:00-12:00, hveranden søndag (lige uger)
+meeting_time: 10:00-12:00, hver anden søndag (ulige uger)
 contact_email: fml@soeborggruppe.dk
 leaders:
-  - Therese Monrad
-  - Torbjørn Tvermosegaard
   - Christiane Gam
+  - Torbjørn Tvermosegaard
   - Troels Frøhlke Nielsen
 hero_image: /img/familieflok.jpg
 files:
-  - link: /files/1. Halvaarsprogram 2019.docx
-    name: 1. Halvårsprogram 2019
+  - link: /files/FML_halvårsprogram 2019-2.docx
+    name: Halvårsprogram efterår 2019
   - link: /files/Hjaelp til planlaegning familiespejder.docx
     name: Hjælp til planlægning, familiespejder
   - link: /files/Familiespejderfotos.jpg
