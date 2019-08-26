@@ -9,4 +9,6 @@ Vi bruger kun billeder til at vise hvor fedt det er at gå til spejder, og du ka
 
 Du kan læse om hvordan vi behandler medlemmers data (inklusiv billeder) i [vores databehandlingspolitik](/gdpr).
 
+Vi har prøvet at gøre vores [kontingent](/kontingent) let at forstå, men du er velkommen til at [skrive til gruppeledelsen](mailto:gl@soeborggruppe.dk), hvis du har spørgsmål.
+
 Meld dig ind, efter aftale med afdelingslederne i den afdeling du eller dit barn starter i, i [indmeldingsformularen](https://medlem.dds.dk/member/signup/1715).
