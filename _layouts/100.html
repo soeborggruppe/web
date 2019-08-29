@@ -1,0 +1,87 @@
+---
+layout: default
+---
+<style type="text/css">
+    body {
+        background: #d4cdb6;
+    }
+    .jub-header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 100px 5px 30px;
+        position: relative;
+    }
+    .jub-header .jub-header-hero {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        object-fit: cover;
+        opacity: 0.35;
+        z-index: -1;
+        object-position: bottom;
+        height: 1200px;
+    }
+    .jub-header:after {
+        content: '';
+        width: 100%;
+        position: absolute;
+        top: 1000px;
+        right: 0;
+        left: 0;
+        height: 200px;
+        z-index: -1;
+        box-shadow: 0 -100px 90px #d4cdb6 inset;
+    }
+    .jub-header .jub-header-logo {
+        width: 300px;
+        max-width: 100%;
+        margin-bottom: 50px;
+        object-fit: contain;
+        object-position: bottom;
+    }
+    .jub-header h1 {
+        font-size: 3.2em;
+        transform: translateY(-66px);
+    }
+
+    .white-box {
+        padding: 15px;
+        background: white;
+        box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+        box-sizing: border-box;
+    }
+    .centering {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    .jub-more {
+        background: #003366;
+        color: white;
+        text-decoration: none;
+        font-size: 1.2em;
+        font-family: 'Krub', sans-serif;
+        font-weight: 200;
+        transition: background-color 0.2s;
+        padding: 25px;
+        margin: 40px;
+        display: block;
+    }
+    .jub-more:hover {
+        background: #0a4a8a;
+    }
+</style>
+<div class="jub-header">
+    <img class="jub-header-hero" src="/photos/photo%20(13)-resized-600.jpg" alt="Sort-hvid billede af spejdere i march">
+    <img class="jub-header-logo" src="/img/100.png" alt="1. Søborg Gruppes 100 års jubilæumslogo">
+    <h1>100 års jubilæum</h1>
+</div>
+
+{{ content }}
