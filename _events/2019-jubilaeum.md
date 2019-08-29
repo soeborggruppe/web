@@ -26,11 +26,37 @@ Det skal selvfølgelig fejres på bedste Søborg manér, og derfor afholder vi i
 
 Der vil i løbet af dagen blive rig mulighed for at gå på opdagelse i gamle billeder, dagbøger og artefakter, møde nye og gamle spejderkammerater, prøve kræfter med diverse spejderaktiviteter, samt være taler fra gruppelederne og Gladsaxes borgmester.
 
+I løbet af dagen vil der være mulighed for at købe frokost, øl, vin og sodavand. Om aftenen (kl. 19:00-21:00) vil der være [jubilæumsbanket til 150 kr](https://medlem.dds.dk/event/id/21701/register).
 
-I løbet af dagen vil der være mulighed for at købe frokost, øl, vin og sodavand. Om aftenen (kl. 19:00-21:00) vil der være [jubilæumsbanket](https://medlem.dds.dk/event/id/21701/register), som dog kræver [tilmelding på forhånd](https://medlem.dds.dk/event/id/21701/register).
+Find mere information om dagen her:
 
-
-Der vil blive offentliggjort et komplet program når vi nærmer os dagen.
-
+<style type="text/css">
+.jub-intro-links {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    width: 100%;
+}
+.jub-intro-links a {
+    background: #003366;
+    padding: 15px;
+    color: white;
+    font-family: 'Krub', sans-serif;
+    font-weight: 200;
+    margin: 5px 10px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+.jub-intro-links a:hover {
+    background: #0a4a8a;
+}
+</style>
+<div class="jub-intro-links">
+    <a href="/100/program">Se program for Åbent Hus</a>
+    <a href="/100/aktiviteter">Se aktiviteter til Åbent Hus</a>
+    <a href="https://medlem.dds.dk/event/id/21701/register" target="_blank" rel="noopener">Tilmeld jubilæumsbanket</a>
+</div>
 
 Alle tidligere og nuværende medlemmer, venner, familie, øvrige spejder, lokalsamfundet og andre interesserede er velkomne til at deltage i fejringen.
+
+Arrangementet udføres med støtte fra [DUFs Lokalforeningspulje](https://duf.dk/tilskud-og-puljer/dufs-lokalforeningspulje/) og [Nordea-fonden](https://nordeafonden.dk/).
