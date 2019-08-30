@@ -3,6 +3,7 @@ title: Arbejdsweekend
 date_year: '2019'
 date_start: '2019-09-28T10:00:00'
 date_end: '2019-09-29T17:00:00'
+signup_link: 'https://medlem.dds.dk/event/id/21921/register'
 ---
 Nu [fylder gruppen snart 100 år](/100), så vi holder en arbejdsweekend for at få hytterne i top lækker stand, inden vi [inviterer Gud og hvermand til åbent hus](/kalender/2019-jubilaeum/).
 
