@@ -1,8 +1,8 @@
 ---
 title: Grendag Mini/Junior
 date_year: '2019'
-date_start: '2019-09-06T10:00:00'
-date_end: '2019-09-06T14:45:00'
+date_start: '2019-09-21T10:00:00'
+date_end: '2019-09-21T14:45:00'
 signup_link: 'https://medlem.dds.dk/event/id/22063/register'
 ---
 Grendagen er et årligt arrangement for mini- og juniorspejderne i Bernstorff division.
