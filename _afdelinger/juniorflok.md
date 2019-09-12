@@ -14,8 +14,6 @@ leaders:
   - Maria Lundgren Jacobsen
   - Eskild Kier Bloksgaard
 files:
-  - link: /files/Halvaarsprogram - foraar 2019 - Spejderversion.pdf
-    name: Halvårsprogram forår 2019
   - link: /files/halvårsprogram-efterår-2019.pdf
     name: Halvårsprogram efterår 2019
   - link: /files/Pakkeliste_2.pdf
