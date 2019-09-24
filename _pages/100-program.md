@@ -63,7 +63,7 @@ title: Program for 100 års jubilæum
                 <li>14:00-15:00: Reunion for gamle spejdere. I slutningen af aktivitetsperioden har vi sat et særligt tidspunkt af for tidligere spejdere i gruppen. Kom forbi i dette tidsrum og find dine gamle spejderkammerater!</li>
                 <li>15:00-17:00: Taler og kagebord. Diverse spejdere i gruppen, formanden og borgmesteren af Gladsaxe holder taler i anledning af jubilæet.</li>
                 <li>19:00-21:00: Jubilæumsbanket. <a href="https://medlem.dds.dk/event/id/21701/register" target="_blank" rel="noopener">Et aftensmåltid i godt selskab til 150 kr.</a> Banketten kræver forhåndstilmelding.</li>
-                <li>21:00-01:00: Live-musik og fest.</li>
+                <li>21:00-01:00: Live-musik ved <a href="https://www.facebook.com/thebandnightlife" target="_blank" rel="noopener">cover-bandet NightLife</a> og fest.</li>
             </ul>
         </p>
         <p>
