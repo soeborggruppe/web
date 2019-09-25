@@ -42,7 +42,7 @@ title: Program for 100 års jubilæum
 </style>
 <div class="jub-program">
     <a href="/img/100-plakat.jpg" class="jub-program-image" target="_blank">
-        <img src="/img/100-plakat.jpg">
+        <img src="/img/100-plakat.jpg" alt="plakat med reklame for arrangementet, programmet fremgår også andetsteds på siden her">
     </a>
     <div class="jub-program-description white-box">
         <p>
