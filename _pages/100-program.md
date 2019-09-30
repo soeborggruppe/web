@@ -50,6 +50,10 @@ title: Program for 100 års jubilæum
             Alle disse ting kan vi byde på til <a href="/kalender/2019-jubilaeum">1. Søborgs åbent hus</a> i anledning af gruppens 100 års jubilæum.
         </p>
         <p>
+            Hele dagen fra 10:00 til 18:45 er du velkommen til at komme forbi til Åbent Hus, gå på rundtur i vores museum, og snakke med tidligere og nuværnede spejdere.
+            Derudover er der nogle andre ting programlagt i løbet af dagen.
+        </p>
+        <p>
             Derudvoer er det en unik anledning til at møde tidligere spejderkammerater, se hvordan en spejdergruppe kan udvikle og ændre sig over tid &ndash; eller måske bare få en lille smag for hvad en spejdergruppe er for en størrelse.
         </p>
         <p>
@@ -59,6 +63,7 @@ title: Program for 100 års jubilæum
             Programmet for dagen tager sig ud som følger:
             <ul>
                 <li>10:00-15:00: Aktiviteter samt mad & drikke. <a href="/100/aktiviteter">Deltag i vilde spejderaktiviteter</a> og få et mærke. Det er også muligt at købe frokost, vand og øl.</li>
+                <li>13:30-14:00: Oplæg i museet: Bent Grølsted fortæller om sin tid som spejdertid i 40'erne og 50'erne.</li>
                 <li>14:00-15:00: Reunion for gamle spejdere. I slutningen af aktivitetsperioden har vi sat et særligt tidspunkt af for tidligere spejdere i gruppen. Kom forbi i dette tidsrum og find dine gamle spejderkammerater!</li>
                 <li>15:00-17:00: Taler og kagebord. Diverse spejdere i gruppen, formanden og borgmesteren af Gladsaxe holder taler i anledning af jubilæet.</li>
                 <li>19:00-21:00: Jubilæumsbanket. <a href="https://medlem.dds.dk/event/id/21701/register" target="_blank" rel="noopener">Et aftensmåltid i godt selskab til 150 kr.</a> Banketten kræver forhåndstilmelding.</li>
