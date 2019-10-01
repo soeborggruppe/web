@@ -54,7 +54,6 @@ Find mere information om dagen her:
 <div class="jub-intro-links">
     <a href="/100/program">Se program for Åbent Hus</a>
     <a href="/100/aktiviteter">Se aktiviteter til Åbent Hus</a>
-    <a href="https://medlem.dds.dk/event/id/21701/register" target="_blank" rel="noopener">Tilmeld jubilæumsbanket</a>
 </div>
 
 Alle tidligere og nuværende medlemmer, venner, familie, øvrige spejder, lokalsamfundet og andre interesserede er velkomne til at deltage i fejringen.

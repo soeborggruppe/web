@@ -57,7 +57,7 @@ title: Program for 100 års jubilæum
             Derudvoer er det en unik anledning til at møde tidligere spejderkammerater, se hvordan en spejdergruppe kan udvikle og ændre sig over tid &ndash; eller måske bare få en lille smag for hvad en spejdergruppe er for en størrelse.
         </p>
         <p>
-            Du er velkommen til at komme forbi hele dagen fra 10:00. Der er programlagt nogle aktiviteter i løbet af dagen, og aftenen byder først på jubilæumsbanket (<a href="https://medlem.dds.dk/event/id/21701/register" target="_blank" rel="noopener">kræver tilmelding</a>) og så fest med live-musik.
+            Du er velkommen til at komme forbi hele dagen fra 10:00. Der er programlagt nogle aktiviteter i løbet af dagen, og aftenen byder først på jubilæumsbanket (tilmelding lukket) og så fest med live-musik.
         </p>
         <p>
             Programmet for dagen tager sig ud som følger:
