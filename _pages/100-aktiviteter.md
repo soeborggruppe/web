@@ -23,7 +23,7 @@ title: Aktiviteter til åbent hus -  100 års jubilæum
         width: 100%;
         max-width: 600px;
     }
-    .jub-activities-description ol {
+    .jub-activities-description ol, .jub-activities-description ul {
         padding-left: 20px;
     }
 
@@ -55,19 +55,15 @@ title: Aktiviteter til åbent hus -  100 års jubilæum
         </p>
         <p>
             I baren (inde bag hytten) kan du få et klippekort med 5 aktiviteter.
-            Når du har lavet de 5 (som er nr. 1, 3, 4, 5 og 6 på kortet) får du helt gratis et spejdermærke til minde om jubilæumsdagen (værdi 25 kr).
+            Når du har lavet de 5 (som er nr. 1-5 på kortet) får du helt gratis et spejdermærke til minde om jubilæumsdagen (værdi 25 kr).
+            <strong>Desværre er mærkerne blevet taget i tolden på vej til os, så vi kan ikke udlevere dem på dagen. Du kan stadig klare aktiviteterne, og så eftersender vi mærket.</strong>
             En aktivitet tager mellem 10 og 45 minutter og posterne er åbne mellem 10:00 og 15:00.
         </p>
         <p>
-            Her er de aktiviteter vi byder på:
+            Her er de aktiviteter vi byder på, som til sammen giver adgang til et mærke:
             <ol>
                 <li>
                     <strong>Lagkagepost</strong>, hvor der skal bygges lagkage, men hvor man bliver udfordret på hvad man kan bruge af hænder og køkkenudstyr.
-                </li>
-                <li>
-                    <strong>Spejder-memes</strong>, hvor du kan hjælpe os med at designe en t-shirt, ved at finde på en sjov tekst til et gammelt billede.
-                    (<a href="https://da.wikipedia.org/wiki/Internetf%C3%A6nomen" target="_blank" rel="noopener">Memes er sjove billeder på internettet.</a>)
-                    <em>Denne post er ikke adgangsgivende til mærke, men vi vælger en vinder kl. 17, der får en gratis t-shirt.</em>
                 </li>
                 <li>
                     <strong>Læderudsmykning</strong>, hvor du kan lave læderlap med motiv påbrændt, som kan bindes på en cykel eller en taske eller noget andet, du mangler en besked eller et billede på.
@@ -83,6 +79,22 @@ title: Aktiviteter til åbent hus -  100 års jubilæum
                     <strong>Forhindringsbane</strong>, hvor du bliver udfordret på din evne til at komme igennem forhindringer, mens du kan opleve gruppens historie i en tidsmaskine 🤯
                 </li>
             </ol>
+        </p>
+        <p>
+            Derudover har vi to ekstra, valgfri poster:
+            <ul>
+                <li>
+                    <strong>Spejder-memes 👍</strong>, hvor du kan hjælpe os med at designe en t-shirt, ved at finde på en sjov tekst til et gammelt billede.
+                    (<a href="https://da.wikipedia.org/wiki/Internetf%C3%A6nomen" target="_blank" rel="noopener">Memes er sjove billeder på internettet.</a>)
+                    <em>Denne post er ikke adgangsgivende til mærke, men vi vælger en vinder kl. 17, der får en gratis t-shirt.</em>
+                </li>
+                <li>
+                    <strong>Spejderløb om historien</strong>, hvor du kan udforske 1. Søborgs historie på et løb rundt i lokalområdet.
+                    Løbet starter i Museet (tropshytten), hvor du kan finde mere information om hvordan du kommer i gang.
+                    Man kan gå sammen i grupper, og det kræver bare én smartphone (som man kan hente <a href="https://spejderne.dk/projekter/woop/" target="_blank" rel="noopener">Woop-app'en</a> på) pr. gruppe at kunne tage på løbet.
+                    <em>Denne post er ikke adgangsgivende til mærke.</em>
+                </li>
+            </ul>
         </p>
     </div>
 </div>
