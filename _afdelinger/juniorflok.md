@@ -13,6 +13,8 @@ leaders:
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
   - Eskild Kier Bloksgaard
+  - Frida Therkildsen
+  - Maiken Lindner
 files:
   - link: /files/halvårsprogram-efterår-2019.pdf
     name: Halvårsprogram efterår 2019
