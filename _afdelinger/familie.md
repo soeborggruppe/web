@@ -9,7 +9,7 @@ leaders:
   - Torbjørn Tvermosegaard
   - Troels Frøhlke Nielsen
   - Pippi Kejlbo
-  - null
+  - Line Græse Fleron
 files:
   - link: /files/FML_halvårsprogram 2019-2.docx
     name: Halvårsprogram efterår 2019
