@@ -1,22 +1,22 @@
 ---
 title: Familieflok
-slug: familie
+hero_image: /img/familieflok.jpg
 age_group: 3-6 år
-meeting_time: 10:00-12:00, hver anden søndag (ulige uger)
+meeting_time: '10:00-12:00, hver anden søndag (ulige uger)'
 contact_email: fml@soeborggruppe.dk
 leaders:
   - Christiane Gam
   - Torbjørn Tvermosegaard
   - Troels Frøhlke Nielsen
-hero_image: /img/familieflok.jpg
+  - Pippi Kejlbo
+  - Line Græse Fleron
 files:
   - link: /files/FML_halvårsprogram 2019-2.docx
     name: Halvårsprogram efterår 2019
   - link: /files/Hjaelp til planlaegning familiespejder.docx
-    name: Hjælp til planlægning, familiespejder
+    name: 'Hjælp til planlægning, familiespejder'
   - link: /files/Familiespejderfotos.jpg
     name: Familiespejderfotos (2014-2015)
-address_list_code: 1626
 ---
 **Familieflokken er&nbsp;for børn mellem 3 og 6 år, samt deres forældre og eventuelle søskende.**
 
@@ -38,7 +38,7 @@ Af Spejderlovens syv punkter arbejder vi primært med.
 
 **Hvor, hvornår og hvor tit&nbsp;mødes vi**
 
-Vi mødes søndage i lige uger fra kl. 10-12. Som udgangspunkt mødes vi ved vores hytte, men vi har også aktiviteter i blandt andet Utterslev mose og&nbsp;skoven.
+Vi mødes søndage i ulige uger fra kl. 10-12. Som udgangspunkt mødes vi ved vores hytte, men vi har også aktiviteter i blandt andet Utterslev mose og&nbsp;skoven.
 
 **Hvad foregår der på et møde?**
 
