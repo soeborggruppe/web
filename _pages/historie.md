@@ -63,6 +63,12 @@ Gruppen blev grundlagt under Nørrebro Kolonne, Københavns Division. Efter en p
 
 Tropsflaget i tørklædefarverne med lilje og "1. Søborg Trop" på den ene side og valgsproget på den anden blev fremstillet til Morsølejren i 1980. Det flag nuværende er en ny version, men designet er bevaret.
 
+
+# Skjoldene
+
+I tropshytten hænger en række gamle våbenskjold af træ. De stammer fra en gammel tradition i gruppen, hvor en spejder der var blevet ridder (havde taget 12 duelighedstegn og dermed fået ret til at bære riddersnor på uniformen), fik lov at udforme sit eget våbenskjold og få det hængt op i hytten. På et billede fra 1949 kan ses at der også hang skjolde i det gamle tropshus.
+
 <aside>
+----------------------------------------
 Er du gammel spejder i gruppen og ligger du inde med effekter vi må få, har du en tilføjelse til overstående eller har du lyst til at komme ned og se hvordan gruppen er i dag, er du meget velkommen til skrive til vores gruppeleder på <a href="mailto:gl@soeborggruppe.dk">gl@soeborggruppe.dk</a>. Vi har et brandsikkert skab med mange gamle dagbøger, medlems-stamkort, uniformsdele, Budstikken-udgaver og lign.
 </aside>
