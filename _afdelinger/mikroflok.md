@@ -1,6 +1,5 @@
 ---
 title: Mikroflokken
-slug: mikroflok
 hero_image: /img/mikro.jpg
 age_group: 0. - 1. klasse
 meeting_time: 'Torsdag 17:00-18:30'
@@ -13,9 +12,8 @@ leaders:
   - Jonas Toft-Jensen
   - Line Due Buron
 files:
-  - link: /files/mikrospejder-halvårsprogram-2019-1.pdf
+  - link: /files/mikrospejder-halvårsprogram-2019-2.pdf
     name: Halvårsprogram 2019-1
-address_list_code: 1627
 ---
 **Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. [I kan se ventelisten og skrive jeres børn på her](https://soeborggruppe.dk/venteliste).**
 
