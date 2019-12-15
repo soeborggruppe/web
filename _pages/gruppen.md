@@ -15,4 +15,5 @@ Derudover vælger ledergruppen hvert andet år gruppeledere, der står for ledel
 
 * [Ofte stillede spørgsmål](/faq/)
 * [Gruppens samværspolitik](/files/samvaerspolitik2018.pdf)
+* [Gruppens hytter](/hytte)
 * [Gruppens historie](/historie)
