@@ -18,6 +18,8 @@ leaders:
 files:
   - link: /files/halvårsprogram-efterår-2019.pdf
     name: Halvårsprogram efterår 2019
+  - link: /files/halvårsprogram_spejderversion.pdf
+    name: Halvårsprogram forår 2020
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
 ---
