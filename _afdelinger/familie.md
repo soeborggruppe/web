@@ -11,8 +11,8 @@ leaders:
   - Pippi Kejlbo
   - Line Græse Fleron
 files:
-  - link: /files/FML_halvårsprogram 2019-2.docx
-    name: Halvårsprogram efterår 2019
+  - link: /files/FML_halvårsprogram 2020-1.docx
+    name: Halvårsprogram forår 2020
   - link: /files/Hjaelp til planlaegning familiespejder.docx
     name: 'Hjælp til planlægning, familiespejder'
   - link: /files/Familiespejderfotos.jpg
@@ -54,13 +54,9 @@ Som afslutning samles vi og synger farvel-sangen.
 
 Vi har i øjeblikket så mange børn, der gerne vil være familiespejdere, at der er venteliste.&nbsp;[I kan se ventelisten og skrive jeres barn på her](/venteliste).
 
-<strong>Vi tager også på hytteture<br /></strong>Hver år tager familieflokken (børn, søskende og forældre) på en hyttetur i slutningen af juni. På turen hygger vi, laver bål, leger og måske kommer Torben Træben også forbi...
+<strong>Juletur<br /></strong>I november/december&nbsp;tager alle spejderne på juletur. Om&nbsp;søndagen kører forældre og&nbsp;familieflokken op til hytten og deltager i det traditionsrige juletursløb.
 
-Hvert forår tager hele 1. Søborg gruppe på en hyttetur, som Familieflokken står for at planlægge. Det er en hyggelig tur, hvor spejdere og forældre på tværs af grenene laver aktiviteter sammen.
-
-I november/december&nbsp;tager alle spejderne på juletur. Om&nbsp;søndagen kører forældre og&nbsp;familieflokken op til hytten og deltager i det traditionsrige juletursløb.
-
-<strong>Sommerefslutning i juni<br /></strong>Hvert år i begyndelsen af juni holder hele gruppen en fælles sommerafslutning, hvor både spejdere og forældre mødes til fællesspisning ved hytten.
+<strong>Sommerafslutning i juni<br /></strong>Hvert år i begyndelsen af juni holder hele gruppen en fælles sommerafslutning, hvor både spejdere og forældre mødes til fællesspisning ved hytten.
 
 **Adresseliste**
 
