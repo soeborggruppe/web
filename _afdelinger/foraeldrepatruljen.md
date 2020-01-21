@@ -1,14 +1,13 @@
 ---
-title: 'Forældrepatruljen'
-slug: foraeldrepatruljen
-age_group: '-'
-meeting_time: '-'
+title: Gingis Klan
+age_group: Voksne
+meeting_time: En gang om måneden
 contact_email: fp@soeborggruppe.dk
 leaders:
   - Marie Bæk Rose
+  - Morten Skanning
+files: []
 ---
 Forældrepatruljen er under opbygning.
 
 Hvad er forældrepatruljen? Det kan du være med til at beslutte.
-
-Skriv til fp [at] soeborggruppe [dot] dk hvis du er interesseret i at være med.
