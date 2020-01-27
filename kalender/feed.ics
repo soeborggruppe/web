@@ -14,7 +14,7 @@ X-WR-CALNAME: Kalender | 1. Søborg Gruppe
 {% assign time_end_parts = date_end_parts[1] | split: ":" %}
 BEGIN:VEVENT
 SUMMARY:{{ event.title }}
-UID:{{ event.url | replace: '/', '_' }}__2@soeborggruppe.dk
+UID:{{ event.url | replace: '/', '_' }}_{{ site.time | date: "%s" }}@soeborggruppe.dk
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DTSTAMP:20190318T000000Z
