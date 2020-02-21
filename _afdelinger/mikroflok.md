@@ -6,11 +6,8 @@ meeting_time: 'Torsdag 17:00-18:30'
 contact_email: mkl@soeborggruppe.dk
 leaders:
   - Anders Enghøj
-  - Astrid Bloksgaard
-  - Catherine Brett
-  - Iben Helqvist
-  - Jonas Toft-Jensen
-  - Line Due Buron
+  - Anne Therese Monrad
+  - Liva Frandsen-Melau
 files:
   - link: /files/mikrospejder-halvårsprogram-2020-1.pdf
     name: Halvårsprogram 2020-1
