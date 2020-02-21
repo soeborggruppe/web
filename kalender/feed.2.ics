@@ -14,10 +14,10 @@ X-WR-CALNAME: Kalender | 1. Søborg Gruppe
 {% assign time_end_parts = date_end_parts[1] | split: ":" %}
 BEGIN:VEVENT
 SUMMARY:{{ event.title }}
-UID:{{ event.url | replace: '/', '_' }}{{ site.time | date: "%s" }}@soeborggruppe.dk
+UID:{{ event.url | replace: '/', '_' }}_feed2@soeborggruppe.dk
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DTSTAMP:20181130T000000Z
+DTSTAMP:{{ site.time | date: "%Y%m%d" }}T000000Z
 DTSTART;TZID=/Europe/Copenhagen:{{ date_start_parts[0] | replace: '-', '' }}T{{ time_start_parts[0] }}{{ time_start_parts[1] }}00
 DTEND;TZID=/Europe/Copenhagen:{{ date_end_parts[0] | replace: '-', '' }}T{{ time_end_parts[0] }}{{ time_end_parts[1] }}00
 DESCRIPTION:Mere info findes på hjemmesiden: https://soeborggruppe.dk{{ event.url }}
