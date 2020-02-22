@@ -2,7 +2,7 @@
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//soeborggruppe.dk//SpejderApp ICAL//DK
+PRODID:-//soeborggruppe.dk//SpejderApp NONSGML 1.0//DK
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME: Kalender | 1. Søborg Gruppe
@@ -17,7 +17,9 @@ SUMMARY:{{ event.title }}
 UID:{{ event.url | replace: '/', '_' }}@soeborggruppe.dk
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DTSTAMP:{{ site.time | date: "%Y%m%d" }}T000000Z
+CREATED;TZID=/Europe/Copenhagen:20200221T000000Z
+DTSTAMP;TZID=/Europe/Copenhagen:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+LAST-MODIFIED;TZID=/Europe/Copenhagen:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;TZID=/Europe/Copenhagen:{{ date_start_parts[0] | replace: '-', '' }}T{{ time_start_parts[0] }}{{ time_start_parts[1] }}00
 DTEND;TZID=/Europe/Copenhagen:{{ date_end_parts[0] | replace: '-', '' }}T{{ time_end_parts[0] }}{{ time_end_parts[1] }}00
 DESCRIPTION:Mere info findes på hjemmesiden: https://soeborggruppe.dk{{ event.url }}
