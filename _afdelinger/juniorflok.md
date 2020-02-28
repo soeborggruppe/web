@@ -6,18 +6,13 @@ meeting_time: 'Tirsdag 19:00 - 21:00'
 contact_email: jl@soeborggruppe.dk
 leaders:
   - Fabian Lehmann Thune Jacobsen
-  - Kristoffer Harlev Astrup
-  - Stefan Meisner Larsen
-  - Asger Kyhn
-  - Christian Andersen
+  - Frida Therkildsen
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
-  - Eskild Kier Bloksgaard
-  - Frida Therkildsen
   - Maiken Lindner
+  - Christian Andersen
+  - Eskild Kier Bloksgaard
 files:
-  - link: /files/halvårsprogram-efterår-2019.pdf
-    name: Halvårsprogram efterår 2019
   - link: /files/halvårsprogram_spejderversion.pdf
     name: Halvårsprogram forår 2020
   - link: /files/Pakkeliste_2.pdf
