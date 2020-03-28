@@ -65,7 +65,7 @@ async function compressPhotos(paths) {
 
                 if(!compressedImages.length) {
                     console.debug("- No images compressed at", path);
-                    return resolve();
+                    return;
                 }
 
                 let { data } = compressedImages[0];
