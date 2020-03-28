@@ -203,8 +203,6 @@ title: Hjemmespejd
 
         Array.prototype.forEach.call(transcriptionBoxes, function(transcriptionBox) {
             transcriptionBox.addEventListener("click", function(e) {
-                e.preventDefault();
-                console.log("click on", this);
                 this.classList.toggle("transcript-revealed");
             });
         });
