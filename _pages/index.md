@@ -490,6 +490,7 @@ hide_default_header: true
             <a href="https://facebook.com/soeborggruppe" target="_blank" rel="noopener">Facebook</a>
             <a href="https://instagram.com/1.soborggruppe" target="_blank" rel="noopener">Instagram</a>
             <a href="https://medlem.dds.dk/" target="_blank" rel="noopener">Medlemsservice</a>
+            <a href="/hjemmespejd">Hjemmespejd</a>
         </div>
     </div>
 </div>
