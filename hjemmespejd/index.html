@@ -95,16 +95,3 @@ title: Hjemmespejd
     <a href="/hjemmespejd/junior">Juniorspejdere (4.-5. klasse)</a>
     <a href="/hjemmespejd/trop">Tropsspejdere (6.-9. klasse)</a>
 </div>
-<script>
-    (function() {
-        var transcriptionBoxes = document.querySelectorAll(".transcript");
-
-        console.log("tbox", transcriptionBoxes);
-
-        Array.prototype.forEach.call(transcriptionBoxes, function(transcriptionBox) {
-            transcriptionBox.addEventListener("click", function(e) {
-                this.classList.toggle("transcript-revealed");
-            });
-        });
-    })();
-</script>

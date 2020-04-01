@@ -95,6 +95,7 @@ layout: page
         background: #55efc4;
         font-family: 'Krub', sans-serif;
         padding: 15px;
+        z-index: 5;
     }
     .solution a {
         color: #e17055;
@@ -108,7 +109,7 @@ layout: page
         border-bottom-width: 3px;
         padding-bottom: 0px;
     }
-    .solution ol {
+    .solution ol, .solution ul {
         padding-left: 20px;
     }
     .solution li {
@@ -142,3 +143,16 @@ layout: page
     }
 </style>
 {{ content }}
+<script>
+    (function() {
+        var transcriptionBoxes = document.querySelectorAll(".transcript");
+
+        console.log("tbox", transcriptionBoxes);
+
+        Array.prototype.forEach.call(transcriptionBoxes, function(transcriptionBox) {
+            transcriptionBox.addEventListener("click", function(e) {
+                this.classList.toggle("transcript-revealed");
+            });
+        });
+    })();
+</script>
