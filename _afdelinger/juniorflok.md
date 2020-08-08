@@ -13,8 +13,8 @@ leaders:
   - Christian Andersen
   - Eskild Kier Bloksgaard
 files:
-  - link: /files/halvårsprogram_spejderversion.pdf
-    name: Halvårsprogram forår 2020
+  - link: /files/halvårsprogram.pdf
+    name: Halvårsprogram efterår 2020
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
 ---
