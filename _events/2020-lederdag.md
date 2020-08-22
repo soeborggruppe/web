@@ -16,9 +16,9 @@ Som erstatning for den lederweekend vi skulle have holdt i marts, holder vi i st
 ### Lørdag
 
 09:00 Morgenmad i hytten  
-10:00   
+10:00 Hvor står vi nu - efter corona og løbende lederudskiftning  
 12:30 Frokost  
-13:30  
+13:30 Gruppens traditioner - hvordan skal vores fællesskab være med de ledere vi har nu?  
 16:30 Grenenes tid  
 18:30 Aftensmad  
 19:30 Cocktailkursus, derefter hygge  
