@@ -3,6 +3,7 @@ title: Lederdag
 date_year: '2020'
 date_start: '2020-11-28T09:00:00'
 date_end: '2020-11-28T23:59:00'
+signup_link: 'https://medlem.dds.dk/event/id/28495/register'
 ---
 Som erstatning for den lederweekend vi skulle have holdt i marts, holder vi i stedet et dagsarrangement. Arrangementet afholdes i gruppens hytter.
 
