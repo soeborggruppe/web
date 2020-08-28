@@ -12,11 +12,12 @@ leaders:
   - Maiken Lindner
   - Christian Andersen
   - Eskild Kier Bloksgaard
+  - Flemming Hegner
 files:
-  - link: /files/halvårsprogram.pdf
-    name: Halvårsprogram efterår 2020
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
+  - link: /files/halvårsprogram.pdf
+    name: Halvårsprogram efterår 2020
 ---
 **Velkommen til juniorflokken!**
 
