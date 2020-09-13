@@ -5,15 +5,13 @@ age_group: 2. - 3. klasse
 meeting_time: 'Torsdag 18:30 - 20:00'
 contact_email: ml@soeborggruppe.dk
 leaders:
-  - Troels Brandt Partoft
-  - Flemming Hegner
-  - Laurits Svejdal Bertelsen
-  - Agnete Kjelmann Grauslund
   - Amalia Bønnelykke de Reus
+  - Troels Brandt Partoft
   - Christian Støvelbæk
+  - Liva Frandsen-Melau
 files:
-  - link: /files/mini-halvårsprogram-2019-2-halvår.pdf
-    name: Halvårsprogram - Efterår 2019
+  - link: /files/2020-2-halvår.pdf
+    name: Halvårsprogram - Efterår 2020
 ---
 **_Vi har i øjeblikket så mange børn, der gerne vil være minier at der er venteliste. I kan se ventelisten og skrive jeres børn på&nbsp;[her](/venteliste)._**
 
