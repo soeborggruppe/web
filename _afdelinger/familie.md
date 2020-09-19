@@ -7,9 +7,8 @@ contact_email: fml@soeborggruppe.dk
 leaders:
   - Christiane Gam
   - Torbjørn Tvermosegaard
-  - Troels Frøhlke Nielsen
-  - Pippi Kejlbo
   - Line Græse Fleron
+  - Torben Wenneberg
 files:
   - link: /files/FML_halvårsprogram 2020-1.docx
     name: Halvårsprogram forår 2020
