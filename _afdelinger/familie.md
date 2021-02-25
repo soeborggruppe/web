@@ -10,8 +10,8 @@ leaders:
   - Line Græse Fleron
   - Torben Wenneberg
 files:
-  - link: /files/FML_halvårsprogram 2020-1.docx
-    name: Halvårsprogram forår 2020
+  - link: /files/familiespejd_halvårsprogram_2021_1.pdf
+    name: Halvårsprogram forår 2021
   - link: /files/Hjaelp til planlaegning familiespejder.docx
     name: 'Hjælp til planlægning, familiespejder'
   - link: /files/Familiespejderfotos.jpg
