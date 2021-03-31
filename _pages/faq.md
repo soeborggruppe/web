@@ -41,14 +41,6 @@ I kan læse mere om hvordan gruppen er forsikret [her](https://dds.dk/artikel/fo
 
 A: Log ind på hjemmesiden her, og gå ind på dit barns afdelings underside (f.eks. juniorflokkens side). I højre side kan du nu se et link til en Adresseliste (du skal være logget ind) hvor du kan finde telefonnumre, emailadresser, osv.
 
-**Q: Hvad er Genbrugslopperne?**
-
-A: Genbrugslopperne er et tilbud fra kommunen, hvor foreninger kan få lov at afhente ting på genbrugsstationen, og sælge dem videre på et loppemarked. Overskudet fra dette salg går ubeskåret til gruppen, og udgør en af gruppens største indtægtskilder. I 1. søborg er det forældrene der driver genbrugslopperne de 2-3 gange om året, gruppen afholder det.
-
-Kunne du tænke dig at hjælpe til, så kontakt [loppe@soeborggruppe.dk](mailto:loppe@soeborggruppe.dk)
-
-Hvis du vil vide mere kan du besøge genbrugsloppernes hjemmeside [http://www.genbrugslopperne.dk/](http://www.genbrugslopperne.dk/)
-
 **Q: Hvad er et grupperådsmøde?**
 
 A: Grupperådsmødet er gruppens generalforsamling. Det er her de største beslutninger i gruppen kan tages, herunder valg af bestyrelsen. Alle gruppens medlemmer som er fyldt 15, og forældre til børn i gruppen, har stemmeret. 

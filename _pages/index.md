@@ -509,17 +509,6 @@ hide_default_header: true
         </p>
     </div>
     <div class="initiative">
-        <a href="/loppe" class="img-link">
-            <img src="/img/genbrugslopperne.jpg">
-        </a>
-        <h1>Genbrugslopperne</h1>
-        <p>
-            Vi deltager i Gladsaxe Kommunes projekt, Genbrugslopperne, hvor vi hjælper med genbrug i kommunen, og samtidig tjener penge til gruppen.
-            Udover kontingentindtægter er dette den primære indkomstkilde for gruppen.
-            <a href="/loppe">Læs mere</a>.
-        </p>
-    </div>
-    <div class="initiative">
         <a href="/foerstehjaelp" class="img-link">
             <img src="/img/foerstehjaelp.jpg">
         </a>
