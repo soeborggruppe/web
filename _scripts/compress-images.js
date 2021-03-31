@@ -1,5 +1,4 @@
 const jimp = require("jimp");
-const pathLib = require("path");
 const fastGlob = require("fast-glob");
 const imagemin = require("imagemin");
 const imageminMozjpeg = require("imagemin-mozjpeg");
