@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rekruttering
 permalink: rekruttering
+title: Rekruttering
 ---
 <div style="position: fixed; bottom: 0; left: 0; right: 0; background: white; text-align: center; padding: 30px; z-index: 1000; font-size: 28px;"><strong>Interesseret?</strong> <a href="http://soeborggruppe.dk/blivleder">Bliv leder i 1. Søborg.</a></div>
 
@@ -11,11 +11,7 @@ Som leder får man et nært kendskab til nogle fantastiske unger, samt lov til a
 
 <img src="http://i.imgur.com/LQY06.jpg" style="width: 100%;" />
 
-
-
 ## Hvorfor 1. Søborg?
-
-
 
 <img src="http://i.imgur.com/AcNo2.jpg" style="float: right; width: 40%; margin-left: 10px;" />
 
@@ -57,11 +53,7 @@ Du har nok hørt at spejder er for børn og unge, og du har nok også hørt at d
 
 I [Det Danske Spejderkorps](http://dds.dk) tager spejderarbejdet udgangspunkt i [Spejderideen](http://dds.dk/spejderideen). En vigtig del af Spejderideen er Spejder**metoden**, der beskriver **hvordan** vi faciliterer spejdernes udvikling, altså en slags rammer for hvad vi gør. Spejdermetoden består af en række punkter der er beskrevet nedenfor.
 
-
-
 ## Oplevelser
-
-
 
 Oplevelser binder spejderne sammen og giver fælles referencepunkter. Oplevelser er forskellige fra aldersgruppe til aldersgruppe og der er mange forskellige typer oplevelser: Der er både de vilde oplevelser (som riverrafting eller skydiving) og de oplevelser der huskes af andre grunde (som et godt lejrbål eller en tur til et bestemt sted).
 
@@ -71,49 +63,27 @@ I 1. Søborg har vi blandt andet oplevet:
 
 ## Learning by doing
 
-
-
 Til spejder lærer man nye ting ved at prøve det. Man bliver en leder ved at være patruljeleder, man bliver god til at lave bål og binde knob ved at prøve. Og man overskrider sine grænser når man får muligheden og man griber den.
 
-
-
 ## Patruljeliv
-
-
 
 Spejdere arbejder i patruljer, grupper på 5 - 8 personer på samme alder. I en patrulje er der en leder og en eller flere assistenter, der hjælper lederen. Patruljen er et sted hvor spejderne hører til og kan snakke med hinanden, et sted hvor man stoler på hinanden.
 
 Lederens ansvar skifter efter hvilken aldersgruppe man befinder sig i. I de yngre aldersgrupper handler det ofte om at stille ordentligt op og udføre de opgaver man får stillet, men som spejderne bliver ældre handler det mere og mere om selv at finde på ting at lave, planlægge og udføre.
 
-
-
 ## Friluftsliv
-
-
 
 Spejdere er ude i det fri: de lærer at tænde bål og bygge bivuakker. En vigtig del af spejderarbejdet har altid været at være ud og være aktiv. Dette er igen tilpasset aldersgruppen, og varierer fra gåture i naturen (for de yngste) til overlevelsesweekender for de ældre.
 
-
-
 ## Værdier
-
-
 
 Arbejde med værdier handler ikke kun om de værdier man har som spejder men også om de værdier man har som menneske. I spejderloven, som alle spejdere lover at overholde, står der en spejder er en person der gør sit bedste for "at høre andres meninger og danne sine egne". Der er ikke ét rigtigt svar, og at snakke om hvad man synes er vigtigt.
 
-
-
 ## Medbestemmlse og ansvarlighed
-
-
 
 I patruljen er det ikke kun patruljeleder og -assistent der har ansvar. Til spejder får alle spejdere ansvar og lærer at håndtere det - og de er samtidig med til at forme hvad der foregår til spejder. Gennem evalueringer er det muligt for spejderne at få sagt hvad de synes er godt og hvad der kan gøres bedre - det er vigtigt, for det gør spejder bedre og bedre.
 
-
-
 ## Aktiviteter og færdigheder
-
-
 
 Det er vigtigt for spejdere at opbygge færdigheder - både spejderfærdigheder og mere alsidige færdigheder. Derfor er der mulighed for masser af forskellige aktiviteter som spejder.
 
@@ -123,19 +93,10 @@ I 1. Søborg har vi blandt andet afholdt møder om:
 
 ## Samfundsliv
 
-
-
 Efter at have læst alle de foregående punkter kan man ikke være i tvivl om at spejder favner bredt - der er (næsten) ingen grænser for hvad spejder kan indebære.
 
 Udover oplevelser og udvikling lærer spejdere også at engagere sig i samfundet: Stille spørgsmål, undersøge og forstå hvordan verden hænger sammen og hvad der foregår i den lige nu. Det er vigtigt at spejderne får kendskab til samfundet og præsenteret et nuanceret billede af verden.
 
 I 1. Søborg har vi blandt andet behandlet:
 
-<ul><li>Global opvarmning</li><li>Børnesoldater</li><li>Demokrati/Diktatur (styreformer)</li></ul>  <div id="book-navigation-2417" class="book-navigation">
-    <ul class="menu"><li class="leaf first last">[Bliv spejderleder](/blivleder)</li>
-</ul>
-        <div class="page-links clear-block">
-                          [Bliv spejderleder ›](/blivleder)
-          </div>
-    
-  </div>
+<ul><li>Global opvarmning</li><li>Børnesoldater</li><li>Demokrati/Diktatur (styreformer)</li></ul>
