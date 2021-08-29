@@ -5,19 +5,18 @@ age_group: 4. - 5. kl.
 meeting_time: 'Tirsdag 19:00 - 21:00'
 contact_email: jl@soeborggruppe.dk
 leaders:
-  - Fabian Lehmann Thune Jacobsen
-  - Frida Therkildsen
+  - Jonas Toft-Jensen
+  - Asger Kyhn
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
-  - Maiken Lindner
-  - Christian Andersen
-  - Eskild Kier Bloksgaard
+  - Frida Therkelsen
   - Flemming Hegner
+  - Astrid Kier
 files:
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
-  - link: /files/halvårsprogram.pdf
-    name: Halvårsprogram efterår 2020
+  - link: /files/halvårsprogram-for-junior-efterår-2021.pdf
+    name: Halvårsprogram Efterår 2021
 ---
 **Velkommen til juniorflokken!**
 
