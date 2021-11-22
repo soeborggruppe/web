@@ -4,11 +4,9 @@ age_group: 15+
 meeting_time: 'Ca. 5 bestyrelsesmøder, 1 grupperådsmøde &amp; 1 time af et ledergruppemøde'
 contact_email: formand@soeborggruppe.dk
 ---
-**Hvis du er logget ind, kan du se kontaktoplysninger på bestyrelsesmedlemmerne under "Bestyrelsen" i bunden af siden.**
-
 Gruppens bestyrelse består af repræsentanter for lederne, forældrene til medlemmer under 18 år og gruppens medlemmer mellem 15 og 23.&nbsp;Det tilstræbes at alle tre grupper er ligeligt repræsenteret i bestyrelsen.
 
-Det er bestyrelsen der har det daglige ansvar for gruppens økonomi og for at lederne arbejder efter DDS' formål og principper.
+Det er bestyrelsen der har det daglige ansvar for gruppens økonomi og for at lederne arbejder efter DDS' formål og principper. [Læs mere om bestyrelsens arbejde](/ny-i-bestyrelsen).
 
 Der bliver afholdt ca. 5 bestyrelsesmøder om året, enten i en af hytterne, eller hjemme hos et medlem. Møderne er åbne for alle medlemmer over 15 år og alle forældre til medlemmer under 18år, der kan deltage uden stemmeret. Hvis du er interesseret kan du kontakte formanden og få at vide hvornår næste møde er.
 
