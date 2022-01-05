@@ -9,6 +9,8 @@ leaders:
   - Torbjørn Tvermosegaard
   - Line Græse Fleron
   - Torben Wenneberg
+  - Johan Husfeldt
+  - Jesper Roest Hansen
 files:
   - link: /files/familiespejd_halvårsprogram_2021_1.pdf
     name: Halvårsprogram forår 2021
