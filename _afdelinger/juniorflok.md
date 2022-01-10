@@ -9,7 +9,6 @@ leaders:
   - Asger Kyhn
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
-  - Frida Therkildsen
   - Flemming Hegner
   - Astrid Kier
 files:
