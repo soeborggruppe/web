@@ -8,7 +8,9 @@ leaders:
   - Liva Frandsen-Melau
   - Christian Støvelbæk
   - Lucas Hayes
-files: []
+files:
+  - link: /files/miniernes-halvårsprogram-forår-2022-.docx
+    name: Halvårsprogram forår 2022
 ---
 **_Vi har i øjeblikket så mange børn, der gerne vil være minier at der er venteliste. I kan se ventelisten og skrive jeres børn på&nbsp;[her](/venteliste)._**
 
