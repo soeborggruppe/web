@@ -5,14 +5,12 @@ age_group: 6. - 9. klasse
 meeting_time: Tirsdag kl. 19-21
 contact_email: tl@soeborggruppe.dk
 leaders:
-  - Daniel Falster Windelin
-  - Marie Kirstine Bach
+  - Eskild Kier Bloksgaard
   - Laurens Drejer Holgaard
-  - Sif Mejse Christensen
-  - Lars Brandt Partoft
+  - Simon Gustav Cordes
 files:
-  - link: /files/halvårsprogram-forår-2019.pdf
-    name: Halvårsprogram forår 2019
+  - link: /files/halvårsprogram-forår-2022-hjemmeside.docx
+    name: Halvårsprogram forår 2022
 ---
 Troppen er delt op i 4 patruljer med ca. 7 spejdere i hver.
 
