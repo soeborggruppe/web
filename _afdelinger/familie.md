@@ -12,8 +12,6 @@ leaders:
   - Johan Husfeldt
   - Jesper Roest Hansen
 files:
-  - link: /files/familiespejd_halvårsprogram_2021_1.pdf
-    name: Halvårsprogram forår 2021
   - link: /files/familiespejd-progam-1-halvår-2022.pdf
     name: Halvårsprogram forår 2022
 ---
@@ -23,7 +21,12 @@ Gennem leg og aktiviter arbejder vi med Spejderidéen.
 
 Vi skal på møderne først og fremmest have det sjovt ved blandt andet at:
 
-<ul><li>være udenfor året rundt</li><li>tænde bål og lave mad på bål</li><li>udforske naturen ved ture til mosen eller i skoven, hvor vi blandt andet undersøger spændende dyr og insekter,</li><li>bruge kroppen ved at klatre i træer, lave forhindringsbaner og lege</li><li>være sammen med andre børn og forældre der godt kan lide at være udendørs og lave aktiviteter sammen</li></ul>
+* være udenfor året rundt
+* tænde bål og lave mad på bål
+* stifte bekendtskab med klassiske spejderfærdigheder og traditioner
+* udforske naturen ved ture til mosen eller i skoven, hvor vi blandt andet undersøger spændende dyr og insekter
+* bruge kroppen ved at klatre i træer, lave forhindringsbaner og lege
+* være sammen med andre børn og forældre der godt kan lide at være udendørs og lave aktiviteter sammen
 
 **Spejderloven**
 
