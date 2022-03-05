@@ -14,8 +14,8 @@ leaders:
 files:
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
-  - link: /files/halvårsprogram-for-junior-efterår-2021.pdf
-    name: Halvårsprogram Efterår 2021
+  - link: /files/offentligt-program.docx
+    name: Halvårsprogram forår 2022
 ---
 **Velkommen til juniorflokken!**
 
@@ -23,7 +23,7 @@ Juniorflokken er stedet hvor spejdere i 4.-5. klasse får lidt at rive i og grad
 
 Medbestemmelse er endnu en hjørnesten i juniorflokkens principper.
 
-Vi er i øjeblikket fire patruljer: Pjuskede Pandaer, Polterprikkede Pingviner, Utrolige Ulve og Bløde Bjørne.&nbsp;
+Vi er i øjeblikket fire patruljer: Rullende Røde Pandaer, Underlige Ugler, Dansende Dingoer og Kandiserede Krokodiller.&nbsp;
 
 Som juniorspejder,&nbsp;
 
@@ -39,13 +39,7 @@ Ca. 2 møder pr halvår har juniorerne mødet til deres egen disposition. Det ka
 
 Ca. 2 gange pr halvår holder vi et specielt møde kaldet et Hjemmemøde. Det er et møde, spejderne holder i patruljerne hjemme hos et af patruljemedlemmerne. Det giver godt sammenhold i patruljen og er et sjovt afbræk fra de sædvanlige møder.&nbsp;
 
-**&nbsp;**
-
-**Patruljeleder og patruljeassistent**
-
-PL og PA (patruljeleder og patruljeassistent) har mere at lave end bare at melde til og fra. Hos junioerne er de mellemled mellem lederne og de andre spejdere. De får mere ansvar, men skal til gengæld også yde mere.
-
-Vi stræber også efter at holde et møde en gang i mellem med patruljeledere og assistenter. Her taler vi om ledelse, hvordan det går i patruljerne, fremtidige&nbsp;planer og evaluerer afsluttede ture og projekter. Det fremmer samtidig mulighederne for spejdernes kommunikation med lederne og giver dem medbestemmelse over det de laver. Det er et af de særlige privilegier, som følger med tjansen som PL / PA, så her er typisk sodavand og snacks, og en mere indviet tone ledere og spejdere imellem.
+****
 
 &nbsp;
 
@@ -53,9 +47,9 @@ Vi stræber også efter at holde et møde en gang i mellem med patruljeledere og
 
 Sidste store hjørnesten i juniorgrenen er vores ture. Det er her det virkelig går løs, hvor spejderne får den der oplevelse udover det sædvanlige. Her kommer alt det spejderne har lært på møderne til at stå sin prøve, og man bliver rystet godt sammen i patruljerne. På de store lejre møder man også andre&nbsp;spejdere fra Danmark og udland og skaber muligheder for venskaber på tværs af landegrænserne.&nbsp;<br /> &nbsp;
 
-&nbsp;Vi har hvert år en sommerlejr med deltagerbetaling og følgende ture, der er dækket af kontingentet:
+&nbsp;Vi har hvert år en sommerlejr med deltagerbetaling og min. følgende ture:
 
-<ul><li>Familieweekend&nbsp;</li><li>Divisionsturnering</li><li>Efterårsweekend</li><li>Juletur</li></ul>
+<ul><li>Forårsweekend&nbsp;</li><li>Divisionsturnering</li><li>Efterårsweekend</li><li>Juletur</li></ul>
 
 &nbsp;
 
