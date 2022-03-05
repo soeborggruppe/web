@@ -7,6 +7,10 @@ contact_email: mkl@soeborggruppe.dk
 leaders:
   - Anders Enghøj
   - Anne Therese Monrad
+  - Pippi Kejlbo
+  - Troels Graversen
+  - Esben  Habbestad
+  - Julie Orfelt Søgaard
 files:
   - link: /files/mikrospejder-halvårsprogram-2020-1.pdf
     name: Halvårsprogram 2020-1
