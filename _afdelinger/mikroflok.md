@@ -23,6 +23,13 @@ __
 
 Mikrospejderne er spejdere som går i 0-1. klasse, så vi er nogen af de mindste spejdere i 1. Søborg Gruppe. Vi bestræber, at halvdelen af børnene går i 0. klasse og halvdelen går i 1. klasse. Hvert år starter et nyt hold mikroer efter sommerferien, samtidig med at de ældste rykker op i minigrenen.
 
+## Vores værdier
+
+* Gå på mod
+* Udfordringer
+* Learning by Burning
+* Deltagelse
+
 ## Lidt generel information om møderne
 
 * Mikroerne mødes hver torsdag kl. 17:00-18:30, hvor vi gennem spas og løjer (og lidt alvor) gennemfører forskellige forløb.
