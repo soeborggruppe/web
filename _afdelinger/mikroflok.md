@@ -1,6 +1,6 @@
 ---
 title: Mikroflokken
-hero_image: /img/mikro.jpg
+hero_image: /files/mikro-cover.jpg
 age_group: 0. - 1. klasse
 meeting_time: 'Torsdag 17:00-18:30'
 contact_email: mkl@soeborggruppe.dk
