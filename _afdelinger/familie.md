@@ -56,10 +56,18 @@ Som afslutning samles vi og synger farvel-sangen.
 
 Vi har i øjeblikket så mange børn, der gerne vil være familiespejdere, at der er venteliste.&nbsp;[I kan se ventelisten og skrive jeres barn på her](/venteliste).
 
+## Faste ture
+
 <strong>Juletur<br /></strong>I november/december&nbsp;tager alle spejderne på juletur. Om&nbsp;søndagen kører forældre og&nbsp;familieflokken op til hytten og deltager i det traditionsrige juletursløb.
 
 <strong>Sommerafslutning i juni<br /></strong>Hvert år i begyndelsen af juni holder hele gruppen en fælles sommerafslutning, hvor både spejdere og forældre mødes til fællesspisning ved hytten.
 
-**Adresseliste**
+**Superheltetur**\
+I juni måned øver vi at være på tur uden forældre, med en overnatning ved spejderhytten enten indendørs eller i bivuak. På turen skal vi først og fremmest have det sjovt, lege, lave god mad og slutter dagen af med en film og hygge i soveposen. 
+
+**Sommerlejr**\
+Afhængigt af gruppens planer for årets sommerlejr, kan Familieflokken blive inviteret med på en dags aktiviteter og en enkelt overnatning. 
+
+## **Adresseliste**
 
 Hvis du har et barn som indmeldt som familiespejder kan du se kontaktoplysninger på de øvrige familiespejder-familier og ledere&nbsp;under "adresseliste" i højre side.&nbsp;Du&nbsp;skal være logget&nbsp;ind med dit medlemsnummer eller e-mail og en adgangskode.
