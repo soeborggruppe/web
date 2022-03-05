@@ -15,6 +15,7 @@ files:
   - link: /files/familiespejd_halvårsprogram_2021_1.pdf
     name: Halvårsprogram forår 2021
   - link: /files/familiespejd-progam-1-halvår-2022.pdf
+    name: Halvårsprogram forår 2022
 ---
 **Familieflokken er&nbsp;for børn mellem 3 og 6 år, samt deres forældre og eventuelle søskende.**
 
