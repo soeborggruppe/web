@@ -5,15 +5,14 @@ age_group: 3-6 år
 meeting_time: '10:00-12:00, hver anden søndag (ulige uger)'
 contact_email: fml@soeborggruppe.dk
 leaders:
-  - Christiane Gam
   - Torbjørn Tvermosegaard
   - Line Græse Fleron
-  - Torben Wenneberg
   - Johan Husfeldt
   - Jesper Roest Hansen
+  - Mads Thorup
 files:
-  - link: /files/familiespejd-progam-1-halvår-2022.pdf
-    name: Halvårsprogram forår 2022
+  - link: /files/familiespejd-progam-2-halvår-2022.pdf
+    name: Halvårsprogram efterår 2022
 ---
 **Familieflokken er&nbsp;for børn mellem 3 og 6 år, samt deres forældre og eventuelle søskende.**
 
