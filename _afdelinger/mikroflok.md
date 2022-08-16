@@ -11,9 +11,11 @@ leaders:
   - Troels Graversen
   - Esben  Habbestad
   - Julie Orfelt Søgaard
+  - ' Ellen Hasselbalch Jakobsen'
+  - Nicolai Dahl Kjellberg
 files:
-  - link: /files/mikrospejder-halvårsprogram-2020-1.pdf
-    name: Halvårsprogram 2020-1
+  - link: /files/mikrospejder-2022-2.-halvår.pdf
+    name: Halvårsprogram 2022 -2
 ---
 **Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. [I kan se ventelisten og skrive jeres børn på her](https://soeborggruppe.dk/venteliste).**
 
