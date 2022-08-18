@@ -5,11 +5,11 @@ age_group: 0. - 1. klasse
 meeting_time: 'Torsdag 17:00-18:30'
 contact_email: mkl@soeborggruppe.dk
 leaders:
-  - Anders Enghøj
   - Anne Therese Monrad
-  - Pippi Kejlbo
   - Troels Graversen
-  - Esben  Habbestad
+  - Anders Enghøj
+  - Pippi Kejlbo
+  - Espen  Habbestad
   - Julie Orfelt Søgaard
   - ' Ellen Hasselbalch Jakobsen'
   - Nicolai Dahl Kjellberg
