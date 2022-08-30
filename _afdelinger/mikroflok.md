@@ -16,6 +16,8 @@ leaders:
 files:
   - link: /files/mikrospejder-2022-2.-halvår.pdf
     name: Halvårsprogram 2022 -2
+  - link: /files/pakkeliste-til-mikro.pdf
+    name: Pakkeliste
 ---
 **Vi har i øjeblikket så mange børn, der gerne vil være mikroer, at der er en små-lang venteliste. [I kan se ventelisten og skrive jeres børn på her](https://soeborggruppe.dk/venteliste).**
 
