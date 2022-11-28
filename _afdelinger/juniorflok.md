@@ -6,11 +6,10 @@ meeting_time: 'Tirsdag 19:00 - 21:00'
 contact_email: jl@soeborggruppe.dk
 leaders:
   - Jonas Toft-Jensen
-  - Asger Kyhn
+  - Astrid Kier
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
   - Flemming Hegner
-  - Astrid Kier
 files:
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
