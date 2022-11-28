@@ -9,7 +9,6 @@ leaders:
   - Astrid Kier
   - Anne Sophie Sinius-Clausen
   - Maria Lundgren Jacobsen
-  - Flemming Hegner
 files:
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
