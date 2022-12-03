@@ -20,6 +20,6 @@
     "fast-glob": "^2.2.4",
     "imagemin": "^6.0.0",
     "imagemin-mozjpeg": "^8.0.0",
-    "jimp": "^0.6.0"
+    "jimp": "^0.16.2"
   }
 }
