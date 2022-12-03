@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/soeborggruppe/web#readme",
   "dependencies": {
-    "fast-glob": "^2.2.4",
-    "imagemin": "^6.0.0",
+    "fast-glob": "^3.2.12",
+    "imagemin": "^8.0.1",
     "imagemin-mozjpeg": "^8.0.0",
     "jimp": "^0.16.2"
   }
