@@ -9,6 +9,10 @@ leaders:
   - Christian Støvelbæk
   - Lucas Hayes
   - Lisbeth Rosager
+  - Signe Klifoth
+  - Lisbet Schønau
+  - Ane Kofoed
+  - Ditte Kofoed
 files:
   - link: /files/miniernes-halvårsprogram-forår-2022-.docx
     name: Halvårsprogram forår 2022
