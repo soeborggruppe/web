@@ -8,7 +8,6 @@ leaders:
   - Liva Frandsen-Melau
   - Christian Støvelbæk
   - Lucas Hayes
-  - Lisbeth Rosager
   - Signe Klifoth
   - Lisbet Schønau
   - Ane Kofoed
