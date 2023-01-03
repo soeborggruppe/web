@@ -11,8 +11,8 @@ leaders:
   - Jesper Roest Hansen
   - Mads Thorup
 files:
-  - link: /files/familiespejd-progam-2-halvår-2022.pdf
-    name: Halvårsprogram efterår 2022
+  - link: /files/familiespejd-progam-1-halvår-2023.jpg
+    name: Halvårsprogram forår 2023
 ---
 **Familieflokken er&nbsp;for børn mellem 3 og 6 år, samt deres forældre og eventuelle søskende.**
 
@@ -31,19 +31,19 @@ Vi skal på møderne først og fremmest have det sjovt ved blandt andet at:
 
 Af Spejderlovens syv punkter arbejder vi primært med.
 
-<strong>At værne om naturen<br /></strong>Det kan for eksempel være, at vi om vinteren laver fuglefodder. Vi taler med børnene, hvorfor det er vigtigt at fodre småfuglene om vinteren&nbsp;og hvilke fugle, der trækker syd på.
+<strong>At værne om naturen<br /></strong>Det kan for eksempel være, at vi om vinteren laver fuglefoder. Vi taler med børnene, hvorfor det er vigtigt at fodre småfuglene om vinteren&nbsp;og hvilke fugle, der trækker syd på.
 
-**At være en god kammerat**<br />Det at være en god kammerat arbejder vi ved med hvert møde. Det er ikke noget som vi taler om med børnene hver gang, men det er noget som vi som forældre er opmærksomme på.
+**At være en god kammerat**<br />Det at være en god kammerat arbejder vi med ved hvert møde. Det er ikke noget som vi taler om med børnene hver gang, men det er noget som vi som forældre er opmærksomme på.
 
-<strong>At være hensynsfuld og hjælpe andre<br /></strong>Den store aldersspredning vi har på vores familiespejdere betyder at børne naturlig lære at være hensynsfulde og hjælpe hinanden. De større børn hjælper de mindre. Det kan for eksempel være at de helt konkret hjælper hindanden med overtøjet, at finde tusser eller gå med ind i køkkene med sin kop efter brug.
+<strong>At være hensynsfuld og hjælpe andre<br /></strong>Den store aldersspredning vi har på vores familiespejdere betyder at børne naturlig lære at være hensynsfulde og hjælpe hinanden. De større børn hjælper de mindre. Det kan for eksempel være at de helt konkret hjælper hindanden med overtøjet, at finde tudser eller gå med ind i køkkene med sin kop efter brug.
 
 **Hvor, hvornår og hvor tit&nbsp;mødes vi**
 
-Vi mødes søndage i ulige uger fra kl. 10-12. Som udgangspunkt mødes vi ved vores hytte, men vi har også aktiviteter i blandt andet Utterslev mose og&nbsp;skoven.
+Vi mødes søndage i ulige uger fra kl. 10-12. Som udgangspunkt mødes vi ved vores hytte, men vi har også aktiviteter i blandt andet Utterslev Mose og&nbsp;skoven.
 
 **Hvad foregår der på et møde?**
 
-Familieflokken starter altid med en vores møde med at samles og synge familiespejdersangen. Vi hører om dagens program&nbsp;og bliver delt i patruljer (grupper). Forældrene hjælper hinanden og har et fælles ansvar for, at alle børnene er glade og deltager i aktiviteterne.
+Familieflokken starter altid vores møder med at samles og synge familiespejdersangen. Vi hører om dagens program&nbsp;og bliver delt i patruljer (grupper). Forældrene hjælper hinanden og har et fælles ansvar for, at alle børnene er glade og deltager i aktiviteterne.
 
 Ved hvert møde er der som udgangspunkt en forældrestyret aktivitet, en leg og fælles frokost, som laves på bål. Børnene kommer rundt til de forskellige poster i patruljerne. Dette gør at der er tid og plads til at alle børnene.
 
