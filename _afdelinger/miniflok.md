@@ -15,8 +15,6 @@ leaders:
 files:
   - link: /files/halvårsprogram-forår-2023.pdf
     name: Halvårsprogram forår 2023
-  - link: /files/halvårsprogram-forår-2023.pdf
-    name: Halvårsprogram forår 2023
 ---
 _**Vi har i øjeblikket så mange børn, der gerne vil være minier at der er venteliste. I kan se ventelisten og skrive jeres børn på&nbsp;[her](/venteliste).**_
 
