@@ -1,8 +1,8 @@
-const jimp = require("jimp");
-const fastGlob = require("fast-glob");
-const imagemin = require("imagemin");
-const imageminMozjpeg = require("imagemin-mozjpeg");
-const fs = require("fs");
+import jimp from "jimp";
+import fastGlob from "fast-glob";
+import imagemin from "imagemin";
+import iimageminMozjpeg from "imagemin-mozjpeg";
+import fs from "fs";
 
 (async function() {
     await resizeAndCompressImages("photos/**/*.jpg");
