@@ -1,7 +1,7 @@
 import jimp from "jimp";
 import fastGlob from "fast-glob";
 import imagemin from "imagemin";
-import iimageminMozjpeg from "imagemin-mozjpeg";
+import imageminMozjpeg from "imagemin-mozjpeg";
 import fs from "fs";
 
 (async function() {
