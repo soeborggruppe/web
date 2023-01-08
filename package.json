@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/soeborggruppe/web.git"
   },
+  "type": "module",
   "author": "Niels Abildgaard <niels@deranged.dk>",
   "license": "ISC",
   "bugs": {
