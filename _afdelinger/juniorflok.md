@@ -12,8 +12,8 @@ leaders:
 files:
   - link: /files/Pakkeliste_2.pdf
     name: Pakkeliste
-  - link: /files/offentligt-program.docx
-    name: Halvårsprogram forår 2022
+  - link: /files/halvårsprogram-2023-forår.docx
+    name: Halvårsprogram forår 2023
 ---
 **Velkommen til juniorflokken!**
 
