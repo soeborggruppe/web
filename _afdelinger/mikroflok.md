@@ -14,8 +14,8 @@ leaders:
   - ' Ellen Hasselbalch Jakobsen'
   - Nicolai Dahl Kjellberg
 files:
-  - link: /files/mikrospejder-2022-2.-halvår.pdf
-    name: Halvårsprogram 2022 -2
+  - link: /files/halvårsprogram-vinter-forår-2023-1.pdf
+    name: Halvårsprogram 2023 - 1
   - link: /files/pakkeliste-til-mikro.pdf
     name: Pakkeliste
 ---
