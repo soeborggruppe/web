@@ -9,6 +9,7 @@ leaders:
   - Laurens Drejer Holgaard
   - Simon Gustav Cordes
   - Sif Mejse Christensen
+  - Anders Lysgaard Enghøj
 files:
   - link: /files/halvårsprogram-forår-2023.xlsx
     name: Troppens halvårsprogram
