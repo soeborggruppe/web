@@ -10,7 +10,7 @@ leaders:
   - Simon Gustav Cordes
   - Sif Mejse Christensen
 files:
-  - link: /files/halvårsprogram-forår-2022.docx
+  - link: /files/halvårsprogram-forår-2023.xlsx
     name: Troppens halvårsprogram
 ---
 Troppen er delt op i 4 patruljer á ca. 7 spejdere.
