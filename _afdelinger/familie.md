@@ -11,8 +11,8 @@ leaders:
   - Jesper Roest Hansen
   - Mads Thorup
 files:
-  - link: /files/familiespejd-program-1-halvår-2023.jpg
-    name: Halvårsprogram forår 2023
+  - link: /files/Familiespejd-2-halvår-2023.pdf
+    name: Halvårsprogram efterår 2023
 ---
 **Familieflokken er&nbsp;for børn mellem 3 og 6 år, samt deres forældre og eventuelle søskende.**
 
