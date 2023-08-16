@@ -6,16 +6,14 @@ meeting_time: 'Torsdag 17:00-18:30'
 contact_email: mkl@soeborggruppe.dk
 leaders:
   - Anne Therese Monrad
-  - Troels Graversen
-  - Anders Enghøj
-  - Pippi Kejlbo
-  - Espen  Habbestad
+  - Peter Berg
+  - Simon Bjerge Hansen
+  - Martin Wolf Andersen
+  - Mette Thavlov Neukirch
   - Julie Orfelt Søgaard
-  - ' Ellen Hasselbalch Jakobsen'
-  - Nicolai Dahl Kjellberg
 files:
-  - link: /files/halvårsprogram-vinter-forår-2023-1.pdf
-    name: Halvårsprogram 2023 - 1
+  - link: /files/mikrospejder-2023-2.-halvår.docx-1-.pdf
+    name: Halvårsprogram 2023 - 2
   - link: /files/pakkeliste-til-mikro.pdf
     name: Pakkeliste
 ---
