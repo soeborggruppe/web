@@ -12,7 +12,7 @@ leaders:
   - Mette Thavlov Neukirch
   - Julie Orfelt Søgaard
 files:
-  - link: /files/mikrospejder-2023-2.-halvår.docx-1-.pdf
+  - link: /files/mikrospejder-2023-2.-halvår.pdf
     name: Halvårsprogram 2023 - 2
   - link: /files/pakkeliste-til-mikro.pdf
     name: Pakkeliste
